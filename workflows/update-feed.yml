@@ -1,1 +1,37 @@
+name: Update RSS Feed
 
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Každou hodinu (můžeš změnit podle potřeby)
+  push:
+    branches:
+      - main  # Nebo jiná větev, pokud používáš jinou
+
+jobs:
+  update_feed:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 feedgen
+
+    - name: Run the feed generator script
+      run: |
+        python rss.py  # Spustí tvůj Python skript pro generování feedu
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "Your Name"
+        git add feed.xml
+        git commit -m "Automated feed update"
+        git push

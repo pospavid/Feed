@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Aktuality z Bydleni Brno</title>
+    <link>https://bydleni.brno.cz/aktuality/</link>
+    <description>Automaticky generovaný RSS feed – nejnovější články</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>cs</language>
+    <lastBuildDate>Tue, 24 Jun 2025 20:57:35 +0000</lastBuildDate>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-pro-pary-a-bytu-pro-osamele-rodice-s-detmi-dne-3-3-2025/</link>
+      <description>Pozvánka na losování startovacích bytů pro páry a bytu pro osamělé rodiče s dětmi dne 3. 3 .2025</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-pary-a-bytu-pro-osamele-rodice-s-detmi-dne-3-3-2025/</link>
+      <description>Výsledky losování startovacích bytů pro páry a bytu pro osamělé rodiče s dětmi dne 3. 3. 2025</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-pro-jednotlivce-dne-17-3-2025/</link>
+      <description>Pozvánka na losování startovacích bytů pro jednotlivce dne 17. 3. 2025</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-jednotlivce-dne-17-3-2025/</link>
+      <description>Výsledky losování startovacích bytů pro jednotlivce dne 17. 3. 2025</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/nabidka-bytu-pro-osamele-rodice-s-detmi-v-domech-krenova-76-a-bratislavska-51/</link>
+      <description>Nabídka bytů pro osamělé rodiče s dětmi v domech Křenová 76 a Bratislavská 51</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-pary/</link>
+      <description>Nabídka startovacích bytů pro páry</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/dne-5-5-2025-bylo-spusteno-prihlasovani-do-projektu-druzstevni-bydleni-pro-mlade-na-lokalitu-kamenny-vrch-ii/</link>
+      <description>Dne 5. 5. 2025 bylo spuštěno přihlašování do projektu Družstevní bydlení pro mladé na lokalitu KAMENNÝ VRCH II</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-jednotlivce-2/</link>
+      <description>Nabídka startovacích bytů pro jednotlivce</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-pary-2/</link>
+      <description>Červnová nabídka startovacích bytů pro páry</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-pro-pary-dne-23-cervna-2025/</link>
+      <description>Pozvánka na losování startovacích bytů pro páry dne 23. června 2025</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-zadatelu-prihlasenych-do-projektu-druzstevniho-bydleni-pro-mlade-lokalita-kamenny-vrch-ii-ze-dne-19-6-2025/</link>
+      <description>Výsledky losování žadatelů přihlášených do projektu Družstevního bydlení pro mladé, lokalita Kamenný vrch II ze dne 19. 6. 2025</description>
+    </item>
+    <item>
+      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-pary-dne-23-6-2025/</link>
+      <description>Výsledky losování startovacích bytů pro páry dne 23. 6. 2025</description>
+    </item>
+  </channel>
+</rss>

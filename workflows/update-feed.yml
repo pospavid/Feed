@@ -2,10 +2,10 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Každou hodinu (můžeš změnit podle potřeby)
+    - cron: '0 8 * * *' 
   push:
     branches:
-      - main  # Nebo jiná větev, pokud používáš jinou
+      - main 
 
 jobs:
   update_feed:
@@ -13,10 +13,10 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
@@ -26,7 +26,7 @@ jobs:
 
     - name: Run the feed generator script
       run: |
-        python rss.py  # Spustí tvůj Python skript pro generování feedu
+        python rss.py
 
     - name: Commit and push changes
       run: |

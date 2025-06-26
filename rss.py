@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from urllib.parse import urljoin
 #================================================================
-def soup(url,site_title,site_description):
+def soup_create(url,site_title,site_description):
     global soup, fg
     # Getting soup of website
     resp = requests.get(url)
@@ -22,22 +22,9 @@ def export_rss(xml_file):
     with open(xml_file, 'wb') as f:
         f.write(rss)
 #===============================================================
-'''
-# Getting soup of website
-url = 'https://bydleni.brno.cz/aktuality/'
-resp = requests.get(url)
-resp.raise_for_status()
-soup = BeautifulSoup(resp.content, 'html.parser')
-# Creating the feed
-fg = FeedGenerator()
-fg.title('Aktuality z Bydleni Brno')
-fg.link(href=url, rel='alternate')
-fg.description('Automaticky generovaný RSS feed – nejnovější články')
-fg.language('cs')
-'''
 # Bydlení Brno
 #-------------
-soup("https://bydleni.brno.cz/aktuality/","Bydlení Brno","RSS feed aktualit z webu bydleni.brno.cz")
+soup_create("https://bydleni.brno.cz/aktuality/","Bydlení Brno","RSS feed aktualit z webu bydleni.brno.cz")
 # Parsing articles from soup
 articles = soup.select('div.col')
 for arcticle in articles:
@@ -49,10 +36,12 @@ for arcticle in articles:
     fe.link(href=odkaz["href"])
     fe.description(title.text)
 export_rss("bydleni_brno_aktuality.xml")
+fg = None
+soup = None
 #==============================================================
 # Brno
 #-------------
-soup("https://cosedeje.brno.cz/rss","Brno","RSS feed aktualit z webu brno.cz")
+soup_create("https://cosedeje.brno.cz/rss","Brno","RSS feed aktualit z webu brno.cz")
 articles = soup.select('ul li')
 for arcticle in articles:
     try:

@@ -1,9 +1,10 @@
 name: Update RSS Feed
 
 on:
-  pull_request:
+  
   schedule:
     - cron: '0 10 * * *' 
+  pull_request:
   workflow_dispatch:
 
 jobs:

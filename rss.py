@@ -56,7 +56,8 @@ export_rss("bydleni_brno_aktuality.xml")
 #-------------
 soup("https://cosedeje.brno.cz/rss","Brno","RSS feed aktualit z webu brno.cz")
 articles = soup.select('ul li')
-try:
+for arcticle in articles:
+    try:
         odkaz = arcticle.find("a")
         title = odkaz.get_text()
         print(title)

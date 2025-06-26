@@ -65,5 +65,5 @@ for arcticle in articles:
         fe.description(title)
     except:
         pass
-print(fg.rss_str(pretty=True)
+print(fg.rss_str(pretty=True))
 export_rss("brno_aktuality.xml")

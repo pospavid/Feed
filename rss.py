@@ -4,7 +4,7 @@ from feedgen.feed import FeedGenerator
 from urllib.parse import urljoin
 #================================================================
 def soup_create(url,site_title,site_description):
-    global soup, fg
+    global soup, fg, fe
     # Getting soup of website
     resp = requests.get(url)
     resp.raise_for_status()
@@ -17,7 +17,7 @@ def soup_create(url,site_title,site_description):
     fg.language('cs')
 def export_rss(xml_file):
     # Export RSS XML
-    global fg
+    global fg, fe
     rss = fg.rss_str(pretty=True)
     with open(xml_file, 'wb') as f:
         f.write(rss)
@@ -38,6 +38,7 @@ for arcticle in articles:
 export_rss("bydleni_brno_aktuality.xml")
 fg = None
 soup = None
+fe = None
 #==============================================================
 # Brno
 #-------------

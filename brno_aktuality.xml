@@ -1,237 +1,180 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Bydlení Brno</title>
-    <link>https://bydleni.brno.cz/aktuality/</link>
-    <description>RSS feed aktualit z webu bydleni.brno.cz</description>
+    <title>Brno</title>
+    <link>https://cosedeje.brno.cz/rss</link>
+    <description>RSS feed aktualit z webu brno.cz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Jun 2025 21:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 21:40:51 +0000</lastBuildDate>
     <item>
-      <title>Kam se obrátit</title>
+      <title>
+
+</title>
     </item>
     <item>
-      <title>Aktuality</title>
+      <title>
+
+</title>
     </item>
     <item>
-      <title>Ochrana os. údajů (GDPR)</title>
+      <title>
+
+</title>
     </item>
     <item>
-      <title>Další »</title>
+      <title>
+
+</title>
     </item>
     <item>
-      <title>2</title>
-    </item>
-    <item>
-      <title>Kontakty</title>
-    </item>
-    <item>
-      <title>Výměna obecního bytu</title>
-    </item>
-    <item>
-      <title>bývalý Dřevopodnik – RUMIŠTĚ</title>
-    </item>
-    <item>
-      <title>Na Kaménkách, Černovice</title>
-    </item>
-    <item>
-      <title>PŘÍZŘENICE</title>
-    </item>
-    <item>
-      <title>V Aleji, HOLÁSKY</title>
-    </item>
-    <item>
-      <title>vnitroblok FRANCOUZSKÁ</title>
-    </item>
-    <item>
-      <title>DRUŽSTEVNÍ BYDLENÍ NA KAMENNÉM VRCHU</title>
-    </item>
-    <item>
-      <title>Přehled lokalit</title>
-    </item>
-    <item>
-      <title>Družstevní bydlení</title>
-    </item>
-    <item>
-      <title>Družstevní bydlení</title>
-    </item>
-    <item>
-      <title>Rekonstrukce</title>
-    </item>
-    <item>
-      <title>Novostavby</title>
-    </item>
-    <item>
-      <title>Fotogalerie bytů a bytových domů</title>
-    </item>
-    <item>
-      <title>Družstevní bydlení</title>
-    </item>
-    <item>
-      <title>Byty pro samoživitele</title>
-    </item>
-    <item>
-      <title>Bezbariérové byty</title>
-    </item>
-    <item>
-      <title>Dostupné bydlení pro seniory</title>
-    </item>
-    <item>
-      <title>Sociální byty</title>
-    </item>
-    <item>
-      <title>Startovací byty</title>
-    </item>
-    <item>
-      <title>Běžné obecní byty</title>
-    </item>
-    <item>
-      <title>Byty</title>
-    </item>
-    <item>
-      <title>Informace pro žadatele</title>
-    </item>
-    <item>
-      <title>Aktuality</title>
-    </item>
-    <item>
-      <title>Aktuality</title>
-    </item>
-    <item>
-      <title>úvodní strana</title>
+      <title>Pravidla soutěží</title>
     </item>
     <item>
       <title>Kontakty</title>
     </item>
     <item>
-      <title>Výměna obecního bytu</title>
+      <title>Pro média</title>
     </item>
     <item>
-      <title>bývalý Dřevopodnik – RUMIŠTĚ</title>
-    </item>
-    <item>
-      <title>Na Kaménkách, Černovice</title>
-    </item>
-    <item>
-      <title>PŘÍZŘENICE</title>
-    </item>
-    <item>
-      <title>V Aleji, HOLÁSKY</title>
-    </item>
-    <item>
-      <title>vnitroblok FRANCOUZSKÁ</title>
-    </item>
-    <item>
-      <title>DRUŽSTEVNÍ BYDLENÍ NA KAMENNÉM VRCHU</title>
-    </item>
-    <item>
-      <title>Přehled lokalit</title>
-    </item>
-    <item>
-      <title>Družstevní bydlení</title>
-    </item>
-    <item>
-      <title>Družstevní bydlení</title>
-    </item>
-    <item>
-      <title>Rekonstrukce</title>
-    </item>
-    <item>
-      <title>Novostavby</title>
-    </item>
-    <item>
-      <title>Fotogalerie bytů a bytových domů</title>
-    </item>
-    <item>
-      <title>Družstevní bydlení</title>
-    </item>
-    <item>
-      <title>Byty pro samoživitele</title>
-    </item>
-    <item>
-      <title>Bezbariérové byty</title>
-    </item>
-    <item>
-      <title>Dostupné bydlení pro seniory</title>
-    </item>
-    <item>
-      <title>Sociální byty</title>
-    </item>
-    <item>
-      <title>Startovací byty</title>
-    </item>
-    <item>
-      <title>Běžné obecní byty</title>
-    </item>
-    <item>
-      <title>Byty</title>
-    </item>
-    <item>
-      <title>Informace pro žadatele</title>
+      <title>Brněnský metropolitan</title>
     </item>
     <item>
       <title>Aktuality</title>
     </item>
     <item>
-      <title>Pozvánka na losování startovacích bytů pro páry a bytu pro osamělé rodiče s dětmi dne 3. 3 .2025</title>
-      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-pro-pary-a-bytu-pro-osamele-rodice-s-detmi-dne-3-3-2025/</link>
-      <description>Pozvánka na losování startovacích bytů pro páry a bytu pro osamělé rodiče s dětmi dne 3. 3 .2025</description>
+      <title>Největší rekonstrukce památkově chráněného ústředního hřbitova přinese nové cesty, stromy nebo retenční nádrže na vodu</title>
     </item>
     <item>
-      <title>Výsledky losování startovacích bytů pro páry a bytu pro osamělé rodiče s dětmi dne 3. 3. 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-pary-a-bytu-pro-osamele-rodice-s-detmi-dne-3-3-2025/</link>
-      <description>Výsledky losování startovacích bytů pro páry a bytu pro osamělé rodiče s dětmi dne 3. 3. 2025</description>
+      <title>Řídicí výbor Brněnské metropolitní oblasti podpořil dopravní projekty za 1,5 miliardy korun</title>
     </item>
     <item>
-      <title>Pozvánka na losování startovacích bytů pro jednotlivce dne 17. 3. 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-pro-jednotlivce-dne-17-3-2025/</link>
-      <description>Pozvánka na losování startovacích bytů pro jednotlivce dne 17. 3. 2025</description>
+      <title>Sezona ohňostrojů začíná. Co dalšího nabídne víkend?</title>
     </item>
     <item>
-      <title>Výsledky losování startovacích bytů pro jednotlivce dne 17. 3. 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-jednotlivce-dne-17-3-2025/</link>
-      <description>Výsledky losování startovacích bytů pro jednotlivce dne 17. 3. 2025</description>
+      <title>V červnové nabídce se lidé mohou hlásit o 12 startovacích bytů</title>
     </item>
     <item>
-      <title>Nabídka bytů pro osamělé rodiče s dětmi v domech Křenová 76 a Bratislavská 51</title>
-      <link>https://bydleni.brno.cz/aktuality/nabidka-bytu-pro-osamele-rodice-s-detmi-v-domech-krenova-76-a-bratislavska-51/</link>
-      <description>Nabídka bytů pro osamělé rodiče s dětmi v domech Křenová 76 a Bratislavská 51</description>
+      <title>Brno vítá EuroBasket žen. Jak si Česko povede ve skupině?</title>
     </item>
     <item>
-      <title>Nabídka startovacích bytů pro páry</title>
-      <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-pary/</link>
-      <description>Nabídka startovacích bytů pro páry</description>
+      <title>Volejbalové kurty v Lužánkách se otevírají po rekonstrukci</title>
     </item>
     <item>
-      <title>Dne 5. 5. 2025 bylo spuštěno přihlašování do projektu Družstevní bydlení pro mladé na lokalitu KAMENNÝ VRCH II</title>
-      <link>https://bydleni.brno.cz/aktuality/dne-5-5-2025-bylo-spusteno-prihlasovani-do-projektu-druzstevni-bydleni-pro-mlade-na-lokalitu-kamenny-vrch-ii/</link>
-      <description>Dne 5. 5. 2025 bylo spuštěno přihlašování do projektu Družstevní bydlení pro mladé na lokalitu KAMENNÝ VRCH II</description>
+      <title>Víkend přináší sport, hudbu i zážitky pro rodiny</title>
     </item>
     <item>
-      <title>Nabídka startovacích bytů pro jednotlivce</title>
-      <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-jednotlivce-2/</link>
-      <description>Nabídka startovacích bytů pro jednotlivce</description>
+      <title>Věci, které měly skončit v popelnici, vydělaly 1 milion korun</title>
     </item>
     <item>
-      <title>Červnová nabídka startovacích bytů pro páry</title>
-      <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-pary-2/</link>
-      <description>Červnová nabídka startovacích bytů pro páry</description>
+      <title>Víc lokálních potravin na náš stůl! Brno propojuje farmáře a obyvatele</title>
     </item>
     <item>
-      <title>Pozvánka na losování startovacích bytů pro páry dne 23. června 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-pro-pary-dne-23-cervna-2025/</link>
-      <description>Pozvánka na losování startovacích bytů pro páry dne 23. června 2025</description>
+      <title>LÉTO V BRNĚ: Koupání v přírodě nebo v bazénu? Obojího se dá užít dosyta</title>
     </item>
     <item>
-      <title>Výsledky losování žadatelů přihlášených do projektu Družstevního bydlení pro mladé, lokalita Kamenný vrch II ze dne 19. 6. 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-zadatelu-prihlasenych-do-projektu-druzstevniho-bydleni-pro-mlade-lokalita-kamenny-vrch-ii-ze-dne-19-6-2025/</link>
-      <description>Výsledky losování žadatelů přihlášených do projektu Družstevního bydlení pro mladé, lokalita Kamenný vrch II ze dne 19. 6. 2025</description>
+      <title>Brněnský metropolitan č. 7-8/25</title>
     </item>
     <item>
-      <title>Výsledky losování startovacích bytů pro páry dne 23. 6. 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-pary-dne-23-6-2025/</link>
-      <description>Výsledky losování startovacích bytů pro páry dne 23. 6. 2025</description>
+      <title>Připravovaná rekonstrukce koupaliště v Zábrdovicích přinese nové bazénové vany i moderní šatny</title>
+    </item>
+    <item>
+      <title>Za Lužánkami vyrostla hřiště na padel, nechybí ani zázemí</title>
+    </item>
+    <item>
+      <title>Brno reaguje na potřeby rodin a staví nové mateřské školy v Bosonohách a Novém Lískovci</title>
+    </item>
+    <item>
+      <title>Hřbitovy v Tuřanech a Komíně dostanou novou podobu</title>
+    </item>
+    <item>
+      <title>Úzkou pěšinu mezi Anthroposem a Novým Lískovcem nahradí chodník</title>
+    </item>
+    <item>
+      <title>MÚK Kamenolom: radní vybrali zhotovitele projektové dokumentace pro povolení záměru</title>
+    </item>
+    <item>
+      <title>I kontejnery tvoří veřejný prostor. Město přijalo standardy sjednocující jejich vzhled</title>
+    </item>
+    <item>
+      <title>Jak Brno vnímají jeho obyvatelé a jak zbytek republiky, zjistily dva výzkumy</title>
+    </item>
+    <item>
+      <title>Dva kryté bazény se na léto uzavřou, chystají se úpravy</title>
+    </item>
+    <item>
+      <title>
+
+</title>
+    </item>
+    <item>
+      <title>
+                                    Kontakty
+                                </title>
+    </item>
+    <item>
+      <title>
+                Fotogalerie
+            </title>
+    </item>
+    <item>
+      <title>
+                Akce
+            </title>
+    </item>
+    <item>
+      <title>
+                Tiskové zprávy
+            </title>
+    </item>
+    <item>
+      <title>
+                Tiskové zprávy
+            </title>
+    </item>
+    <item>
+      <title>
+                                    Brněnský metropolitan
+                                </title>
+    </item>
+    <item>
+      <title>
+                Volný čas
+            </title>
+    </item>
+    <item>
+      <title>
+                Úřad
+            </title>
+    </item>
+    <item>
+      <title>
+                Investice &amp; dotace
+            </title>
+    </item>
+    <item>
+      <title>
+                Doprava
+            </title>
+    </item>
+    <item>
+      <title>
+                Bydlení
+            </title>
+    </item>
+    <item>
+      <title>
+                Bydlení
+            </title>
+    </item>
+    <item>
+      <title>
+
+</title>
+    </item>
+    <item>
+      <title>Přeskočit na obsah</title>
     </item>
   </channel>
 </rss>

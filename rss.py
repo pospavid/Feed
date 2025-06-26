@@ -43,11 +43,9 @@ articles = soup.select('div.col')
 for arcticle in articles:
     odkaz = arcticle.find("a")
     title = arcticle.find("small")
-    print(title.text)
-    print(odkaz["href"])
 
     fe = fg.add_entry()
-    fe.title(title.tetx)
+    fe.title(title.text)
     fe.link(href=odkaz["href"])
     fe.description(title.text)
 export_rss("bydleni_brno_aktuality.xml")
@@ -60,9 +58,6 @@ for arcticle in articles:
     try:
         odkaz = arcticle.find("a")
         title = odkaz.get_text()
-        print(title)
-        print(url.replace("rss","")+odkaz["href"])
-        print(odkaz)
 
         fe = fg.add_entry()
         fe.title(title)
@@ -70,4 +65,5 @@ for arcticle in articles:
         fe.description(title)
     except:
         pass
+print(fg.rss_str(pretty=True)
 export_rss("brno_aktuality.xml")

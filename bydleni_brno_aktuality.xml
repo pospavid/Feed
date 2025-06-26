@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Aktuality z Bydleni Brno</title>
+    <title>Bydlení Brno</title>
     <link>https://bydleni.brno.cz/aktuality/</link>
-    <description>Automaticky generovaný RSS feed – nejnovější články</description>
+    <description>RSS feed aktualit z webu bydleni.brno.cz</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Jun 2025 08:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 21:25:31 +0000</lastBuildDate>
     <item>
       <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-pro-pary-a-bytu-pro-osamele-rodice-s-detmi-dne-3-3-2025/</link>
       <description>Pozvánka na losování startovacích bytů pro páry a bytu pro osamělé rodiče s dětmi dne 3. 3 .2025</description>

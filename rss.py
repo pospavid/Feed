@@ -2,9 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from urllib.parse import urljoin
+from traceback import format_exc
 #================================================================
 def soup_create(url,site_title,site_description):
-    global soup, fg, fe
+    global soup, fg, fe, web_url
     # Getting soup of website
     resp = requests.get(url)
     resp.raise_for_status()
@@ -15,6 +16,7 @@ def soup_create(url,site_title,site_description):
     fg.link(href=url, rel='alternate')
     fg.description(site_description)
     fg.language('cs')
+    web_url = url
 def export_rss(xml_file):
     # Export RSS XML
     global fg, fe
@@ -51,9 +53,9 @@ for arcticle in articles:
 
         fe = fg.add_entry()
         fe.title(title)
-        fe.link(href=url.replace("rss","")+odkaz["href"])
+        fe.link(href=web_url.replace("rss","")+odkaz["href"])
         fe.description(title)
-    except:
-        pass
-print(fg.rss_str(pretty=True))
+    except Exception:
+        print(format_exc())
+        
 export_rss("brno_aktuality.xml")

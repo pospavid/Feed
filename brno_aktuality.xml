@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 27 Jun 2025 08:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 12:19:21 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Řídicí výbor Brněnské metropolitní oblasti podpořil dopravní projekty za 1,5 miliardy korun</title>
-      <link>https://cosedeje.brno.cz//w/ridici-vybor-brnenske-metropolitni-oblasti-podporil-dopravni-projekty-za-1-5-miliardy-korun</link>
-      <description>Řídicí výbor Brněnské metropolitní oblasti podpořil dopravní projekty za 1,5 miliardy korun</description>
-    </item>
-    <item>
-      <title>Sezona ohňostrojů začíná. Co dalšího nabídne víkend?</title>
-      <link>https://cosedeje.brno.cz//w/sezona-ohnostroju-zacina-co-dalsiho-nabidne-vikend-</link>
-      <description>Sezona ohňostrojů začíná. Co dalšího nabídne víkend?</description>
     </item>
     <item>
       <title>V červnové nabídce se lidé mohou hlásit o 12 startovacích bytů</title>
@@ -168,6 +158,16 @@
       <title>Nejnutnější úprava likusáků na Kraví hoře pokračuje. Namísto dvou ale z místa zmizí tři objekty</title>
       <link>https://cosedeje.brno.cz//w/nejnutnejsi-uprava-likusaku-na-kravi-hore-pokracuje-namisto-dvou-ale-z-mista-zmizi-tri-objekty</link>
       <description>Nejnutnější úprava likusáků na Kraví hoře pokračuje. Namísto dvou ale z místa zmizí tři objekty</description>
+    </item>
+    <item>
+      <title>Léto ve znamení oprav: Mějte oči na stopkách</title>
+      <link>https://cosedeje.brno.cz//w/mejte-oci-na-stopkach-leto-ve-znameni-oprav</link>
+      <description>Léto ve znamení oprav: Mějte oči na stopkách</description>
+    </item>
+    <item>
+      <title>Připravte se na víkend: užijte si Léto na Prýglu, kulturu nebo pořady na hvězdárně</title>
+      <link>https://cosedeje.brno.cz//w/pripravte-se-na-vikend-uzijte-si-leto-na-pryglu-kulturu-nebo-porady-na-hvezdarne</link>
+      <description>Připravte se na víkend: užijte si Léto na Prýglu, kulturu nebo pořady na hvězdárně</description>
     </item>
     <item>
       <title>

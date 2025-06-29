@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 29 Jun 2025 08:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 12:17:30 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>V červnové nabídce se lidé mohou hlásit o 12 startovacích bytů</title>
-      <link>https://cosedeje.brno.cz//w/v-cervnove-nabidce-se-lide-mohou-hlasit-o-12-startovacich-bytu</link>
-      <description>V červnové nabídce se lidé mohou hlásit o 12 startovacích bytů</description>
     </item>
     <item>
       <title>Brno vítá EuroBasket žen. Jak si Česko povede ve skupině?</title>
@@ -168,6 +163,11 @@
       <title>Připravte se na víkend: užijte si Léto na Prýglu, kulturu nebo pořady na hvězdárně</title>
       <link>https://cosedeje.brno.cz//w/pripravte-se-na-vikend-uzijte-si-leto-na-pryglu-kulturu-nebo-porady-na-hvezdarne</link>
       <description>Připravte se na víkend: užijte si Léto na Prýglu, kulturu nebo pořady na hvězdárně</description>
+    </item>
+    <item>
+      <title>LÉTO V BRNĚ: Vily v Černých polích nabídnou výlety do historie, zeleně i za uměním</title>
+      <link>https://cosedeje.brno.cz//w/leto-v-brne-vily-v-cernych-polich-nabidnou-vylety-do-historie-zelene-i-za-umenim</link>
+      <description>LÉTO V BRNĚ: Vily v Černých polích nabídnou výlety do historie, zeleně i za uměním</description>
     </item>
     <item>
       <title>

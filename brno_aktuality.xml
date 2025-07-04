@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 04 Jul 2025 08:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 12:19:12 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Víc lokálních potravin na náš stůl! Brno propojuje farmáře a obyvatele</title>
-      <link>https://cosedeje.brno.cz//w/vic-lokalnich-potravin-na-nas-stul-brno-propojuje-farmare-a-obyvatele</link>
-      <description>Víc lokálních potravin na náš stůl! Brno propojuje farmáře a obyvatele</description>
     </item>
     <item>
       <title>LÉTO V BRNĚ: Koupání v přírodě nebo v bazénu? Obojího se dá užít dosyta</title>
@@ -168,6 +163,11 @@
       <title>LÉTO V BRNĚ: 15 tipů na červencové akce</title>
       <link>https://cosedeje.brno.cz//w/leto-v-brne-15-tipu-na-cervencove-akce</link>
       <description>LÉTO V BRNĚ: 15 tipů na červencové akce</description>
+    </item>
+    <item>
+      <title>Plány na první víkend prázdnin: čekají vás procházky, hudební vystoupení i volejbal</title>
+      <link>https://cosedeje.brno.cz//w/plany-na-prvni-vikend-prazdnin-cekaji-vas-festival-planet-prochazky-i-volejbal</link>
+      <description>Plány na první víkend prázdnin: čekají vás procházky, hudební vystoupení i volejbal</description>
     </item>
     <item>
       <title>

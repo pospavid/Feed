@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 06 Jul 2025 08:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 12:17:34 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>LÉTO V BRNĚ: Koupání v přírodě nebo v bazénu? Obojího se dá užít dosyta</title>
-      <link>https://cosedeje.brno.cz//w/leto-v-brne-koupani-v-prirode-nebo-v-bazenu-obojiho-se-da-uzit-dosyta</link>
-      <description>LÉTO V BRNĚ: Koupání v přírodě nebo v bazénu? Obojího se dá užít dosyta</description>
     </item>
     <item>
       <title>Brněnský metropolitan č. 7-8/25</title>
@@ -168,6 +163,11 @@
       <title>Plány na první víkend prázdnin: čekají vás procházky, hudební vystoupení i volejbal</title>
       <link>https://cosedeje.brno.cz//w/plany-na-prvni-vikend-prazdnin-cekaji-vas-festival-planet-prochazky-i-volejbal</link>
       <description>Plány na první víkend prázdnin: čekají vás procházky, hudební vystoupení i volejbal</description>
+    </item>
+    <item>
+      <title>LÉTO V BRNĚ: Kam za promítáním pod hvězdnou oblohou?</title>
+      <link>https://cosedeje.brno.cz//w/leto-v-brne-kde-se-promita-pod-hvezdnou-oblohou-</link>
+      <description>LÉTO V BRNĚ: Kam za promítáním pod hvězdnou oblohou?</description>
     </item>
     <item>
       <title>

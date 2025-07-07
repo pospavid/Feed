@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 07 Jul 2025 08:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 12:19:45 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brněnský metropolitan č. 7-8/25</title>
-      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-7-8-25</link>
-      <description>Brněnský metropolitan č. 7-8/25</description>
     </item>
     <item>
       <title>Připravovaná rekonstrukce koupaliště v Zábrdovicích přinese nové bazénové vany i moderní šatny</title>
@@ -168,6 +163,11 @@
       <title>LÉTO V BRNĚ: Kam za promítáním pod hvězdnou oblohou?</title>
       <link>https://cosedeje.brno.cz//w/leto-v-brne-kde-se-promita-pod-hvezdnou-oblohou-</link>
       <description>LÉTO V BRNĚ: Kam za promítáním pod hvězdnou oblohou?</description>
+    </item>
+    <item>
+      <title>Umělecká díla zkrášlí protipovodňové stěny na Svratce, soutěž o první už je otevřená</title>
+      <link>https://cosedeje.brno.cz//w/umelecka-dila-zkrasli-protipovodnove-steny-na-svratce-soutez-o-prvni-uz-je-otevrena</link>
+      <description>Umělecká díla zkrášlí protipovodňové stěny na Svratce, soutěž o první už je otevřená</description>
     </item>
     <item>
       <title>

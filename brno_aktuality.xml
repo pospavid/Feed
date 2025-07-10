@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 09 Jul 2025 16:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 08:14:51 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Připravovaná rekonstrukce koupaliště v Zábrdovicích přinese nové bazénové vany i moderní šatny</title>
-      <link>https://cosedeje.brno.cz//w/pripravovana-rekonstrukce-koupaliste-v-zabrdovicich-prinese-nove-bazenove-vany-i-moderni-satny</link>
-      <description>Připravovaná rekonstrukce koupaliště v Zábrdovicích přinese nové bazénové vany i moderní šatny</description>
     </item>
     <item>
       <title>Za Lužánkami vyrostla hřiště na padel, nechybí ani zázemí</title>
@@ -168,6 +163,11 @@
       <title>Umělecká díla zkrášlí protipovodňové stěny na Svratce, soutěž o první už je otevřená</title>
       <link>https://cosedeje.brno.cz//w/umelecka-dila-zkrasli-protipovodnove-steny-na-svratce-soutez-o-prvni-uz-je-otevrena</link>
       <description>Umělecká díla zkrášlí protipovodňové stěny na Svratce, soutěž o první už je otevřená</description>
+    </item>
+    <item>
+      <title>Světový basketbal znovu v Brně: začíná šampionát juniorek</title>
+      <link>https://cosedeje.brno.cz//w/svetovy-basketbal-znovu-v-brne-zacina-sampionat-juniorek</link>
+      <description>Světový basketbal znovu v Brně: začíná šampionát juniorek</description>
     </item>
     <item>
       <title>

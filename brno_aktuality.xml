@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 11 Jul 2025 16:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 08:12:33 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno reaguje na potřeby rodin a staví nové mateřské školy v Bosonohách a Novém Lískovci</title>
-      <link>https://cosedeje.brno.cz//w/brno-reaguje-na-potreby-rodin-a-stavi-nove-materske-skoly-v-bosonohach-a-novem-liskovci</link>
-      <description>Brno reaguje na potřeby rodin a staví nové mateřské školy v Bosonohách a Novém Lískovci</description>
     </item>
     <item>
       <title>Hřbitovy v Tuřanech a Komíně dostanou novou podobu</title>
@@ -168,6 +163,11 @@
       <title>Ozvláštněte si víkend vesmírem, historií či tajuplnou atmosférou</title>
       <link>https://cosedeje.brno.cz//w/ozvlastnete-si-vikend-vesmirem-historii-ci-tajuplnou-atmosferou</link>
       <description>Ozvláštněte si víkend vesmírem, historií či tajuplnou atmosférou</description>
+    </item>
+    <item>
+      <title>LÉTO V BRNĚ: Co dělat, když prší</title>
+      <link>https://cosedeje.brno.cz//w/leto-v-brne-co-delat-kdyz-prsi</link>
+      <description>LÉTO V BRNĚ: Co dělat, když prší</description>
     </item>
     <item>
       <title>

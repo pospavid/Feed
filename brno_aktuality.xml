@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 14 Jul 2025 12:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 16:13:17 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Úzkou pěšinu mezi Anthroposem a Novým Lískovcem nahradí chodník</title>
-      <link>https://cosedeje.brno.cz//w/uzkou-pesinu-mezi-anthroposem-a-novym-liskovcem-nahradi-chodnik</link>
-      <description>Úzkou pěšinu mezi Anthroposem a Novým Lískovcem nahradí chodník</description>
     </item>
     <item>
       <title>MÚK Kamenolom: radní vybrali zhotovitele projektové dokumentace pro povolení záměru</title>
@@ -168,6 +163,11 @@
       <title>LÉTO V BRNĚ: Sportovní události, které si nesmíte nechat ujít</title>
       <link>https://cosedeje.brno.cz//w/leto-v-brne-sportovni-udalosti-ktere-si-nesmite-nechat-ujit</link>
       <description>LÉTO V BRNĚ: Sportovní události, které si nesmíte nechat ujít</description>
+    </item>
+    <item>
+      <title>Velká cena České republiky zavítá na náměstí Svobody</title>
+      <link>https://cosedeje.brno.cz//w/velka-cena-ceske-republiky-zavita-na-namesti-svobody</link>
+      <description>Velká cena České republiky zavítá na náměstí Svobody</description>
     </item>
     <item>
       <title>

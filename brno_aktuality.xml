@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 15 Jul 2025 08:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 12:20:56 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>I kontejnery tvoří veřejný prostor. Město přijalo standardy sjednocující jejich vzhled</title>
-      <link>https://cosedeje.brno.cz//w/i-kontejnery-tvori-verejny-prostor-mesto-prijalo-standardy-sjednocujici-jejich-vzhled</link>
-      <description>I kontejnery tvoří veřejný prostor. Město přijalo standardy sjednocující jejich vzhled</description>
-    </item>
-    <item>
-      <title>Jak Brno vnímají jeho obyvatelé a jak zbytek republiky, zjistily dva výzkumy</title>
-      <link>https://cosedeje.brno.cz//w/jak-brno-vnimaji-jeho-obyvatele-a-jak-zbytek-republiky-zjistily-dva-vyzkumy</link>
-      <description>Jak Brno vnímají jeho obyvatelé a jak zbytek republiky, zjistily dva výzkumy</description>
     </item>
     <item>
       <title>Dva kryté bazény se na léto uzavřou, chystají se úpravy</title>
@@ -168,6 +158,16 @@
       <title>Na Novou radnici se dnes lidé nedovolají, bude bez elektřiny</title>
       <link>https://cosedeje.brno.cz//w/na-novou-radnici-se-dnes-lide-nedovolaji-bude-bez-elektriny</link>
       <description>Na Novou radnici se dnes lidé nedovolají, bude bez elektřiny</description>
+    </item>
+    <item>
+      <title>Academy Park na Veveří se dnes otvírá. Zaparkují zde stovky aut, vyřídíte tu záležitosti týkající se modrých zón a osvěží vás zeleň</title>
+      <link>https://cosedeje.brno.cz//w/academy-park-na-veveri-se-dnes-otvira-zaparkuji-zde-stovky-aut-vyridite-tu-zalezitosti-tykajici-se-modrych-zon-a-osvezi-vas-zelen</link>
+      <description>Academy Park na Veveří se dnes otvírá. Zaparkují zde stovky aut, vyřídíte tu záležitosti týkající se modrých zón a osvěží vás zeleň</description>
+    </item>
+    <item>
+      <title>Academy Park na Veveří se otevírá: nabízí stovky míst pro auta, novou zeleň a vyřídíte tu i záležitosti týkající se modrých zón</title>
+      <link>https://cosedeje.brno.cz//w/academy-park-na-veveri-se-otevira-nabizi-stovky-mist-pro-auta-novou-zelen-a-vyridite-tu-i-zalezitosti-tykajici-se-modrych-zon</link>
+      <description>Academy Park na Veveří se otevírá: nabízí stovky míst pro auta, novou zeleň a vyřídíte tu i záležitosti týkající se modrých zón</description>
     </item>
     <item>
       <title>

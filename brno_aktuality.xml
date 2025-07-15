@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 14 Jul 2025 16:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 08:15:16 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>MÚK Kamenolom: radní vybrali zhotovitele projektové dokumentace pro povolení záměru</title>
-      <link>https://cosedeje.brno.cz//w/muk-kamenolom-radni-vybrali-zhotovitele-projektove-dokumentace-pro-povoleni-zameru</link>
-      <description>MÚK Kamenolom: radní vybrali zhotovitele projektové dokumentace pro povolení záměru</description>
     </item>
     <item>
       <title>I kontejnery tvoří veřejný prostor. Město přijalo standardy sjednocující jejich vzhled</title>
@@ -168,6 +163,11 @@
       <title>Velká cena České republiky zavítá na náměstí Svobody</title>
       <link>https://cosedeje.brno.cz//w/velka-cena-ceske-republiky-zavita-na-namesti-svobody</link>
       <description>Velká cena České republiky zavítá na náměstí Svobody</description>
+    </item>
+    <item>
+      <title>Na Novou radnici se dnes lidé nedovolají, bude bez elektřiny</title>
+      <link>https://cosedeje.brno.cz//w/na-novou-radnici-se-dnes-lide-nedovolaji-bude-bez-elektriny</link>
+      <description>Na Novou radnici se dnes lidé nedovolají, bude bez elektřiny</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 16 Jul 2025 08:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 12:20:53 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Dva kryté bazény se na léto uzavřou, chystají se úpravy</title>
-      <link>https://cosedeje.brno.cz//w/dva-kryte-bazeny-se-na-leto-uzavrou-chystaji-se-upravy</link>
-      <description>Dva kryté bazény se na léto uzavřou, chystají se úpravy</description>
     </item>
     <item>
       <title>Nejnutnější úprava likusáků na Kraví hoře pokračuje. Namísto dvou ale z místa zmizí tři objekty</title>
@@ -168,6 +163,11 @@
       <title>Academy Park na Veveří se otevírá: nabízí stovky míst pro auta, novou zeleň a vyřídíte tu i záležitosti týkající se modrých zón</title>
       <link>https://cosedeje.brno.cz//w/academy-park-na-veveri-se-otevira-nabizi-stovky-mist-pro-auta-novou-zelen-a-vyridite-tu-i-zalezitosti-tykajici-se-modrych-zon</link>
       <description>Academy Park na Veveří se otevírá: nabízí stovky míst pro auta, novou zeleň a vyřídíte tu i záležitosti týkající se modrých zón</description>
+    </item>
+    <item>
+      <title>Velký návrat je tu. V pátek začíná Tissot Grand Prix České republiky</title>
+      <link>https://cosedeje.brno.cz//w/velky-navrat-je-tu-v-patek-zacina-tissot-grand-prix-ceske-republiky</link>
+      <description>Velký návrat je tu. V pátek začíná Tissot Grand Prix České republiky</description>
     </item>
     <item>
       <title>

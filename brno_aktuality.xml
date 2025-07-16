@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 16 Jul 2025 12:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 16:13:25 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -70,41 +70,6 @@
       <description>Aktuality</description>
     </item>
     <item>
-      <title>Nejnutnější úprava likusáků na Kraví hoře pokračuje. Namísto dvou ale z místa zmizí tři objekty</title>
-      <link>https://cosedeje.brno.cz//w/nejnutnejsi-uprava-likusaku-na-kravi-hore-pokracuje-namisto-dvou-ale-z-mista-zmizi-tri-objekty</link>
-      <description>Nejnutnější úprava likusáků na Kraví hoře pokračuje. Namísto dvou ale z místa zmizí tři objekty</description>
-    </item>
-    <item>
-      <title>Léto ve znamení oprav: Mějte oči na stopkách</title>
-      <link>https://cosedeje.brno.cz//w/mejte-oci-na-stopkach-leto-ve-znameni-oprav</link>
-      <description>Léto ve znamení oprav: Mějte oči na stopkách</description>
-    </item>
-    <item>
-      <title>Připravte se na víkend: užijte si Léto na Prýglu, kulturu nebo pořady na hvězdárně</title>
-      <link>https://cosedeje.brno.cz//w/pripravte-se-na-vikend-uzijte-si-leto-na-pryglu-kulturu-nebo-porady-na-hvezdarne</link>
-      <description>Připravte se na víkend: užijte si Léto na Prýglu, kulturu nebo pořady na hvězdárně</description>
-    </item>
-    <item>
-      <title>LÉTO V BRNĚ: Vily v Černých polích nabídnou výlety do historie, zeleně i za uměním</title>
-      <link>https://cosedeje.brno.cz//w/leto-v-brne-vily-v-cernych-polich-nabidnou-vylety-do-historie-zelene-i-za-umenim</link>
-      <description>LÉTO V BRNĚ: Vily v Černých polích nabídnou výlety do historie, zeleně i za uměním</description>
-    </item>
-    <item>
-      <title>Vodní radovánky se na koupaliště ve Starém Lískovci vrátí do dvou let</title>
-      <link>https://cosedeje.brno.cz//w/vodni-radovanky-se-na-koupaliste-ve-starem-liskovci-vrati-do-dvou-let</link>
-      <description>Vodní radovánky se na koupaliště ve Starém Lískovci vrátí do dvou let</description>
-    </item>
-    <item>
-      <title>Analýza brněnské kulturní a kreativní scény aneb vše, co o kultuře víme, na jednom místě</title>
-      <link>https://cosedeje.brno.cz//w/analyza-brnenske-kulturni-a-kreativni-sceny-aneb-vse-co-o-kulture-vime-na-jednom-miste</link>
-      <description>Analýza brněnské kulturní a kreativní scény aneb vše, co o kultuře víme, na jednom místě</description>
-    </item>
-    <item>
-      <title>Centrum pro parkovací i vjezdová oprávnění se přesune na Veveří</title>
-      <link>https://cosedeje.brno.cz//w/centrum-pro-parkovaci-i-vjezdova-opravneni-se-presune-na-veveri</link>
-      <description>Centrum pro parkovací i vjezdová oprávnění se přesune na Veveří</description>
-    </item>
-    <item>
       <title>LÉTO V BRNĚ: 15 tipů na červencové akce</title>
       <link>https://cosedeje.brno.cz//w/leto-v-brne-15-tipu-na-cervencove-akce</link>
       <description>LÉTO V BRNĚ: 15 tipů na červencové akce</description>
@@ -165,9 +130,44 @@
       <description>Academy Park na Veveří se otevírá: nabízí stovky míst pro auta, novou zeleň a vyřídíte tu i záležitosti týkající se modrých zón</description>
     </item>
     <item>
+      <title>Nové pomůcky pro brněnské školky a školy pomohou dětem objevovat svět přírodních věd</title>
+      <link>https://cosedeje.brno.cz//w/nove-pomucky-pro-brnenske-skolky-a-skoly-pomohou-detem-objevovat-svet-prirodnich-ved</link>
+      <description>Nové pomůcky pro brněnské školky a školy pomohou dětem objevovat svět přírodních věd</description>
+    </item>
+    <item>
+      <title>Další krok k nové mateřské škole na Šámalově: začíná zadávací řízení</title>
+      <link>https://cosedeje.brno.cz//w/dalsi-krok-k-nove-materske-skole-na-samalove-zacina-zadavaci-rizeni</link>
+      <description>Další krok k nové mateřské škole na Šámalově: začíná zadávací řízení</description>
+    </item>
+    <item>
       <title>Velký návrat je tu. V pátek začíná Tissot Grand Prix České republiky</title>
       <link>https://cosedeje.brno.cz//w/velky-navrat-je-tu-v-patek-zacina-tissot-grand-prix-ceske-republiky</link>
       <description>Velký návrat je tu. V pátek začíná Tissot Grand Prix České republiky</description>
+    </item>
+    <item>
+      <title>Na úpravy v parcích a stromořadích přispěje Brno téměř 5 milionů korun</title>
+      <link>https://cosedeje.brno.cz//w/na-upravy-v-parcich-a-stromoradich-prispeje-brno-temer-5-milionu-korun</link>
+      <description>Na úpravy v parcích a stromořadích přispěje Brno téměř 5 milionů korun</description>
+    </item>
+    <item>
+      <title>Jste na dítě sami? Bydlete v městském bytě za nižší nájemné</title>
+      <link>https://cosedeje.brno.cz//w/jste-na-dite-sami-bydlete-v-mestskem-byte-za-nizsi-najemne</link>
+      <description>Jste na dítě sami? Bydlete v městském bytě za nižší nájemné</description>
+    </item>
+    <item>
+      <title>Virtuální model nového nádraží bude k vidění po delší dobu, a to i v Brně</title>
+      <link>https://cosedeje.brno.cz//w/virtualni-model-noveho-nadrazi-bude-k-videni-po-delsi-dobu-a-to-i-v-brne</link>
+      <description>Virtuální model nového nádraží bude k vidění po delší dobu, a to i v Brně</description>
+    </item>
+    <item>
+      <title>V Domini parku bude informační centrum. Představí brněnské rozvojové projekty</title>
+      <link>https://cosedeje.brno.cz//w/v-domini-parku-bude-informacni-centrum-predstavi-brnenske-rozvojove-projekty</link>
+      <description>V Domini parku bude informační centrum. Představí brněnské rozvojové projekty</description>
+    </item>
+    <item>
+      <title>Světový šampionát burácivých motorů a rychlé jízdy se po pěti letech vrací na Masarykův okruh. Atmosféru přenese i na náměstí Svobody</title>
+      <link>https://cosedeje.brno.cz//w/svetovy-sampionat-buracivych-motoru-a-rychle-jizdy-se-po-peti-letech-vraci-na-masarykuv-okruh-atmosferu-prenese-i-na-namesti-svobody</link>
+      <description>Světový šampionát burácivých motorů a rychlé jízdy se po pěti letech vrací na Masarykův okruh. Atmosféru přenese i na náměstí Svobody</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 17 Jul 2025 16:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 08:14:53 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Plány na první víkend prázdnin: čekají vás procházky, hudební vystoupení i volejbal</title>
-      <link>https://cosedeje.brno.cz//w/plany-na-prvni-vikend-prazdnin-cekaji-vas-festival-planet-prochazky-i-volejbal</link>
-      <description>Plány na první víkend prázdnin: čekají vás procházky, hudební vystoupení i volejbal</description>
     </item>
     <item>
       <title>LÉTO V BRNĚ: Kam za promítáním pod hvězdnou oblohou?</title>
@@ -168,6 +163,11 @@
       <title>Jste na dítě sami? Bydlete v městském bytě za nižší nájemné</title>
       <link>https://cosedeje.brno.cz//w/jste-na-dite-sami-bydlete-v-mestskem-byte-za-nizsi-najemne-1</link>
       <description>Jste na dítě sami? Bydlete v městském bytě za nižší nájemné</description>
+    </item>
+    <item>
+      <title>Tahákem víkendu bude MotoGP. Otevírá se i knihovna kapucínů a VIDA! rozdává magnetky</title>
+      <link>https://cosedeje.brno.cz//w/tahakem-vikendu-bude-motogp-otevira-se-i-knihovna-kapucinu-a-vida-rozdava-magnetky</link>
+      <description>Tahákem víkendu bude MotoGP. Otevírá se i knihovna kapucínů a VIDA! rozdává magnetky</description>
     </item>
     <item>
       <title>

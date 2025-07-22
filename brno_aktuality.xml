@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 22 Jul 2025 08:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 12:20:45 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Ozvláštněte si víkend vesmírem, historií či tajuplnou atmosférou</title>
-      <link>https://cosedeje.brno.cz//w/ozvlastnete-si-vikend-vesmirem-historii-ci-tajuplnou-atmosferou</link>
-      <description>Ozvláštněte si víkend vesmírem, historií či tajuplnou atmosférou</description>
     </item>
     <item>
       <title>LÉTO V BRNĚ: Co dělat, když prší</title>
@@ -168,6 +163,11 @@
       <title>Na MotoGP zavítalo přes 200 tisíc diváků, další data budou postupně přibývat</title>
       <link>https://cosedeje.brno.cz//w/na-motogp-zavitalo-pres-200-tisic-divaku-dalsi-data-budou-postupne-pribyvat</link>
       <description>Na MotoGP zavítalo přes 200 tisíc diváků, další data budou postupně přibývat</description>
+    </item>
+    <item>
+      <title>Začíná stavba kolektoru Česká–Středova. Nejdříve se zajistí statika domů a instaluje provizorní vedení parovodu a vodovodu</title>
+      <link>https://cosedeje.brno.cz//w/zacina-stavba-kolektoru-ceska-stredova-nejdrive-se-zajisti-statika-domu-a-instaluje-provizorni-vedeni-parovodu-a-vodovodu</link>
+      <description>Začíná stavba kolektoru Česká–Středova. Nejdříve se zajistí statika domů a instaluje provizorní vedení parovodu a vodovodu</description>
     </item>
     <item>
       <title>

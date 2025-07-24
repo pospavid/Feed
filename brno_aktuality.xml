@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 23 Jul 2025 16:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 08:15:18 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>LÉTO V BRNĚ: Sportovní události, které si nesmíte nechat ujít</title>
-      <link>https://cosedeje.brno.cz//w/leto-v-brne-sportovni-udalosti-ktere-si-nesmite-nechat-ujit</link>
-      <description>LÉTO V BRNĚ: Sportovní události, které si nesmíte nechat ujít</description>
     </item>
     <item>
       <title>Velká cena České republiky zavítá na náměstí Svobody</title>
@@ -168,6 +163,11 @@
       <title>Stavba nového kolektoru pod Českou se blíží. Nejdříve proběhne monitoring domů</title>
       <link>https://cosedeje.brno.cz//w/stavba-noveho-kolektoru-pod-ceskou-se-blizi-nejdrive-probehne-monitoring-domu</link>
       <description>Stavba nového kolektoru pod Českou se blíží. Nejdříve proběhne monitoring domů</description>
+    </item>
+    <item>
+      <title>Radši podzemní vlak než metro. Brno se usneslo na preferované variantě, teď záleží na Ministerstvu dopravy</title>
+      <link>https://cosedeje.brno.cz//w/radsi-podzemni-vlak-nez-metro-brno-se-usneslo-na-preferovane-variante-ted-zalezi-na-ministerstvu-dopravy</link>
+      <description>Radši podzemní vlak než metro. Brno se usneslo na preferované variantě, teď záleží na Ministerstvu dopravy</description>
     </item>
     <item>
       <title>

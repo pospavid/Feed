@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 24 Jul 2025 08:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 12:21:01 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Velká cena České republiky zavítá na náměstí Svobody</title>
-      <link>https://cosedeje.brno.cz//w/velka-cena-ceske-republiky-zavita-na-namesti-svobody</link>
-      <description>Velká cena České republiky zavítá na náměstí Svobody</description>
     </item>
     <item>
       <title>Na Novou radnici se dnes lidé nedovolají, bude bez elektřiny</title>
@@ -168,6 +163,11 @@
       <title>Radši podzemní vlak než metro. Brno se usneslo na preferované variantě, teď záleží na Ministerstvu dopravy</title>
       <link>https://cosedeje.brno.cz//w/radsi-podzemni-vlak-nez-metro-brno-se-usneslo-na-preferovane-variante-ted-zalezi-na-ministerstvu-dopravy</link>
       <description>Radši podzemní vlak než metro. Brno se usneslo na preferované variantě, teď záleží na Ministerstvu dopravy</description>
+    </item>
+    <item>
+      <title>Za Kometu se na ledě bil 20 let a vévodí tabulkám. Odešel kanonýr Josef Černý</title>
+      <link>https://cosedeje.brno.cz//w/za-kometu-se-na-lede-bil-20-let-a-vevodi-tabulkam-odesel-kanonyr-josef-cerny</link>
+      <description>Za Kometu se na ledě bil 20 let a vévodí tabulkám. Odešel kanonýr Josef Černý</description>
     </item>
     <item>
       <title>

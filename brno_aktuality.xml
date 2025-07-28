@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 27 Jul 2025 16:11:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 08:16:59 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Academy Park na Veveří se dnes otvírá. Zaparkují zde stovky aut, vyřídíte tu záležitosti týkající se modrých zón a osvěží vás zeleň</title>
-      <link>https://cosedeje.brno.cz//w/academy-park-na-veveri-se-dnes-otvira-zaparkuji-zde-stovky-aut-vyridite-tu-zalezitosti-tykajici-se-modrych-zon-a-osvezi-vas-zelen</link>
-      <description>Academy Park na Veveří se dnes otvírá. Zaparkují zde stovky aut, vyřídíte tu záležitosti týkající se modrých zón a osvěží vás zeleň</description>
     </item>
     <item>
       <title>Academy Park na Veveří se otevírá: nabízí stovky míst pro auta, novou zeleň a vyřídíte tu i záležitosti týkající se modrých zón</title>
@@ -168,6 +163,11 @@
       <title>Na co zve víkend? Užijte si Pop Messe, folklorní večery či Zbrojovku doma</title>
       <link>https://cosedeje.brno.cz//w/na-co-zve-vikend-uzijte-si-pop-messe-folklorni-vecery-ci-zbrojovku-doma</link>
       <description>Na co zve víkend? Užijte si Pop Messe, folklorní večery či Zbrojovku doma</description>
+    </item>
+    <item>
+      <title>LÉTO V BRNĚ: Dvanáctero akcí, se kterými srpen uteče jak voda</title>
+      <link>https://cosedeje.brno.cz//w/leto-v-brne-dvanactero-akci-se-kterymi-srpen-utece-jak-voda</link>
+      <description>LÉTO V BRNĚ: Dvanáctero akcí, se kterými srpen uteče jak voda</description>
     </item>
     <item>
       <title>

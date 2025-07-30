@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 30 Jul 2025 08:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 12:21:38 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,26 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Academy Park na Veveří se otevírá: nabízí stovky míst pro auta, novou zeleň a vyřídíte tu i záležitosti týkající se modrých zón</title>
-      <link>https://cosedeje.brno.cz//w/academy-park-na-veveri-se-otevira-nabizi-stovky-mist-pro-auta-novou-zelen-a-vyridite-tu-i-zalezitosti-tykajici-se-modrych-zon</link>
-      <description>Academy Park na Veveří se otevírá: nabízí stovky míst pro auta, novou zeleň a vyřídíte tu i záležitosti týkající se modrých zón</description>
-    </item>
-    <item>
-      <title>Nové pomůcky pro brněnské školky a školy pomohou dětem objevovat svět přírodních věd</title>
-      <link>https://cosedeje.brno.cz//w/nove-pomucky-pro-brnenske-skolky-a-skoly-pomohou-detem-objevovat-svet-prirodnich-ved</link>
-      <description>Nové pomůcky pro brněnské školky a školy pomohou dětem objevovat svět přírodních věd</description>
-    </item>
-    <item>
-      <title>Další krok k nové mateřské škole na Šámalově: začíná zadávací řízení</title>
-      <link>https://cosedeje.brno.cz//w/dalsi-krok-k-nove-materske-skole-na-samalove-zacina-zadavaci-rizeni</link>
-      <description>Další krok k nové mateřské škole na Šámalově: začíná zadávací řízení</description>
-    </item>
-    <item>
-      <title>Velký návrat je tu. V pátek začíná Tissot Grand Prix České republiky</title>
-      <link>https://cosedeje.brno.cz//w/velky-navrat-je-tu-v-patek-zacina-tissot-grand-prix-ceske-republiky</link>
-      <description>Velký návrat je tu. V pátek začíná Tissot Grand Prix České republiky</description>
     </item>
     <item>
       <title>Na úpravy v parcích a stromořadích přispěje Brno téměř 5 milionů korun</title>
@@ -168,6 +148,26 @@
       <title>LÉTO V BRNĚ: Dvanáctero akcí, se kterými srpen uteče jak voda</title>
       <link>https://cosedeje.brno.cz//w/leto-v-brne-dvanactero-akci-se-kterymi-srpen-utece-jak-voda</link>
       <description>LÉTO V BRNĚ: Dvanáctero akcí, se kterými srpen uteče jak voda</description>
+    </item>
+    <item>
+      <title>Střídmý levitující náhrobek respektuje dílo a odkaz Milana Kundery. Vybraný návrh je dílem rakouského architekta Johannese Paara</title>
+      <link>https://cosedeje.brno.cz//w/stridmy-levitujici-nahrobek-respektuje-dilo-a-odkaz-milana-kundery-vybrany-navrh-je-dilem-rakouskeho-architekta-johannese-paara</link>
+      <description>Střídmý levitující náhrobek respektuje dílo a odkaz Milana Kundery. Vybraný návrh je dílem rakouského architekta Johannese Paara</description>
+    </item>
+    <item>
+      <title>Výběr dodavatele varhan pro Janáčkovo kulturní centrum má začít během léta. Uchazeče i jejich nabídky budou posuzovat dvě komise</title>
+      <link>https://cosedeje.brno.cz//w/vyber-dodavatele-varhan-pro-janackovo-kulturni-centrum-ma-zacit-behem-leta-uchazece-i-jejich-nabidky-budou-posuzovat-dve-komise</link>
+      <description>Výběr dodavatele varhan pro Janáčkovo kulturní centrum má začít během léta. Uchazeče i jejich nabídky budou posuzovat dvě komise</description>
+    </item>
+    <item>
+      <title>Vše potřebné pohromadě – služby a důležité informace města v jedné aplikaci</title>
+      <link>https://cosedeje.brno.cz//w/vse-potrebne-pohromade-sluzby-a-dulezite-informace-mesta-v-jedne-aplikaci</link>
+      <description>Vše potřebné pohromadě – služby a důležité informace města v jedné aplikaci</description>
+    </item>
+    <item>
+      <title>Hala pro cyklisty a atlety bude součástí Národního sportovního centra. Nyní se vybírá zhotovitel její projektové dokumentace</title>
+      <link>https://cosedeje.brno.cz//w/hala-pro-cyklisty-a-atlety-bude-soucasti-narodniho-sportovniho-centra-nyni-se-vybira-zhotovitel-jeji-projektove-dokumentace</link>
+      <description>Hala pro cyklisty a atlety bude součástí Národního sportovního centra. Nyní se vybírá zhotovitel její projektové dokumentace</description>
     </item>
     <item>
       <title>

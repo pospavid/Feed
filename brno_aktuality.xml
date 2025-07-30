@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 30 Jul 2025 12:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 16:13:39 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Na úpravy v parcích a stromořadích přispěje Brno téměř 5 milionů korun</title>
-      <link>https://cosedeje.brno.cz//w/na-upravy-v-parcich-a-stromoradich-prispeje-brno-temer-5-milionu-korun</link>
-      <description>Na úpravy v parcích a stromořadích přispěje Brno téměř 5 milionů korun</description>
     </item>
     <item>
       <title>Jste na dítě sami? Bydlete v městském bytě za nižší nájemné</title>
@@ -168,6 +163,11 @@
       <title>Hala pro cyklisty a atlety bude součástí Národního sportovního centra. Nyní se vybírá zhotovitel její projektové dokumentace</title>
       <link>https://cosedeje.brno.cz//w/hala-pro-cyklisty-a-atlety-bude-soucasti-narodniho-sportovniho-centra-nyni-se-vybira-zhotovitel-jeji-projektove-dokumentace</link>
       <description>Hala pro cyklisty a atlety bude součástí Národního sportovního centra. Nyní se vybírá zhotovitel její projektové dokumentace</description>
+    </item>
+    <item>
+      <title>Levitující náhrobek Milana Kundery respektuje jeho dílo a odkaz. Zpracuje jej rakouský architekt Johannes Paar</title>
+      <link>https://cosedeje.brno.cz//w/levitujici-nahrobek-milana-kundery-respektuje-jeho-dilo-a-odkaz-zpracuje-jej-rakousky-architekt-johannes-paar</link>
+      <description>Levitující náhrobek Milana Kundery respektuje jeho dílo a odkaz. Zpracuje jej rakouský architekt Johannes Paar</description>
     </item>
     <item>
       <title>

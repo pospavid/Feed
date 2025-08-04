@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 04 Aug 2025 08:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 12:21:52 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Světový šampionát burácivých motorů a rychlé jízdy se po pěti letech vrací na Masarykův okruh. Atmosféru přenese i na náměstí Svobody</title>
-      <link>https://cosedeje.brno.cz//w/svetovy-sampionat-buracivych-motoru-a-rychle-jizdy-se-po-peti-letech-vraci-na-masarykuv-okruh-atmosferu-prenese-i-na-namesti-svobody</link>
-      <description>Světový šampionát burácivých motorů a rychlé jízdy se po pěti letech vrací na Masarykův okruh. Atmosféru přenese i na náměstí Svobody</description>
     </item>
     <item>
       <title>Jste na dítě sami? Bydlete v městském bytě za nižší nájemné</title>
@@ -168,6 +163,11 @@
       <title>Léto v Brně: zpestřete si procházky architekturou, historií, šiframi nebo uměním</title>
       <link>https://cosedeje.brno.cz//w/leto-v-brne-zpestrete-si-prochazky-architekturou-historii-hrami-nebo-umenim</link>
       <description>Léto v Brně: zpestřete si procházky architekturou, historií, šiframi nebo uměním</description>
+    </item>
+    <item>
+      <title>Pětice vesmírných modelů i další akce oživí Kraví horu. Startuje Festival planet</title>
+      <link>https://cosedeje.brno.cz//w/petice-vesmirnych-modelu-i-dalsi-akce-ozivi-kravi-horu-startuje-festival-planet</link>
+      <description>Pětice vesmírných modelů i další akce oživí Kraví horu. Startuje Festival planet</description>
     </item>
     <item>
       <title>

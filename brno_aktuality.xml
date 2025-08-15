@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 14 Aug 2025 16:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 08:14:44 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Vše potřebné pohromadě – služby a důležité informace města v jedné aplikaci</title>
-      <link>https://cosedeje.brno.cz//w/vse-potrebne-pohromade-sluzby-a-dulezite-informace-mesta-v-jedne-aplikaci</link>
-      <description>Vše potřebné pohromadě – služby a důležité informace města v jedné aplikaci</description>
-    </item>
-    <item>
-      <title>Hala pro cyklisty a atlety bude součástí Národního sportovního centra. Nyní se vybírá zhotovitel její projektové dokumentace</title>
-      <link>https://cosedeje.brno.cz//w/hala-pro-cyklisty-a-atlety-bude-soucasti-narodniho-sportovniho-centra-nyni-se-vybira-zhotovitel-jeji-projektove-dokumentace</link>
-      <description>Hala pro cyklisty a atlety bude součástí Národního sportovního centra. Nyní se vybírá zhotovitel její projektové dokumentace</description>
     </item>
     <item>
       <title>Levitující náhrobek Milana Kundery respektuje jeho dílo a odkaz. Zpracuje jej rakouský architekt Johannes Paar</title>
@@ -168,6 +158,16 @@
       <title>AKTUALIZOVÁNO: Slavné vítězství nad Švédy opět připomene Den Brna</title>
       <link>https://cosedeje.brno.cz//w/slavne-vitezstvi-nad-svedy-opet-pripomene-den-brna</link>
       <description>AKTUALIZOVÁNO: Slavné vítězství nad Švédy opět připomene Den Brna</description>
+    </item>
+    <item>
+      <title>Víkend se ponese ve znamení Dne Brna i festivalu podél Svitavy</title>
+      <link>https://cosedeje.brno.cz//w/vikend-se-ponese-ve-znameni-dne-brna-i-festivalu-podel-svitavy</link>
+      <description>Víkend se ponese ve znamení Dne Brna i festivalu podél Svitavy</description>
+    </item>
+    <item>
+      <title>Dalších sedm pítek lidem nabízí osvěžení díky projektu Dáme na vás</title>
+      <link>https://cosedeje.brno.cz//w/dalsich-sedm-pitek-lidem-nabizi-osvezeni-diky-projektu-dame-na-vas</link>
+      <description>Dalších sedm pítek lidem nabízí osvěžení díky projektu Dáme na vás</description>
     </item>
     <item>
       <title>

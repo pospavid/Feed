@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 18 Aug 2025 08:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 12:20:41 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Levitující náhrobek Milana Kundery respektuje jeho dílo a odkaz. Zpracuje jej rakouský architekt Johannes Paar</title>
-      <link>https://cosedeje.brno.cz//w/levitujici-nahrobek-milana-kundery-respektuje-jeho-dilo-a-odkaz-zpracuje-jej-rakousky-architekt-johannes-paar</link>
-      <description>Levitující náhrobek Milana Kundery respektuje jeho dílo a odkaz. Zpracuje jej rakouský architekt Johannes Paar</description>
     </item>
     <item>
       <title>V Jundrově budou nově od pondělka platit modré zóny</title>
@@ -168,6 +163,11 @@
       <title>Dalších sedm pítek lidem nabízí osvěžení díky projektu Dáme na vás</title>
       <link>https://cosedeje.brno.cz//w/dalsich-sedm-pitek-lidem-nabizi-osvezeni-diky-projektu-dame-na-vas</link>
       <description>Dalších sedm pítek lidem nabízí osvěžení díky projektu Dáme na vás</description>
+    </item>
+    <item>
+      <title>První strom zasazený novým způsobem získala Starobrněnská, přibyla i kruhová lavička</title>
+      <link>https://cosedeje.brno.cz//w/prvni-strom-zasazeny-novym-zpusobem-ziskala-starobrnenska-pribyla-i-kruhova-lavicka</link>
+      <description>První strom zasazený novým způsobem získala Starobrněnská, přibyla i kruhová lavička</description>
     </item>
     <item>
       <title>

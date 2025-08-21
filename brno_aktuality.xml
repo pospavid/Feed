@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 21 Aug 2025 08:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 12:19:25 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Pětice vesmírných modelů i další akce oživí Kraví horu. Startuje Festival planet</title>
-      <link>https://cosedeje.brno.cz//w/petice-vesmirnych-modelu-i-dalsi-akce-ozivi-kravi-horu-startuje-festival-planet</link>
-      <description>Pětice vesmírných modelů i další akce oživí Kraví horu. Startuje Festival planet</description>
     </item>
     <item>
       <title>Další milník ve stavbě ARENY BRNO. Hrubá stavba je hotová</title>
@@ -168,6 +163,11 @@
       <title>Brno Beach Pro na Sokolském koupališti začíná. České páry obhajují zlatý double</title>
       <link>https://cosedeje.brno.cz//w/brno-beach-pro-na-sokolskem-koupalisti-zacina-ceske-pary-obhajuji-zlaty-double</link>
       <description>Brno Beach Pro na Sokolském koupališti začíná. České páry obhajují zlatý double</description>
+    </item>
+    <item>
+      <title>Ústřední hřbitov se mění před očima. Pokračuje zde rekonstrukce</title>
+      <link>https://cosedeje.brno.cz//w/ustredni-hrbitov-se-meni-pred-ocima-pokracuje-zde-rekonstrukce</link>
+      <description>Ústřední hřbitov se mění před očima. Pokračuje zde rekonstrukce</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 25 Aug 2025 12:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 16:12:04 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Jak se připravit na krizové situace a jak je zvládat? S tím poradí příručka 72 hodin</title>
-      <link>https://cosedeje.brno.cz//w/jak-se-pripravit-na-krizove-situace-a-jak-je-zvladat-s-tim-poradi-prirucka-72-hodin</link>
-      <description>Jak se připravit na krizové situace a jak je zvládat? S tím poradí příručka 72 hodin</description>
     </item>
     <item>
       <title>LÉTO V BRNĚ: Podzemí a kostely nabízí kromě chládku i prohlídky při svíčkách nebo varhanní koncerty</title>
@@ -168,6 +163,11 @@
       <title>Noční dobrodružství, špičkový sport, hudební lahůdky i láska a porozumění. Víkend bude opět pestrý</title>
       <link>https://cosedeje.brno.cz//w/nocni-dobrodruzstvi-spickovy-sport-hudebni-lahudky-i-laska-a-porozumeni-vikend-bude-opet-pestry</link>
       <description>Noční dobrodružství, špičkový sport, hudební lahůdky i láska a porozumění. Víkend bude opět pestrý</description>
+    </item>
+    <item>
+      <title>Nový strom na Starobrněnské je zasazený podle nejnovějších zahradnických trendů</title>
+      <link>https://cosedeje.brno.cz//w/novy-strom-na-starobrnenske-je-zasazeny-podle-nejnovejsich-zahradnickych-trendu</link>
+      <description>Nový strom na Starobrněnské je zasazený podle nejnovějších zahradnických trendů</description>
     </item>
     <item>
       <title>

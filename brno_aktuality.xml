@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 01 Sep 2025 08:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 12:19:33 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Ústřední hřbitov se mění před očima. Pokračuje zde rekonstrukce</title>
-      <link>https://cosedeje.brno.cz//w/ustredni-hrbitov-se-meni-pred-ocima-pokracuje-zde-rekonstrukce</link>
-      <description>Ústřední hřbitov se mění před očima. Pokračuje zde rekonstrukce</description>
     </item>
     <item>
       <title>Noční dobrodružství, špičkový sport, hudební lahůdky i láska a porozumění. Víkend bude opět pestrý</title>
@@ -168,6 +163,11 @@
       <title>Dům ve Francouzské se dočká rozsáhlé rekonstrukce za 73 milionů korun</title>
       <link>https://cosedeje.brno.cz//w/dum-ve-francouzske-se-docka-rozsahle-rekonstrukce-za-73-milionu-korun</link>
       <description>Dům ve Francouzské se dočká rozsáhlé rekonstrukce za 73 milionů korun</description>
+    </item>
+    <item>
+      <title>Prvňáčky potěšily první školní den balíčky s pomůckami. Většina základních škol také ode dneška nabízí menstruační vložky zdarma</title>
+      <link>https://cosedeje.brno.cz//w/prvnacky-potesily-prvni-skolni-den-balicky-s-pomuckami-vetsina-zakladnich-skol-take-ode-dneska-nabizi-menstruacni-vlozky-zdarma</link>
+      <description>Prvňáčky potěšily první školní den balíčky s pomůckami. Většina základních škol také ode dneška nabízí menstruační vložky zdarma</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 02 Sep 2025 08:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 12:19:27 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nový strom na Starobrněnské je zasazený podle nejnovějších zahradnických trendů</title>
-      <link>https://cosedeje.brno.cz//w/novy-strom-na-starobrnenske-je-zasazeny-podle-nejnovejsich-zahradnickych-trendu</link>
-      <description>Nový strom na Starobrněnské je zasazený podle nejnovějších zahradnických trendů</description>
-    </item>
-    <item>
-      <title>Orli a supi z brněnské zoo se v nové voliéře prolétnou v roce 2027</title>
-      <link>https://cosedeje.brno.cz//w/orli-a-supi-z-brnenske-zoo-se-v-nove-voliere-proletnou-v-roce-2027</link>
-      <description>Orli a supi z brněnské zoo se v nové voliéře prolétnou v roce 2027</description>
     </item>
     <item>
       <title>Dvě nové retenční nádrže ochrání území v Ivanovicích a Tuřanech</title>
@@ -168,6 +158,16 @@
       <title>Oázy zeleně oživí život v Medlánkách a Řečkovicích</title>
       <link>https://cosedeje.brno.cz//w/oazy-zelene-ozivi-zivot-v-medlankach-a-reckovicich</link>
       <description>Oázy zeleně oživí život v Medlánkách a Řečkovicích</description>
+    </item>
+    <item>
+      <title>Socio Info Point slaví 15 let v nových, větších prostorách na Křenové</title>
+      <link>https://cosedeje.brno.cz//w/socio-info-point-slavi-15-let-v-novych-vetsich-prostorach-na-krenove</link>
+      <description>Socio Info Point slaví 15 let v nových, větších prostorách na Křenové</description>
+    </item>
+    <item>
+      <title>Týden pro digitální Česko propojí generace a naučí nové dovednosti</title>
+      <link>https://cosedeje.brno.cz//w/tyden-pro-digitalni-cesko-propoji-generace-a-nauci-nove-dovednosti</link>
+      <description>Týden pro digitální Česko propojí generace a naučí nové dovednosti</description>
     </item>
     <item>
       <title>

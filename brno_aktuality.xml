@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 03 Sep 2025 12:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 16:11:30 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování míří do Komína</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-miri-do-komina</link>
-      <description>Rezidentní parkování míří do Komína</description>
-    </item>
-    <item>
-      <title>Zlepšení protipovodňové ochrany – město vypracuje nebo aktualizuje tři důležité dokumenty</title>
-      <link>https://cosedeje.brno.cz//w/zlepseni-protipovodnove-ochrany-mesto-vypracuje-nebo-aktualizuje-tri-dulezite-dokumenty</link>
-      <description>Zlepšení protipovodňové ochrany – město vypracuje nebo aktualizuje tři důležité dokumenty</description>
     </item>
     <item>
       <title>Eliška Rejčka je o krok blíž svému pomníku. Změní se pro něj celý pozemek u baziliky na Starém Brně</title>
@@ -160,14 +150,24 @@
       <description>Týden pro digitální Česko propojí generace a naučí nové dovednosti</description>
     </item>
     <item>
-      <title>Brno připravuje rozšíření základní školy. Reaguje tak na očekávaný nárůst obyvatel v Medlánkách</title>
-      <link>https://cosedeje.brno.cz//w/brno-pripravuje-rozsireni-zakladni-skoly-reaguje-tak-na-ocekavany-narust-obyvatel-v-medlankach</link>
-      <description>Brno připravuje rozšíření základní školy. Reaguje tak na očekávaný nárůst obyvatel v Medlánkách</description>
-    </item>
-    <item>
       <title>Město nabude poslední pozemky potřebné pro výstavbu protipovodňových opatření v lokalitě Trnitá</title>
       <link>https://cosedeje.brno.cz//w/mesto-nabude-posledni-pozemky-potrebne-pro-vystavbu-protipovodnovych-opatreni-v-lokalite-trnita</link>
       <description>Město nabude poslední pozemky potřebné pro výstavbu protipovodňových opatření v lokalitě Trnitá</description>
+    </item>
+    <item>
+      <title>Vodní hladina, mokřady i zeleň. Vítězný návrh načrtl budoucnost Ponávky mezi Řečkovicemi a Královým Polem</title>
+      <link>https://cosedeje.brno.cz//w/vodni-hladina-mokrady-i-zelen-vitezny-navrh-nacrtl-budoucnost-ponavky-mezi-reckovicemi-a-kralovym-polem</link>
+      <description>Vodní hladina, mokřady i zeleň. Vítězný návrh načrtl budoucnost Ponávky mezi Řečkovicemi a Královým Polem</description>
+    </item>
+    <item>
+      <title>Festival vědy a techniky na výstavišti nabídne workshopy, diskuse nebo divadlo</title>
+      <link>https://cosedeje.brno.cz//w/festival-vedy-a-techniky-na-vystavisti-nabidne-workshopy-diskuse-nebo-divadlo</link>
+      <description>Festival vědy a techniky na výstavišti nabídne workshopy, diskuse nebo divadlo</description>
+    </item>
+    <item>
+      <title>Městské lesy mají novou přírodní rezervaci. Nachází se kousek od Brna</title>
+      <link>https://cosedeje.brno.cz//w/mestske-lesy-maji-novou-prirodni-rezervaci-nachazi-se-kousek-od-brna</link>
+      <description>Městské lesy mají novou přírodní rezervaci. Nachází se kousek od Brna</description>
     </item>
     <item>
       <title>

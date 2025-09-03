@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 03 Sep 2025 08:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 12:18:36 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Dvě nové retenční nádrže ochrání území v Ivanovicích a Tuřanech</title>
-      <link>https://cosedeje.brno.cz//w/dve-nove-retencni-nadrze-ochrani-uzemi-v-ivanovicich-a-turanech</link>
-      <description>Dvě nové retenční nádrže ochrání území v Ivanovicích a Tuřanech</description>
-    </item>
-    <item>
-      <title>Stavba nového bulváru, který propojí centrum s novým nádražím, se blíží. Firmy mohou předkládat nabídky na veřejnou zakázku</title>
-      <link>https://cosedeje.brno.cz//w/stavba-noveho-bulvaru-ktery-propoji-centrum-s-novym-nadrazim-se-blizi-firmy-mohou-predkladat-nabidky-na-verejnou-zakazku</link>
-      <description>Stavba nového bulváru, který propojí centrum s novým nádražím, se blíží. Firmy mohou předkládat nabídky na veřejnou zakázku</description>
     </item>
     <item>
       <title>Rezidentní parkování míří do Komína</title>
@@ -168,6 +158,16 @@
       <title>Týden pro digitální Česko propojí generace a naučí nové dovednosti</title>
       <link>https://cosedeje.brno.cz//w/tyden-pro-digitalni-cesko-propoji-generace-a-nauci-nove-dovednosti</link>
       <description>Týden pro digitální Česko propojí generace a naučí nové dovednosti</description>
+    </item>
+    <item>
+      <title>Brno připravuje rozšíření základní školy. Reaguje tak na očekávaný nárůst obyvatel v Medlánkách</title>
+      <link>https://cosedeje.brno.cz//w/brno-pripravuje-rozsireni-zakladni-skoly-reaguje-tak-na-ocekavany-narust-obyvatel-v-medlankach</link>
+      <description>Brno připravuje rozšíření základní školy. Reaguje tak na očekávaný nárůst obyvatel v Medlánkách</description>
+    </item>
+    <item>
+      <title>Město nabude poslední pozemky potřebné pro výstavbu protipovodňových opatření v lokalitě Trnitá</title>
+      <link>https://cosedeje.brno.cz//w/mesto-nabude-posledni-pozemky-potrebne-pro-vystavbu-protipovodnovych-opatreni-v-lokalite-trnita</link>
+      <description>Město nabude poslední pozemky potřebné pro výstavbu protipovodňových opatření v lokalitě Trnitá</description>
     </item>
     <item>
       <title>

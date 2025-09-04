@@ -7,17 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 04 Sep 2025 08:13:19 +0000</lastBuildDate>
-    <item>
-      <title>Výsledky losování startovacích bytů pro jednotlivce dne 17. 3. 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-jednotlivce-dne-17-3-2025/</link>
-      <description>Výsledky losování startovacích bytů pro jednotlivce dne 17. 3. 2025</description>
-    </item>
-    <item>
-      <title>Nabídka bytů pro osamělé rodiče s dětmi v domech Křenová 76 a Bratislavská 51</title>
-      <link>https://bydleni.brno.cz/aktuality/nabidka-bytu-pro-osamele-rodice-s-detmi-v-domech-krenova-76-a-bratislavska-51/</link>
-      <description>Nabídka bytů pro osamělé rodiče s dětmi v domech Křenová 76 a Bratislavská 51</description>
-    </item>
+    <lastBuildDate>Thu, 04 Sep 2025 12:18:31 +0000</lastBuildDate>
     <item>
       <title>Nabídka startovacích bytů pro páry</title>
       <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-pary/</link>
@@ -67,6 +57,16 @@
       <title>Výsledky losování startovacích bytů dne 18. srpna 2025</title>
       <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-dne-18-8-2025/</link>
       <description>Výsledky losování startovacích bytů dne 18. srpna 2025</description>
+    </item>
+    <item>
+      <title>Nabídka startovacích bytů pro páry i jednotlivce - září 2025</title>
+      <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-pary-i-jednotlivce/</link>
+      <description>Nabídka startovacích bytů pro páry i jednotlivce - září 2025</description>
+    </item>
+    <item>
+      <title>Nabídka bytu pro osamělé rodiče s dětmi v domě Vlhká 22</title>
+      <link>https://bydleni.brno.cz/aktuality/nabidka-bytu-pro-osamele-rodice-s-detmi-v-dome-vlhka-22/</link>
+      <description>Nabídka bytu pro osamělé rodiče s dětmi v domě Vlhká 22</description>
     </item>
   </channel>
 </rss>

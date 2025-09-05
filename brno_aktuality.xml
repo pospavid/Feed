@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 05 Sep 2025 08:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 12:17:53 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Vedení města jednalo se zástupci fotbalového klubu FC Zbrojovka Brno. Společně budou pokračovat v přípravě výstavby nového stadionu</title>
-      <link>https://cosedeje.brno.cz//w/vedeni-mesta-jednalo-se-zastupci-fotbaloveho-klubu-fc-zbrojovka-brno-spolecne-budou-pokracovat-v-priprave-vystavby-noveho-stadionu</link>
-      <description>Vedení města jednalo se zástupci fotbalového klubu FC Zbrojovka Brno. Společně budou pokračovat v přípravě výstavby nového stadionu</description>
     </item>
     <item>
       <title>Během tří měsíců má Brno téměř pět kilometrů opravených tramvajových tratí. Linky MHD se od 1. září vrací na své trasy</title>
@@ -168,6 +163,11 @@
       <title>Víkendové tipy: navštivte Festival vědy, Den náborů i dobročinné akce</title>
       <link>https://cosedeje.brno.cz//w/vikendove-tipy-navstivte-festival-vedy-den-naboru-i-dobrocinne-akce</link>
       <description>Víkendové tipy: navštivte Festival vědy, Den náborů i dobročinné akce</description>
+    </item>
+    <item>
+      <title>Na procházku na nové hlavní nádraží? Rezervační systém na virtuální model Virtuplex byl spuštěn</title>
+      <link>https://cosedeje.brno.cz//w/na-prochazku-na-nove-hlavni-nadrazi-rezervacni-system-na-virtualni-model-virtuplex-byl-spusten</link>
+      <description>Na procházku na nové hlavní nádraží? Rezervační systém na virtuální model Virtuplex byl spuštěn</description>
     </item>
     <item>
       <title>

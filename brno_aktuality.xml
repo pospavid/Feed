@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 07 Sep 2025 08:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 12:16:23 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Během tří měsíců má Brno téměř pět kilometrů opravených tramvajových tratí. Linky MHD se od 1. září vrací na své trasy</title>
-      <link>https://cosedeje.brno.cz//w/behem-tri-mesicu-ma-brno-temer-pet-kilometru-opravenych-tramvajovych-trati-linky-mhd-se-od-1-zari-vraci-na-sve-trasy</link>
-      <description>Během tří měsíců má Brno téměř pět kilometrů opravených tramvajových tratí. Linky MHD se od 1. září vrací na své trasy</description>
     </item>
     <item>
       <title>Brno investuje do sportu napříč generacemi</title>
@@ -168,6 +163,11 @@
       <title>Na procházku na nové hlavní nádraží? Rezervační systém na virtuální model Virtuplex byl spuštěn</title>
       <link>https://cosedeje.brno.cz//w/na-prochazku-na-nove-hlavni-nadrazi-rezervacni-system-na-virtualni-model-virtuplex-byl-spusten</link>
       <description>Na procházku na nové hlavní nádraží? Rezervační systém na virtuální model Virtuplex byl spuštěn</description>
+    </item>
+    <item>
+      <title>Nové domy v Holáskách rostou do výšky. Stojí na místě osídleném už od pravěku</title>
+      <link>https://cosedeje.brno.cz//w/archeologicky-vyzkum-holasky</link>
+      <description>Nové domy v Holáskách rostou do výšky. Stojí na místě osídleném už od pravěku</description>
     </item>
     <item>
       <title>

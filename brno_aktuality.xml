@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 08 Sep 2025 08:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 12:20:04 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno investuje do sportu napříč generacemi</title>
-      <link>https://cosedeje.brno.cz//w/brno-investuje-do-sportu-napric-generacemi</link>
-      <description>Brno investuje do sportu napříč generacemi</description>
-    </item>
-    <item>
-      <title>Město se pouští do rekonstrukce Chleborádovy vily, pak ji chce proměnit v centrum Leoše Janáčka</title>
-      <link>https://cosedeje.brno.cz//w/mesto-se-pousti-do-rekonstrukce-chleboradovy-vily-pak-ji-chce-promenit-v-centrum-leose-janacka</link>
-      <description>Město se pouští do rekonstrukce Chleborádovy vily, pak ji chce proměnit v centrum Leoše Janáčka</description>
-    </item>
-    <item>
-      <title>Brněnský metropolitan č. 9/25</title>
-      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-9-25</link>
-      <description>Brněnský metropolitan č. 9/25</description>
     </item>
     <item>
       <title>S novým školním rokem se brněnské dopravě odlehčí</title>
@@ -168,6 +153,21 @@
       <title>Nové domy v Holáskách rostou do výšky. Stojí na místě osídleném už od pravěku</title>
       <link>https://cosedeje.brno.cz//w/archeologicky-vyzkum-holasky</link>
       <description>Nové domy v Holáskách rostou do výšky. Stojí na místě osídleném už od pravěku</description>
+    </item>
+    <item>
+      <title>Podzimní nabídka bytů se sníženým nájemným platí pro mladé singles, páry i rodiče samoživitele</title>
+      <link>https://cosedeje.brno.cz//w/podzimni-nabidka-bytu-se-snizenym-najemnym-plati-pro-mlade-singles-pary-i-rodice-samozivitele</link>
+      <description>Podzimní nabídka bytů se sníženým nájemným platí pro mladé singles, páry i rodiče samoživitele</description>
+    </item>
+    <item>
+      <title>Jubileum Masarykovy čtvrti je příležitostí k jejímu poznávání</title>
+      <link>https://cosedeje.brno.cz//w/jubileum-masarykovy-ctvrti-je-prilezitosti-k-jejimu-poznavani</link>
+      <description>Jubileum Masarykovy čtvrti je příležitostí k jejímu poznávání</description>
+    </item>
+    <item>
+      <title>Za měsíc budou lidé volit své zástupce do Poslanecké sněmovny</title>
+      <link>https://cosedeje.brno.cz//w/za-mesic-budou-lide-volit-sve-zastupce-do-poslanecke-snemovny</link>
+      <description>Za měsíc budou lidé volit své zástupce do Poslanecké sněmovny</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 10 Sep 2025 08:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 12:18:37 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -70,16 +70,6 @@
       <description>Aktuality</description>
     </item>
     <item>
-      <title>Týden pro digitální Česko propojí generace a naučí nové dovednosti</title>
-      <link>https://cosedeje.brno.cz//w/tyden-pro-digitalni-cesko-propoji-generace-a-nauci-nove-dovednosti</link>
-      <description>Týden pro digitální Česko propojí generace a naučí nové dovednosti</description>
-    </item>
-    <item>
-      <title>Město nabude poslední pozemky potřebné pro výstavbu protipovodňových opatření v lokalitě Trnitá</title>
-      <link>https://cosedeje.brno.cz//w/mesto-nabude-posledni-pozemky-potrebne-pro-vystavbu-protipovodnovych-opatreni-v-lokalite-trnita</link>
-      <description>Město nabude poslední pozemky potřebné pro výstavbu protipovodňových opatření v lokalitě Trnitá</description>
-    </item>
-    <item>
       <title>Vodní hladina, mokřady i zeleň. Vítězný návrh načrtl budoucnost Ponávky mezi Řečkovicemi a Královým Polem</title>
       <link>https://cosedeje.brno.cz//w/vodni-hladina-mokrady-i-zelen-vitezny-navrh-nacrtl-budoucnost-ponavky-mezi-reckovicemi-a-kralovym-polem</link>
       <description>Vodní hladina, mokřady i zeleň. Vítězný návrh načrtl budoucnost Ponávky mezi Řečkovicemi a Královým Polem</description>
@@ -113,6 +103,11 @@
       <title>Na procházku na nové hlavní nádraží? Rezervační systém na virtuální model Virtuplex byl spuštěn</title>
       <link>https://cosedeje.brno.cz//w/na-prochazku-na-nove-hlavni-nadrazi-rezervacni-system-na-virtualni-model-virtuplex-byl-spusten</link>
       <description>Na procházku na nové hlavní nádraží? Rezervační systém na virtuální model Virtuplex byl spuštěn</description>
+    </item>
+    <item>
+      <title>Na Špilberku se sešli ambasadoři horkovodu s vedením města a ministrem životního prostředí</title>
+      <link>https://cosedeje.brno.cz//w/na-spilberku-se-sesli-ambasadori-horkovodu-s-vedenim-mesta-a-ministrem-zivotniho-prostredi</link>
+      <description>Na Špilberku se sešli ambasadoři horkovodu s vedením města a ministrem životního prostředí</description>
     </item>
     <item>
       <title>Nové domy v Holáskách rostou do výšky. Stojí na místě osídleném už od pravěku</title>
@@ -160,14 +155,19 @@
       <description>V Bystrci nejpozději do 10 let vznikne nová základna záchranky. Město pro ni kraji darovalo pozemky</description>
     </item>
     <item>
-      <title>Na Špilberku se sešli ambasadoři horkovodu s vedením města a ministrem životního prostředí</title>
-      <link>https://cosedeje.brno.cz//w/na-spilberku-se-sesli-ambasadori-horkovodu-s-vedenim-mesta-a-ministrem-zivotniho-prostredi</link>
-      <description>Na Špilberku se sešli ambasadoři horkovodu s vedením města a ministrem životního prostředí</description>
-    </item>
-    <item>
       <title>Zastupitelé projednali po prázdninách více než 170 bodů. Tématem bylo například majetkoprávní vypořádání pro protipovodňová opatření i výstavba nového fotbalového stadionu</title>
       <link>https://cosedeje.brno.cz//w/zastupitele-projednali-po-prazdninach-vice-nez-170-bodu-tematem-bylo-napriklad-majetkopravni-vyporadani-pro-protipovodnova-opatreni-i-vystavba-noveho-fotbaloveho-stadionu</link>
       <description>Zastupitelé projednali po prázdninách více než 170 bodů. Tématem bylo například majetkoprávní vypořádání pro protipovodňová opatření i výstavba nového fotbalového stadionu</description>
+    </item>
+    <item>
+      <title>Zjistěte, jak bude vypadat Brno v budoucnosti. Přiblíží to Informační centrum rozvojových projektů v Brně</title>
+      <link>https://cosedeje.brno.cz//w/zjistete-jak-bude-vypadat-brno-v-budoucnosti-priblizi-to-informacni-centrum-rozvojovych-staveb-v-brne</link>
+      <description>Zjistěte, jak bude vypadat Brno v budoucnosti. Přiblíží to Informační centrum rozvojových projektů v Brně</description>
+    </item>
+    <item>
+      <title>Děti ze ZŠ Tuháčkova nakreslily, jak vidí lepší dopravu do školy</title>
+      <link>https://cosedeje.brno.cz//w/deti-ze-zs-tuhackova-nakreslily-jak-vidi-lepsi-dopravu-do-skoly</link>
+      <description>Děti ze ZŠ Tuháčkova nakreslily, jak vidí lepší dopravu do školy</description>
     </item>
     <item>
       <title>

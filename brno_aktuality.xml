@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 11 Sep 2025 12:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 16:11:19 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Festival vědy a techniky na výstavišti nabídne workshopy, diskuse nebo divadlo</title>
-      <link>https://cosedeje.brno.cz//w/festival-vedy-a-techniky-na-vystavisti-nabidne-workshopy-diskuse-nebo-divadlo</link>
-      <description>Festival vědy a techniky na výstavišti nabídne workshopy, diskuse nebo divadlo</description>
     </item>
     <item>
       <title>Městské lesy mají novou přírodní rezervaci. Nachází se kousek od Brna</title>
@@ -168,6 +163,11 @@
       <title>Jaké stavby se v Brně chystají, ukazuje nové informační centrum</title>
       <link>https://cosedeje.brno.cz//w/jake-stavby-se-v-brne-chystaji-ukazuje-nove-informacni-centrum</link>
       <description>Jaké stavby se v Brně chystají, ukazuje nové informační centrum</description>
+    </item>
+    <item>
+      <title>Nepoužívané, dokonce i nepojízdné kolo dovezte na výstaviště. Pomůže dětem v Africe</title>
+      <link>https://cosedeje.brno.cz//w/nepouzivane-dokonce-i-nepojizdne-kolo-dovezte-na-vystaviste-pomuze-detem-v-africe</link>
+      <description>Nepoužívané, dokonce i nepojízdné kolo dovezte na výstaviště. Pomůže dětem v Africe</description>
     </item>
     <item>
       <title>

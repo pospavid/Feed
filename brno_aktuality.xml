@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 11 Sep 2025 16:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 08:13:20 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Městské lesy mají novou přírodní rezervaci. Nachází se kousek od Brna</title>
-      <link>https://cosedeje.brno.cz//w/mestske-lesy-maji-novou-prirodni-rezervaci-nachazi-se-kousek-od-brna</link>
-      <description>Městské lesy mají novou přírodní rezervaci. Nachází se kousek od Brna</description>
     </item>
     <item>
       <title>Participativní rozpočet podpořil onkologicky léčené děti. Nechyběly volnočasové aktivity ani terapie</title>
@@ -168,6 +163,11 @@
       <title>Nepoužívané, dokonce i nepojízdné kolo dovezte na výstaviště. Pomůže dětem v Africe</title>
       <link>https://cosedeje.brno.cz//w/nepouzivane-dokonce-i-nepojizdne-kolo-dovezte-na-vystaviste-pomuze-detem-v-africe</link>
       <description>Nepoužívané, dokonce i nepojízdné kolo dovezte na výstaviště. Pomůže dětem v Africe</description>
+    </item>
+    <item>
+      <title>Šotodays přilákají o víkendu fanoušky MHD, čekají vás i výstavy nebo benefiční běh</title>
+      <link>https://cosedeje.brno.cz//w/sotodays-prilakaji-o-vikendu-fanousky-mhd-cekaji-vas-i-vystavy-nebo-beneficni-beh</link>
+      <description>Šotodays přilákají o víkendu fanoušky MHD, čekají vás i výstavy nebo benefiční běh</description>
     </item>
     <item>
       <title>

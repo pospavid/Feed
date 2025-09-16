@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 16 Sep 2025 08:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 12:18:53 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Víkendové tipy: navštivte Festival vědy, Den náborů i dobročinné akce</title>
-      <link>https://cosedeje.brno.cz//w/vikendove-tipy-navstivte-festival-vedy-den-naboru-i-dobrocinne-akce</link>
-      <description>Víkendové tipy: navštivte Festival vědy, Den náborů i dobročinné akce</description>
-    </item>
-    <item>
-      <title>Na procházku na nové hlavní nádraží? Rezervační systém na virtuální model Virtuplex byl spuštěn</title>
-      <link>https://cosedeje.brno.cz//w/na-prochazku-na-nove-hlavni-nadrazi-rezervacni-system-na-virtualni-model-virtuplex-byl-spusten</link>
-      <description>Na procházku na nové hlavní nádraží? Rezervační systém na virtuální model Virtuplex byl spuštěn</description>
-    </item>
-    <item>
-      <title>Na Špilberku se sešli ambasadoři horkovodu s vedením města a ministrem životního prostředí</title>
-      <link>https://cosedeje.brno.cz//w/na-spilberku-se-sesli-ambasadori-horkovodu-s-vedenim-mesta-a-ministrem-zivotniho-prostredi</link>
-      <description>Na Špilberku se sešli ambasadoři horkovodu s vedením města a ministrem životního prostředí</description>
     </item>
     <item>
       <title>Nové domy v Holáskách rostou do výšky. Stojí na místě osídleném už od pravěku</title>
@@ -168,6 +153,21 @@
       <title>Novou naučnou stezku sv. Antoníčka otevře komentovaná procházka</title>
       <link>https://cosedeje.brno.cz//w/novou-naucnou-stezku-sv-antonicka-otevre-komentovana-prochazka</link>
       <description>Novou naučnou stezku sv. Antoníčka otevře komentovaná procházka</description>
+    </item>
+    <item>
+      <title>V brněnském krematoriu byla dokončena rekonstrukce za téměř sto milionů korun</title>
+      <link>https://cosedeje.brno.cz//w/v-brnenskem-krematoriu-byla-dokoncena-rekonstrukce-za-temer-sto-milionu-korun</link>
+      <description>V brněnském krematoriu byla dokončena rekonstrukce za téměř sto milionů korun</description>
+    </item>
+    <item>
+      <title>Brněnský orloj slaví patnáctiny jubilejní edicí kuliček</title>
+      <link>https://cosedeje.brno.cz//w/brnensky-orloj-slavi-patnactiny-jubilejni-edici-kulicek</link>
+      <description>Brněnský orloj slaví patnáctiny jubilejní edicí kuliček</description>
+    </item>
+    <item>
+      <title>Objevte cestu k domácím potravinám přímo od farmářů</title>
+      <link>https://cosedeje.brno.cz//w/objevte-cestu-k-domacim-potravinam-primo-od-farmaru</link>
+      <description>Objevte cestu k domácím potravinám přímo od farmářů</description>
     </item>
     <item>
       <title>

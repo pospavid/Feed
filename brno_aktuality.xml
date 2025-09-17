@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 17 Sep 2025 08:13:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 12:18:59 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nové domy v Holáskách rostou do výšky. Stojí na místě osídleném už od pravěku</title>
-      <link>https://cosedeje.brno.cz//w/archeologicky-vyzkum-holasky</link>
-      <description>Nové domy v Holáskách rostou do výšky. Stojí na místě osídleném už od pravěku</description>
-    </item>
-    <item>
-      <title>Podzimní nabídka bytů se sníženým nájemným platí pro mladé singles, páry i rodiče samoživitele</title>
-      <link>https://cosedeje.brno.cz//w/podzimni-nabidka-bytu-se-snizenym-najemnym-plati-pro-mlade-singles-pary-i-rodice-samozivitele</link>
-      <description>Podzimní nabídka bytů se sníženým nájemným platí pro mladé singles, páry i rodiče samoživitele</description>
-    </item>
-    <item>
-      <title>Jubileum Masarykovy čtvrti je příležitostí k jejímu poznávání</title>
-      <link>https://cosedeje.brno.cz//w/jubileum-masarykovy-ctvrti-je-prilezitosti-k-jejimu-poznavani</link>
-      <description>Jubileum Masarykovy čtvrti je příležitostí k jejímu poznávání</description>
     </item>
     <item>
       <title>Za měsíc budou lidé volit své zástupce do Poslanecké sněmovny</title>
@@ -168,6 +153,21 @@
       <title>Objevte cestu k domácím potravinám přímo od farmářů</title>
       <link>https://cosedeje.brno.cz//w/objevte-cestu-k-domacim-potravinam-primo-od-farmaru</link>
       <description>Objevte cestu k domácím potravinám přímo od farmářů</description>
+    </item>
+    <item>
+      <title>Nová místa pro předškolní děti: kapacity se navýší po celém Brně</title>
+      <link>https://cosedeje.brno.cz//w/nova-mista-pro-predskolni-deti-kapacity-se-navysi-po-celem-brne</link>
+      <description>Nová místa pro předškolní děti: kapacity se navýší po celém Brně</description>
+    </item>
+    <item>
+      <title>Sběrné středisko odpadů v Králově Poli by se mělo začít projektovat do roku 2026</title>
+      <link>https://cosedeje.brno.cz//w/sberne-stredisko-odpadu-v-kralove-poli-by-se-melo-zacit-projektovat-do-roku-2026</link>
+      <description>Sběrné středisko odpadů v Králově Poli by se mělo začít projektovat do roku 2026</description>
+    </item>
+    <item>
+      <title>Železniční poliklinika ustoupí povodňovému parku. Její demolice začne ještě letos</title>
+      <link>https://cosedeje.brno.cz//w/zeleznicni-poliklinika-ustoupi-povodnovemu-parku-jeji-demolice-zacne-jeste-letos</link>
+      <description>Železniční poliklinika ustoupí povodňovému parku. Její demolice začne ještě letos</description>
     </item>
     <item>
       <title>

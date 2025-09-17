@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 17 Sep 2025 12:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 16:12:12 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Za měsíc budou lidé volit své zástupce do Poslanecké sněmovny</title>
-      <link>https://cosedeje.brno.cz//w/za-mesic-budou-lide-volit-sve-zastupce-do-poslanecke-snemovny</link>
-      <description>Za měsíc budou lidé volit své zástupce do Poslanecké sněmovny</description>
     </item>
     <item>
       <title>Jak funguje brněnský orloj a jak z něj vyčíst aktuální čas, vysvětlí na „komentované hodince“</title>
@@ -168,6 +163,11 @@
       <title>Železniční poliklinika ustoupí povodňovému parku. Její demolice začne ještě letos</title>
       <link>https://cosedeje.brno.cz//w/zeleznicni-poliklinika-ustoupi-povodnovemu-parku-jeji-demolice-zacne-jeste-letos</link>
       <description>Železniční poliklinika ustoupí povodňovému parku. Její demolice začne ještě letos</description>
+    </item>
+    <item>
+      <title>Letecky z Brna do Frankfurtu a dále do světa. Město a kraj chtějí zajistit další linku</title>
+      <link>https://cosedeje.brno.cz//w/letecky-z-brna-do-frankfurtu-a-dale-do-sveta-mesto-a-kraj-chteji-zajistit-dalsi-linku</link>
+      <description>Letecky z Brna do Frankfurtu a dále do světa. Město a kraj chtějí zajistit další linku</description>
     </item>
     <item>
       <title>

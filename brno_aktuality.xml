@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 18 Sep 2025 16:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 08:13:43 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Na dvacet vědců a vědkyň ze zahraničí bude pracovat v Brně díky evropské dotaci</title>
-      <link>https://cosedeje.brno.cz//w/na-dvacet-vedcu-a-vedkyn-ze-zahranici-bude-pracovat-v-brne-diky-evropske-dotaci</link>
-      <description>Na dvacet vědců a vědkyň ze zahraničí bude pracovat v Brně díky evropské dotaci</description>
     </item>
     <item>
       <title>V Bystrci nejpozději do 10 let vznikne nová základna záchranky. Město pro ni kraji darovalo pozemky</title>
@@ -168,6 +163,11 @@
       <title>Odešla Daniela Hammer-Tugendhat, nejmladší dcera původních majitelů vily Tugendhat</title>
       <link>https://cosedeje.brno.cz//w/odesla-daniela-hammer-tugendhat-nejmladsi-dcera-puvodnich-majitelu-vily-tugendhat</link>
       <description>Odešla Daniela Hammer-Tugendhat, nejmladší dcera původních majitelů vily Tugendhat</description>
+    </item>
+    <item>
+      <title>Co přinese víkend? Těšte se na Den mobility či přivítání dželad</title>
+      <link>https://cosedeje.brno.cz//w/co-prinese-vikend-teste-se-na-den-mobility-ci-privitani-dzelad</link>
+      <description>Co přinese víkend? Těšte se na Den mobility či přivítání dželad</description>
     </item>
     <item>
       <title>

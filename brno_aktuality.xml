@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 29 Sep 2025 12:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 16:10:12 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Letecky z Brna do Frankfurtu a dále do světa. Město a kraj chtějí zajistit další linku</title>
-      <link>https://cosedeje.brno.cz//w/letecky-z-brna-do-frankfurtu-a-dale-do-sveta-mesto-a-kraj-chteji-zajistit-dalsi-linku</link>
-      <description>Letecky z Brna do Frankfurtu a dále do světa. Město a kraj chtějí zajistit další linku</description>
     </item>
     <item>
       <title>15 faktů o orloji, který dnes slaví patnáctiny</title>
@@ -168,6 +163,11 @@
       <title>Tuřany mají dvě nová hřiště. Bude se na nich konat sportovní odpoledne</title>
       <link>https://cosedeje.brno.cz//w/turany-maji-dve-nova-hriste-bude-se-na-nich-konat-sportovni-odpoledne</link>
       <description>Tuřany mají dvě nová hřiště. Bude se na nich konat sportovní odpoledne</description>
+    </item>
+    <item>
+      <title>Brno bude v říjnu městem onkologické prevence. Kampaň zahájí osvětová akce v Olympii</title>
+      <link>https://cosedeje.brno.cz//w/brno-bude-v-rijnu-mestem-onkologicke-prevence-kampan-zahaji-osvetova-akce-v-olympii</link>
+      <description>Brno bude v říjnu městem onkologické prevence. Kampaň zahájí osvětová akce v Olympii</description>
     </item>
     <item>
       <title>

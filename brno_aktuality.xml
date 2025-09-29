@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 28 Sep 2025 16:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 08:15:08 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Železniční poliklinika ustoupí povodňovému parku. Její demolice začne ještě letos</title>
-      <link>https://cosedeje.brno.cz//w/zeleznicni-poliklinika-ustoupi-povodnovemu-parku-jeji-demolice-zacne-jeste-letos</link>
-      <description>Železniční poliklinika ustoupí povodňovému parku. Její demolice začne ještě letos</description>
     </item>
     <item>
       <title>Letecky z Brna do Frankfurtu a dále do světa. Město a kraj chtějí zajistit další linku</title>
@@ -168,6 +163,11 @@
       <title>Od komiksu přes módu po řemesla. Brno Creative Days jsou letos bohatší</title>
       <link>https://cosedeje.brno.cz//w/od-komiksu-pres-modu-po-remesla-brno-creative-days-jsou-letos-bohatsi</link>
       <description>Od komiksu přes módu po řemesla. Brno Creative Days jsou letos bohatší</description>
+    </item>
+    <item>
+      <title>Tuřany mají dvě nová hřiště. Bude se na nich konat sportovní odpoledne</title>
+      <link>https://cosedeje.brno.cz//w/turany-maji-dve-nova-hriste-bude-se-na-nich-konat-sportovni-odpoledne</link>
+      <description>Tuřany mají dvě nová hřiště. Bude se na nich konat sportovní odpoledne</description>
     </item>
     <item>
       <title>

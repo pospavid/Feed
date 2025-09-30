@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 30 Sep 2025 12:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 16:12:27 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>15 faktů o orloji, který dnes slaví patnáctiny</title>
-      <link>https://cosedeje.brno.cz//w/15-faktu-o-orloji-ktery-dnes-slavi-patnactiny</link>
-      <description>15 faktů o orloji, který dnes slaví patnáctiny</description>
     </item>
     <item>
       <title>V bývalé průmyslové lokalitě vyrostou nové byty a škola</title>
@@ -168,6 +163,11 @@
       <title>Brno bude v říjnu městem onkologické prevence. Kampaň zahájí osvětová akce v Olympii</title>
       <link>https://cosedeje.brno.cz//w/brno-bude-v-rijnu-mestem-onkologicke-prevence-kampan-zahaji-osvetova-akce-v-olympii</link>
       <description>Brno bude v říjnu městem onkologické prevence. Kampaň zahájí osvětová akce v Olympii</description>
+    </item>
+    <item>
+      <title>V Bystrci začíná stavba nové tramvajové trati za dvě miliardy korun</title>
+      <link>https://cosedeje.brno.cz//w/v-bystrci-zacina-stavba-nove-tramvajove-trati-za-dve-miliardy-korun</link>
+      <description>V Bystrci začíná stavba nové tramvajové trati za dvě miliardy korun</description>
     </item>
     <item>
       <title>

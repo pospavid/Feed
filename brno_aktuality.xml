@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 01 Oct 2025 12:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 16:12:42 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Co potřebujete vědět o volbách do poslanecké sněmovny</title>
-      <link>https://cosedeje.brno.cz//w/za-mesic-budou-lide-volit-sve-zastupce-do-poslanecke-snemovny</link>
-      <description>Co potřebujete vědět o volbách do poslanecké sněmovny</description>
     </item>
     <item>
       <title>Rezidentní parkování nově platí v oblastech Kolejní a Absolonova</title>
@@ -168,6 +163,11 @@
       <title>Rezidentní parkování se rozšíří o dvě oblasti v Králově Poli</title>
       <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-se-rozsiri-o-dve-oblasti-v-kralove-poli</link>
       <description>Rezidentní parkování se rozšíří o dvě oblasti v Králově Poli</description>
+    </item>
+    <item>
+      <title>Nádražní budova v Králově Poli už slouží cestujícím</title>
+      <link>https://cosedeje.brno.cz//w/novou-budovu-mohou-odted-vyuzivat-cestujici-na-nadrazi-v-kralove-poli</link>
+      <description>Nádražní budova v Králově Poli už slouží cestujícím</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 02 Oct 2025 08:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 12:18:05 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brněnský metropolitan č. 10/25</title>
-      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-10-25</link>
-      <description>Brněnský metropolitan č. 10/25</description>
-    </item>
-    <item>
-      <title>Do dvou likusáků na Kraví hoře se vrátili nájemci, místo tří vznikne park</title>
-      <link>https://cosedeje.brno.cz//w/do-dvou-likusaku-na-kravi-hore-se-vratili-najemci-misto-tri-vznikne-park</link>
-      <description>Do dvou likusáků na Kraví hoře se vrátili nájemci, místo tří vznikne park</description>
     </item>
     <item>
       <title>Rodičovské vouchery budou pokračovat i v příštím roce</title>
@@ -168,6 +158,16 @@
       <title>Z Brna do Vídně vysokorychlostním vlakem? Jsme o krok blíž, projekt získal kladné stanovisko EIA</title>
       <link>https://cosedeje.brno.cz//w/z-brna-do-vidne-vysokorychlostnim-vlakem-jsme-o-krok-bliz-projekt-ziskal-kladne-stanovisko-eia</link>
       <description>Z Brna do Vídně vysokorychlostním vlakem? Jsme o krok blíž, projekt získal kladné stanovisko EIA</description>
+    </item>
+    <item>
+      <title>Základní škola na Slovanském náměstí snižuje svou energetickou náročnost pomocí nových svítidel</title>
+      <link>https://cosedeje.brno.cz//w/zakladni-skola-na-slovanskem-namesti-snizuje-svou-energetickou-narocnost-pomoci-novych-svitidel</link>
+      <description>Základní škola na Slovanském náměstí snižuje svou energetickou náročnost pomocí nových svítidel</description>
+    </item>
+    <item>
+      <title>Radní v návaznosti na usnesení zastupitelstva zrušili zadávací řízení na zhotovitele demolice lužáneckého stadionu</title>
+      <link>https://cosedeje.brno.cz//w/radni-v-navaznosti-na-usneseni-zastupitelstva-zrusili-zadavaci-rizeni-na-zhotovitele-demolice-luzaneckeho-stadionu</link>
+      <description>Radní v návaznosti na usnesení zastupitelstva zrušili zadávací řízení na zhotovitele demolice lužáneckého stadionu</description>
     </item>
     <item>
       <title>

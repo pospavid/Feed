@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 01 Oct 2025 16:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 08:13:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování nově platí v oblastech Kolejní a Absolonova</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblastech-kolejni-a-absolonova</link>
-      <description>Rezidentní parkování nově platí v oblastech Kolejní a Absolonova</description>
     </item>
     <item>
       <title>Brněnský metropolitan č. 10/25</title>
@@ -168,6 +163,11 @@
       <title>Nádražní budova v Králově Poli už slouží cestujícím</title>
       <link>https://cosedeje.brno.cz//w/novou-budovu-mohou-odted-vyuzivat-cestujici-na-nadrazi-v-kralove-poli</link>
       <description>Nádražní budova v Králově Poli už slouží cestujícím</description>
+    </item>
+    <item>
+      <title>Z Brna do Vídně vysokorychlostním vlakem? Jsme o krok blíž, projekt získal kladné stanovisko EIA</title>
+      <link>https://cosedeje.brno.cz//w/z-brna-do-vidne-vysokorychlostnim-vlakem-jsme-o-krok-bliz-projekt-ziskal-kladne-stanovisko-eia</link>
+      <description>Z Brna do Vídně vysokorychlostním vlakem? Jsme o krok blíž, projekt získal kladné stanovisko EIA</description>
     </item>
     <item>
       <title>

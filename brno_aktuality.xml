@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 03 Oct 2025 08:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 12:18:15 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rekonstrukce kanalizací a vodovodů pokračují. Radní dnes vybrali zhotovitele tří zakázek</title>
-      <link>https://cosedeje.brno.cz//w/rekonstrukce-kanalizaci-a-vodovodu-pokracuji-radni-dnes-vybrali-zhotovitele-tri-zakazek</link>
-      <description>Rekonstrukce kanalizací a vodovodů pokračují. Radní dnes vybrali zhotovitele tří zakázek</description>
     </item>
     <item>
       <title>Další náplavka? Navazující část protipovodňových opatření získala pravomocné stavební povolení</title>
@@ -168,6 +163,11 @@
       <title>Brno nabídne o víkendu film, hudbu i procházku přírodou</title>
       <link>https://cosedeje.brno.cz//w/brno-nabidne-o-vikendu-film-hudbu-i-prochazku-prirodou</link>
       <description>Brno nabídne o víkendu film, hudbu i procházku přírodou</description>
+    </item>
+    <item>
+      <title>Hrad Špilberk prověřuje možnosti zakrytí velkého nádvoří. Přispěje mu na to město</title>
+      <link>https://cosedeje.brno.cz//w/hrad-spilberk-proveruje-moznosti-zakryti-velkeho-nadvori-prispeje-mu-na-to-mesto</link>
+      <description>Hrad Špilberk prověřuje možnosti zakrytí velkého nádvoří. Přispěje mu na to město</description>
     </item>
     <item>
       <title>

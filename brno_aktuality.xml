@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 06 Oct 2025 08:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 12:19:15 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Další náplavka? Navazující část protipovodňových opatření získala pravomocné stavební povolení</title>
-      <link>https://cosedeje.brno.cz//w/dalsi-naplavka-navazujici-cast-protipovodnovych-opatreni-ziskala-pravomocne-stavebni-povoleni</link>
-      <description>Další náplavka? Navazující část protipovodňových opatření získala pravomocné stavební povolení</description>
-    </item>
-    <item>
-      <title>Výstavba na Kamenném vrchu začne příští rok, teď je potřeba lokalitu připravit. Pro kácení hledá město zhotovitele</title>
-      <link>https://cosedeje.brno.cz//w/vystavba-na-kamennem-vrchu-zacne-pristi-rok-ted-je-potreba-lokalitu-pripravit-pro-kaceni-hleda-mesto-zhotovitele</link>
-      <description>Výstavba na Kamenném vrchu začne příští rok, teď je potřeba lokalitu připravit. Pro kácení hledá město zhotovitele</description>
     </item>
     <item>
       <title>Víkend zaplní Noc vědců, líšeňský festival i kultura v bývalé káznici</title>
@@ -168,6 +158,16 @@
       <title>Hrad Špilberk prověřuje možnosti zakrytí velkého nádvoří. Přispěje mu na to město</title>
       <link>https://cosedeje.brno.cz//w/hrad-spilberk-proveruje-moznosti-zakryti-velkeho-nadvori-prispeje-mu-na-to-mesto</link>
       <description>Hrad Špilberk prověřuje možnosti zakrytí velkého nádvoří. Přispěje mu na to město</description>
+    </item>
+    <item>
+      <title>Od dnešního dne kontrolují vjezd do centra strážníci městské policie</title>
+      <link>https://cosedeje.brno.cz//w/od-dnesniho-dne-kontroluji-vjezd-do-centra-straznici-mestske-policie</link>
+      <description>Od dnešního dne kontrolují vjezd do centra strážníci městské policie</description>
+    </item>
+    <item>
+      <title>Projekt Nebýt na to sama pomáhal onkologickým pacientkám i pacientům</title>
+      <link>https://cosedeje.brno.cz//w/projekt-nebyt-na-to-sama-pomahal-onkologickym-pacientkam-i-pacientum</link>
+      <description>Projekt Nebýt na to sama pomáhal onkologickým pacientkám i pacientům</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 07 Oct 2025 12:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 16:12:02 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Od komiksu přes módu po řemesla. Brno Creative Days jsou letos bohatší</title>
-      <link>https://cosedeje.brno.cz//w/od-komiksu-pres-modu-po-remesla-brno-creative-days-jsou-letos-bohatsi</link>
-      <description>Od komiksu přes módu po řemesla. Brno Creative Days jsou letos bohatší</description>
     </item>
     <item>
       <title>Tuřany mají dvě nová hřiště. Bude se na nich konat sportovní odpoledne</title>
@@ -168,6 +163,11 @@
       <title>AI a člověk musí vést tvůrčí dialog</title>
       <link>https://cosedeje.brno.cz//w/ai-a-clovek-musi-vest-tvurci-dialog</link>
       <description>AI a člověk musí vést tvůrčí dialog</description>
+    </item>
+    <item>
+      <title>Pazourek, keramické figurky či pozůstatky středověkých domů. I to přináší vykopávky v místě budoucího Janáčkova kulturního centra</title>
+      <link>https://cosedeje.brno.cz//w/pazourek-keramicke-figurky-ci-pozustatky-stredovekych-domu-i-to-prinasi-vykopavky-v-miste-budouciho-janackova-kulturniho-centra</link>
+      <description>Pazourek, keramické figurky či pozůstatky středověkých domů. I to přináší vykopávky v místě budoucího Janáčkova kulturního centra</description>
     </item>
     <item>
       <title>

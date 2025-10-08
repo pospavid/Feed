@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 08 Oct 2025 12:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 16:12:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno bude v říjnu městem onkologické prevence. Kampaň zahájí osvětová akce v Olympii</title>
-      <link>https://cosedeje.brno.cz//w/brno-bude-v-rijnu-mestem-onkologicke-prevence-kampan-zahaji-osvetova-akce-v-olympii</link>
-      <description>Brno bude v říjnu městem onkologické prevence. Kampaň zahájí osvětová akce v Olympii</description>
     </item>
     <item>
       <title>V Bystrci začíná stavba nové tramvajové trati za dvě miliardy korun</title>
@@ -168,6 +163,11 @@
       <title>Brno představuje svoji vlastní kolekci vín</title>
       <link>https://cosedeje.brno.cz//w/brno-predstavuje-svoji-vlastni-kolekci-vin</link>
       <description>Brno představuje svoji vlastní kolekci vín</description>
+    </item>
+    <item>
+      <title>Za sběr, analýzu a zpřístupňování dat o Brněnské metropolitní oblasti do Brna míří Cena ministerstva vnitra za inovace</title>
+      <link>https://cosedeje.brno.cz//w/za-sber-analyzu-a-zpristupnovani-dat-o-brnenske-metropolitni-oblasti-do-brna-miri-cena-ministerstva-vnitra-za-inovace</link>
+      <description>Za sběr, analýzu a zpřístupňování dat o Brněnské metropolitní oblasti do Brna míří Cena ministerstva vnitra za inovace</description>
     </item>
     <item>
       <title>

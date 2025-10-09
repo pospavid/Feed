@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 08 Oct 2025 16:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 08:13:47 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>V Bystrci začíná stavba nové tramvajové trati za dvě miliardy korun</title>
-      <link>https://cosedeje.brno.cz//w/v-bystrci-zacina-stavba-nove-tramvajove-trati-za-dve-miliardy-korun</link>
-      <description>V Bystrci začíná stavba nové tramvajové trati za dvě miliardy korun</description>
     </item>
     <item>
       <title>Kam kráčíš, Brno? Město znovu ukáže svou budoucnost veřejnosti</title>
@@ -168,6 +163,11 @@
       <title>Za sběr, analýzu a zpřístupňování dat o Brněnské metropolitní oblasti do Brna míří Cena ministerstva vnitra za inovace</title>
       <link>https://cosedeje.brno.cz//w/za-sber-analyzu-a-zpristupnovani-dat-o-brnenske-metropolitni-oblasti-do-brna-miri-cena-ministerstva-vnitra-za-inovace</link>
       <description>Za sběr, analýzu a zpřístupňování dat o Brněnské metropolitní oblasti do Brna míří Cena ministerstva vnitra za inovace</description>
+    </item>
+    <item>
+      <title>Nové nádraží, bydlení nebo protipovodňová opatření. Výstava ukáže, jak bude vypadat nová čtvrť Trnitá</title>
+      <link>https://cosedeje.brno.cz//w/nove-nadrazi-bydleni-nebo-protipovodnova-opatreni-vystava-ukaze-jak-bude-vypadat-nova-ctvrt-trnita</link>
+      <description>Nové nádraží, bydlení nebo protipovodňová opatření. Výstava ukáže, jak bude vypadat nová čtvrť Trnitá</description>
     </item>
     <item>
       <title>

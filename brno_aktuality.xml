@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 09 Oct 2025 16:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 08:13:58 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Kam kráčíš, Brno? Město znovu ukáže svou budoucnost veřejnosti</title>
-      <link>https://cosedeje.brno.cz//w/kam-kracis-brno-mesto-znovu-ukaze-svou-budoucnost-verejnosti</link>
-      <description>Kam kráčíš, Brno? Město znovu ukáže svou budoucnost veřejnosti</description>
     </item>
     <item>
       <title>Brněnský sport obdrží peníze na velké akce i opravy a investice</title>
@@ -168,6 +163,11 @@
       <title>Nové nádraží, bydlení nebo protipovodňová opatření. Výstava ukáže, jak bude vypadat nová čtvrť Trnitá</title>
       <link>https://cosedeje.brno.cz//w/nove-nadrazi-bydleni-nebo-protipovodnova-opatreni-vystava-ukaze-jak-bude-vypadat-nova-ctvrt-trnita</link>
       <description>Nové nádraží, bydlení nebo protipovodňová opatření. Výstava ukáže, jak bude vypadat nová čtvrť Trnitá</description>
+    </item>
+    <item>
+      <title>Co podniknout o víkendu? Běží Brno Creative Days, připomíná se i Den duševního zdraví</title>
+      <link>https://cosedeje.brno.cz//w/co-podniknout-o-vikendu-bezi-brno-creative-days-pripomina-se-i-den-dusevniho-zdravi</link>
+      <description>Co podniknout o víkendu? Běží Brno Creative Days, připomíná se i Den duševního zdraví</description>
     </item>
     <item>
       <title>

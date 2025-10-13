@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 13 Oct 2025 12:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 16:12:15 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brněnský sport obdrží peníze na velké akce i opravy a investice</title>
-      <link>https://cosedeje.brno.cz//w/brnensky-sport-obdrzi-penize-na-velke-akce-i-opravy-a-investice</link>
-      <description>Brněnský sport obdrží peníze na velké akce i opravy a investice</description>
     </item>
     <item>
       <title>Zmírní hluk, přehřívání a vizuální smog. Dvě zelené stěny popínavek vzniknou na Základní škole J. A. Komenského a Mateřské škole Brno v Husovicích</title>
@@ -168,6 +163,11 @@
       <title>Co podniknout o víkendu? Běží Brno Creative Days, připomíná se i Den duševního zdraví</title>
       <link>https://cosedeje.brno.cz//w/co-podniknout-o-vikendu-bezi-brno-creative-days-pripomina-se-i-den-dusevniho-zdravi</link>
       <description>Co podniknout o víkendu? Běží Brno Creative Days, připomíná se i Den duševního zdraví</description>
+    </item>
+    <item>
+      <title>Jablečný pudink, crumble i coleslaw. Školní kuchaři a kuchařky si vyzkoušeli recepty z lokálních surovin</title>
+      <link>https://cosedeje.brno.cz//w/jablecny-pudink-crumble-i-coleslaw-skolni-kuchari-a-kucharky-si-vyzkouseli-recepty-z-lokalnich-surovin</link>
+      <description>Jablečný pudink, crumble i coleslaw. Školní kuchaři a kuchařky si vyzkoušeli recepty z lokálních surovin</description>
     </item>
     <item>
       <title>

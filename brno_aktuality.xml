@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 16 Oct 2025 08:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 12:20:14 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Co potřebujete vědět o volbách do poslanecké sněmovny</title>
-      <link>https://cosedeje.brno.cz//w/za-mesic-budou-lide-volit-sve-zastupce-do-poslanecke-snemovny</link>
-      <description>Co potřebujete vědět o volbách do poslanecké sněmovny</description>
     </item>
     <item>
       <title>Brno nabídne o víkendu film, hudbu i procházku přírodou</title>
@@ -168,6 +163,11 @@
       <title>Jakým směrem se bude vyvíjet Stará osada a její okolí, můžou lidé ovlivnit v městské anketě</title>
       <link>https://cosedeje.brno.cz//w/jakym-smerem-se-bude-vyvijet-stara-osada-a-jeji-okoli-muzou-lide-ovlivnit-v-mestske-ankete</link>
       <description>Jakým směrem se bude vyvíjet Stará osada a její okolí, můžou lidé ovlivnit v městské anketě</description>
+    </item>
+    <item>
+      <title>V proluce na Hybešově město plánuje postavit bytový dům</title>
+      <link>https://cosedeje.brno.cz//w/v-proluce-na-hybesove-mesto-planuje-postavit-bytovy-dum</link>
+      <description>V proluce na Hybešově město plánuje postavit bytový dům</description>
     </item>
     <item>
       <title>

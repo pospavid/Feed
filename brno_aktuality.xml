@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 20 Oct 2025 12:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 16:12:24 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>AI a člověk musí vést tvůrčí dialog</title>
-      <link>https://cosedeje.brno.cz//w/ai-a-clovek-musi-vest-tvurci-dialog</link>
-      <description>AI a člověk musí vést tvůrčí dialog</description>
     </item>
     <item>
       <title>Pazourek, keramické figurky či pozůstatky středověkých domů. I to přináší vykopávky v místě budoucího Janáčkova kulturního centra</title>
@@ -168,6 +163,11 @@
       <title>Na Dušičky se po Ústředním hřbitově svezete minibusem, autům bude omezený vjezd i parkování kvůli stavebním pracím</title>
       <link>https://cosedeje.brno.cz//w/na-dusicky-se-po-ustrednim-hrbitove-svezete-minibusem-autum-bude-omezeny-vjezd-i-parkovani-kvuli-stavebnim-pracim</link>
       <description>Na Dušičky se po Ústředním hřbitově svezete minibusem, autům bude omezený vjezd i parkování kvůli stavebním pracím</description>
+    </item>
+    <item>
+      <title>Dopravní podnik města Brna získal miliardu korun na nákup nových tramvají</title>
+      <link>https://cosedeje.brno.cz//w/dopravni-podnik-mesta-brna-ziskal-miliardu-korun-na-nakup-novych-tramvaji</link>
+      <description>Dopravní podnik města Brna získal miliardu korun na nákup nových tramvají</description>
     </item>
     <item>
       <title>

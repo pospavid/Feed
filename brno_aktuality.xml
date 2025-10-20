@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 19 Oct 2025 16:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 08:14:48 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Od dnešního dne kontrolují vjezd do centra strážníci městské policie</title>
-      <link>https://cosedeje.brno.cz//w/od-dnesniho-dne-kontroluji-vjezd-do-centra-straznici-mestske-policie</link>
-      <description>Od dnešního dne kontrolují vjezd do centra strážníci městské policie</description>
     </item>
     <item>
       <title>Projekt Nebýt na to sama pomáhal onkologickým pacientkám i pacientům</title>
@@ -168,6 +163,11 @@
       <title>Víkend zve na veletrh kutilů nebo na výlety do lesa</title>
       <link>https://cosedeje.brno.cz//w/vikend-zve-na-veletrh-kutilu-nebo-na-vylety-do-lesa</link>
       <description>Víkend zve na veletrh kutilů nebo na výlety do lesa</description>
+    </item>
+    <item>
+      <title>Rezidentní parkování nově platí v oblasti Chaloupky</title>
+      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblasti-chaloupky</link>
+      <description>Rezidentní parkování nově platí v oblasti Chaloupky</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 21 Oct 2025 08:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 12:20:17 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno představuje svoji vlastní kolekci vín</title>
-      <link>https://cosedeje.brno.cz//w/brno-predstavuje-svoji-vlastni-kolekci-vin</link>
-      <description>Brno představuje svoji vlastní kolekci vín</description>
     </item>
     <item>
       <title>Za sběr, analýzu a zpřístupňování dat o Brněnské metropolitní oblasti do Brna míří Cena ministerstva vnitra za inovace</title>
@@ -168,6 +163,11 @@
       <title>Ambiciózní Maker Faire Brno jako jediný v Česku naservíroval mezinárodní den oprav, závody rychlovarných konvic a k tomu tisíce návštěvníků</title>
       <link>https://cosedeje.brno.cz//w/ambiciozni-maker-faire-brno-jako-jediny-v-cesku-naserviroval-mezinarodni-den-oprav-zavody-rychlovarnych-konvic-a-k-tomu-tisice-navstevniku</link>
       <description>Ambiciózní Maker Faire Brno jako jediný v Česku naservíroval mezinárodní den oprav, závody rychlovarných konvic a k tomu tisíce návštěvníků</description>
+    </item>
+    <item>
+      <title>Podzimní práce už jsou v plném proudu. Bioodpad házejte do kontejnerů nebo odvezte do sběrného střediska odpadů</title>
+      <link>https://cosedeje.brno.cz//w/podzimni-prace-uz-jsou-v-plnem-proudu-bioodpad-hazejte-do-kontejneru-nebo-odvezte-do-sberneho-strediska-odpadu</link>
+      <description>Podzimní práce už jsou v plném proudu. Bioodpad házejte do kontejnerů nebo odvezte do sběrného střediska odpadů</description>
     </item>
     <item>
       <title>

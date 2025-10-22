@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Oct 2025 08:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 12:20:20 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,36 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Za sběr, analýzu a zpřístupňování dat o Brněnské metropolitní oblasti do Brna míří Cena ministerstva vnitra za inovace</title>
-      <link>https://cosedeje.brno.cz//w/za-sber-analyzu-a-zpristupnovani-dat-o-brnenske-metropolitni-oblasti-do-brna-miri-cena-ministerstva-vnitra-za-inovace</link>
-      <description>Za sběr, analýzu a zpřístupňování dat o Brněnské metropolitní oblasti do Brna míří Cena ministerstva vnitra za inovace</description>
-    </item>
-    <item>
-      <title>Nové nádraží, bydlení nebo protipovodňová opatření. Výstava ukáže, jak bude vypadat nová čtvrť Trnitá</title>
-      <link>https://cosedeje.brno.cz//w/nove-nadrazi-bydleni-nebo-protipovodnova-opatreni-vystava-ukaze-jak-bude-vypadat-nova-ctvrt-trnita</link>
-      <description>Nové nádraží, bydlení nebo protipovodňová opatření. Výstava ukáže, jak bude vypadat nová čtvrť Trnitá</description>
-    </item>
-    <item>
-      <title>Co podniknout o víkendu? Běží Brno Creative Days, připomíná se i Den duševního zdraví</title>
-      <link>https://cosedeje.brno.cz//w/co-podniknout-o-vikendu-bezi-brno-creative-days-pripomina-se-i-den-dusevniho-zdravi</link>
-      <description>Co podniknout o víkendu? Běží Brno Creative Days, připomíná se i Den duševního zdraví</description>
-    </item>
-    <item>
-      <title>Jablečný pudink, crumble i coleslaw. Školní kuchaři a kuchařky si vyzkoušeli recepty z lokálních surovin</title>
-      <link>https://cosedeje.brno.cz//w/jablecny-pudink-crumble-i-coleslaw-skolni-kuchari-a-kucharky-si-vyzkouseli-recepty-z-lokalnich-surovin</link>
-      <description>Jablečný pudink, crumble i coleslaw. Školní kuchaři a kuchařky si vyzkoušeli recepty z lokálních surovin</description>
-    </item>
-    <item>
-      <title>Dotace pro kreativní odvětví pokračují: podporu dostane devět projektů</title>
-      <link>https://cosedeje.brno.cz//w/dotace-pro-kreativni-odvetvi-pokracuji-podporu-dostane-devet-projektu</link>
-      <description>Dotace pro kreativní odvětví pokračují: podporu dostane devět projektů</description>
-    </item>
-    <item>
-      <title>Brno podpoří zahrádkáře. Pět základních organizací získá dotace na nákup štěpkovačů</title>
-      <link>https://cosedeje.brno.cz//w/brno-podpori-zahradkare-pet-zakladnich-organizaci-ziska-dotace-na-nakup-stepkovacu</link>
-      <description>Brno podpoří zahrádkáře. Pět základních organizací získá dotace na nákup štěpkovačů</description>
     </item>
     <item>
       <title>Konec segwayů a jednokolek v pěší zóně. Město je od listopadu zakáže</title>
@@ -168,6 +138,36 @@
       <title>Podzimní práce už jsou v plném proudu. Bioodpad házejte do kontejnerů nebo odvezte do sběrného střediska odpadů</title>
       <link>https://cosedeje.brno.cz//w/podzimni-prace-uz-jsou-v-plnem-proudu-bioodpad-hazejte-do-kontejneru-nebo-odvezte-do-sberneho-strediska-odpadu</link>
       <description>Podzimní práce už jsou v plném proudu. Bioodpad házejte do kontejnerů nebo odvezte do sběrného střediska odpadů</description>
+    </item>
+    <item>
+      <title>Proměna Mateřské školy Veslařská: dostane novou střechu i třídu</title>
+      <link>https://cosedeje.brno.cz//w/promena-materske-skoly-veslarska-dostane-novou-strechu-i-tridu</link>
+      <description>Proměna Mateřské školy Veslařská: dostane novou střechu i třídu</description>
+    </item>
+    <item>
+      <title>Brňané přispěli na péči o městskou zeleň 37,5 tisíci korunami z prodeje eko dárků</title>
+      <link>https://cosedeje.brno.cz//w/brnane-prispeli-na-peci-o-mestskou-zelen-37-5-tisici-korunami-z-prodeje-eko-darku</link>
+      <description>Brňané přispěli na péči o městskou zeleň 37,5 tisíci korunami z prodeje eko dárků</description>
+    </item>
+    <item>
+      <title>Město chystá rekonstrukci vodovodu a kanalizace v historickém centru</title>
+      <link>https://cosedeje.brno.cz//w/mesto-chysta-rekonstrukci-vodovodu-a-kanalizace-v-historickem-centru</link>
+      <description>Město chystá rekonstrukci vodovodu a kanalizace v historickém centru</description>
+    </item>
+    <item>
+      <title>Na Šámalově vznikne školka pro 75 dětí a rozšíří se kapacity místní základní školy. Hotovo bude za dva roky</title>
+      <link>https://cosedeje.brno.cz//w/na-samalove-vznikne-skolka-pro-75-deti-a-rozsiri-se-kapacity-mistni-zakladni-skoly-hotovo-bude-za-dva-roky</link>
+      <description>Na Šámalově vznikne školka pro 75 dětí a rozšíří se kapacity místní základní školy. Hotovo bude za dva roky</description>
+    </item>
+    <item>
+      <title>Brněnské podzemí zve na dušičkové prohlídky, strašidelné zážitky i historické přednášky</title>
+      <link>https://cosedeje.brno.cz//w/brnenske-podzemi-zve-na-dusickove-prohlidky-strasidelne-zazitky-i-historicke-prednasky</link>
+      <description>Brněnské podzemí zve na dušičkové prohlídky, strašidelné zážitky i historické přednášky</description>
+    </item>
+    <item>
+      <title>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</title>
+      <link>https://cosedeje.brno.cz//w/dusicky-na-ustrednim-hrbitove-omezeny-bude-vjezd-i-parkovani-vyuzijte-mhd-a-svezte-se-minibusem</link>
+      <description>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</description>
     </item>
     <item>
       <title>

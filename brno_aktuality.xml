@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Oct 2025 12:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 16:13:17 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Konec segwayů a jednokolek v pěší zóně. Město je od listopadu zakáže</title>
-      <link>https://cosedeje.brno.cz//w/konec-segwayu-a-jednokolek-v-pesi-zone-mesto-je-od-listopadu-zakaze</link>
-      <description>Konec segwayů a jednokolek v pěší zóně. Město je od listopadu zakáže</description>
-    </item>
-    <item>
-      <title>Brněnské ZUŠ dostanou příspěvek na pomůcky</title>
-      <link>https://cosedeje.brno.cz//w/brnenske-zus-dostanou-prispevek-na-pomucky</link>
-      <description>Brněnské ZUŠ dostanou příspěvek na pomůcky</description>
     </item>
     <item>
       <title>Rozšíření modrých zón: nově do systému přibude Lesná</title>
@@ -165,9 +155,19 @@
       <description>Brněnské podzemí zve na dušičkové prohlídky, strašidelné zážitky i historické přednášky</description>
     </item>
     <item>
-      <title>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</title>
-      <link>https://cosedeje.brno.cz//w/dusicky-na-ustrednim-hrbitove-omezeny-bude-vjezd-i-parkovani-vyuzijte-mhd-a-svezte-se-minibusem</link>
-      <description>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</description>
+      <title>Nová multifunkční hala v Brně ponese název T-Mobile ARENA</title>
+      <link>https://cosedeje.brno.cz//w/nova-multifunkcni-hala-v-brne-ponese-nazev-t-mobile-arena</link>
+      <description>Nová multifunkční hala v Brně ponese název T-Mobile ARENA</description>
+    </item>
+    <item>
+      <title>Město vytvoří pro studující sdílený byt na Pekařské</title>
+      <link>https://cosedeje.brno.cz//w/mesto-vytvori-pro-studujici-sdileny-byt-na-pekarske</link>
+      <description>Město vytvoří pro studující sdílený byt na Pekařské</description>
+    </item>
+    <item>
+      <title>Umělá inteligence ve všech možných podobách. Seznamte se na Dnech AI!</title>
+      <link>https://cosedeje.brno.cz//w/umela-inteligence-ve-vsech-moznych-podobach-seznamte-se-na-dnech-ai-</link>
+      <description>Umělá inteligence ve všech možných podobách. Seznamte se na Dnech AI!</description>
     </item>
     <item>
       <title>

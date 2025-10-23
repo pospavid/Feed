@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 23 Oct 2025 08:14:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 12:20:01 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Ponava má plán, kudy dál: Nová identita spojí historii se zelení, sportem i moderním životem</title>
-      <link>https://cosedeje.brno.cz//w/ponava-ma-plan-kudy-dal-nova-identita-spoji-historii-se-zeleni-sportem-i-modernim-zivotem</link>
-      <description>Ponava má plán, kudy dál: Nová identita spojí historii se zelení, sportem i moderním životem</description>
     </item>
     <item>
       <title>Dětské dopravní hřiště v Černovicích je zase o kus blíž stavbě, projektovou dokumentaci zpracuje AŽD Praha</title>
@@ -168,6 +163,11 @@
       <title>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</title>
       <link>https://cosedeje.brno.cz//w/dusicky-na-ustrednim-hrbitove-omezeny-bude-vjezd-i-parkovani-vyuzijte-mhd-a-svezte-se-minibusem</link>
       <description>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</description>
+    </item>
+    <item>
+      <title>Slavnostní akt Univerzity obrany doprovodí přelet vrtulníků a stíhaček</title>
+      <link>https://cosedeje.brno.cz//w/slavnostni-akt-univerzity-obrany-doprovodi-prelet-vrtulniku-a-stihacek</link>
+      <description>Slavnostní akt Univerzity obrany doprovodí přelet vrtulníků a stíhaček</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Oct 2025 16:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 08:14:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rozšíření modrých zón: nově do systému přibude Lesná</title>
-      <link>https://cosedeje.brno.cz//w/rozsireni-modrych-zon-nove-do-systemu-pribude-lesna</link>
-      <description>Rozšíření modrých zón: nově do systému přibude Lesná</description>
     </item>
     <item>
       <title>Ponava má plán, kudy dál: Nová identita spojí historii se zelení, sportem i moderním životem</title>
@@ -168,6 +163,11 @@
       <title>Umělá inteligence ve všech možných podobách. Seznamte se na Dnech AI!</title>
       <link>https://cosedeje.brno.cz//w/umela-inteligence-ve-vsech-moznych-podobach-seznamte-se-na-dnech-ai-</link>
       <description>Umělá inteligence ve všech možných podobách. Seznamte se na Dnech AI!</description>
+    </item>
+    <item>
+      <title>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</title>
+      <link>https://cosedeje.brno.cz//w/dusicky-na-ustrednim-hrbitove-omezeny-bude-vjezd-i-parkovani-vyuzijte-mhd-a-svezte-se-minibusem</link>
+      <description>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</description>
     </item>
     <item>
       <title>

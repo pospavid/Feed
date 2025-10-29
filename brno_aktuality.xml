@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 29 Oct 2025 08:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 12:20:37 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Stará osada by v budoucnu nemusela být jen dopravní tepna. Co by si tady lidé představovali, teď zkoumá anketa</title>
-      <link>https://cosedeje.brno.cz//w/stara-osada-by-v-budoucnu-nemusela-byt-jen-dopravni-tepna-co-by-si-tady-lide-predstavovali-ted-zkouma-anketa</link>
-      <description>Stará osada by v budoucnu nemusela být jen dopravní tepna. Co by si tady lidé představovali, teď zkoumá anketa</description>
     </item>
     <item>
       <title>Víkend zve na veletrh kutilů nebo na výlety do lesa</title>
@@ -168,6 +163,11 @@
       <title>Divadlo, kino, tradice či sport. Prodloužený víkend je v Brně nabitý zážitky</title>
       <link>https://cosedeje.brno.cz//w/divadlo-kino-tradice-ci-sport-prodlouzeny-vikend-je-v-brne-nabity-zazitky</link>
       <description>Divadlo, kino, tradice či sport. Prodloužený víkend je v Brně nabitý zážitky</description>
+    </item>
+    <item>
+      <title>Čtyřpokojový byt za 11 tisíc. Brno nabízí první dostupný byt pro studující</title>
+      <link>https://cosedeje.brno.cz//w/ctyrpokojovy-byt-za-11-tisic-brno-nabizi-prvni-dostupny-byt-pro-studujici</link>
+      <description>Čtyřpokojový byt za 11 tisíc. Brno nabízí první dostupný byt pro studující</description>
     </item>
     <item>
       <title>

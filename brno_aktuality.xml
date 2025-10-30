@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 30 Oct 2025 12:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 16:13:20 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Víkend zve na veletrh kutilů nebo na výlety do lesa</title>
-      <link>https://cosedeje.brno.cz//w/vikend-zve-na-veletrh-kutilu-nebo-na-vylety-do-lesa</link>
-      <description>Víkend zve na veletrh kutilů nebo na výlety do lesa</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování nově platí v oblasti Chaloupky</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblasti-chaloupky</link>
-      <description>Rezidentní parkování nově platí v oblasti Chaloupky</description>
-    </item>
-    <item>
-      <title>Na Dušičky se po Ústředním hřbitově svezete minibusem, autům bude omezený vjezd i parkování kvůli stavebním pracím</title>
-      <link>https://cosedeje.brno.cz//w/na-dusicky-se-po-ustrednim-hrbitove-svezete-minibusem-autum-bude-omezeny-vjezd-i-parkovani-kvuli-stavebnim-pracim</link>
-      <description>Na Dušičky se po Ústředním hřbitově svezete minibusem, autům bude omezený vjezd i parkování kvůli stavebním pracím</description>
     </item>
     <item>
       <title>Dopravní podnik města Brna získal miliardu korun na nákup nových tramvají</title>
@@ -168,6 +153,21 @@
       <title>Čtyřpokojový byt za 11 tisíc. Brno nabízí první dostupný byt pro studující</title>
       <link>https://cosedeje.brno.cz//w/ctyrpokojovy-byt-za-11-tisic-brno-nabizi-prvni-dostupny-byt-pro-studujici</link>
       <description>Čtyřpokojový byt za 11 tisíc. Brno nabízí první dostupný byt pro studující</description>
+    </item>
+    <item>
+      <title>Vánoce Brno přinesou vylepšený program a atraktivní novinky</title>
+      <link>https://cosedeje.brno.cz//w/vanoce-brno-prinesou-vylepseny-program-a-atraktivni-novinky</link>
+      <description>Vánoce Brno přinesou vylepšený program a atraktivní novinky</description>
+    </item>
+    <item>
+      <title>Brněnský metropolitan č. 11/25</title>
+      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-11-25</link>
+      <description>Brněnský metropolitan č. 11/25</description>
+    </item>
+    <item>
+      <title>Nejlepší Vánoce po těch vašich doma? Ty brněnské!</title>
+      <link>https://cosedeje.brno.cz//w/nejlepsi-vanoce-po-tech-vasich-doma-ty-brnenske-</link>
+      <description>Nejlepší Vánoce po těch vašich doma? Ty brněnské!</description>
     </item>
     <item>
       <title>

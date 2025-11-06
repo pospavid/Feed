@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 06 Nov 2025 12:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 16:13:09 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Slavnostní akt Univerzity obrany doprovodí přelet vrtulníků a stíhaček</title>
-      <link>https://cosedeje.brno.cz//w/slavnostni-akt-univerzity-obrany-doprovodi-prelet-vrtulniku-a-stihacek</link>
-      <description>Slavnostní akt Univerzity obrany doprovodí přelet vrtulníků a stíhaček</description>
     </item>
     <item>
       <title>Na náplavce vznikl 250metrový mural. Zbylé zdi pokryjí popínavky</title>
@@ -168,6 +163,11 @@
       <title>Dětské hřiště na Blažkově prošlo kompletní obnovou. Chystá se slavnostní otevření</title>
       <link>https://cosedeje.brno.cz//w/detske-hriste-na-blazkove-proslo-kompletni-obnovou-chysta-se-slavnostni-otevreni</link>
       <description>Dětské hřiště na Blažkově prošlo kompletní obnovou. Chystá se slavnostní otevření</description>
+    </item>
+    <item>
+      <title>Pomozte nákupem jídla. Z potravinové sbírky těží i městská sociální péče</title>
+      <link>https://cosedeje.brno.cz//w/pomozte-nakupem-jidla-z-potravinove-sbirky-tezi-i-mestska-socialni-pece</link>
+      <description>Pomozte nákupem jídla. Z potravinové sbírky těží i městská sociální péče</description>
     </item>
     <item>
       <title>

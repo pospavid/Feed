@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 05 Nov 2025 16:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 08:14:44 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Umělá inteligence ve všech možných podobách. Seznamte se na Dnech AI!</title>
-      <link>https://cosedeje.brno.cz//w/umela-inteligence-ve-vsech-moznych-podobach-seznamte-se-na-dnech-ai-</link>
-      <description>Umělá inteligence ve všech možných podobách. Seznamte se na Dnech AI!</description>
     </item>
     <item>
       <title>Dušičky na Ústředním hřbitově: omezený bude vjezd i parkování, využijte MHD a svezte se minibusem</title>
@@ -168,6 +163,11 @@
       <title>Technologický park odkoupí od města pozemky, které využívá pro své budovy a komunikace</title>
       <link>https://cosedeje.brno.cz//w/technologicky-park-odkoupi-od-mesta-pozemky-ktere-vyuziva-pro-sve-budovy-a-komunikace</link>
       <description>Technologický park odkoupí od města pozemky, které využívá pro své budovy a komunikace</description>
+    </item>
+    <item>
+      <title>Poslední část Denisových sadů se dočká rekonstrukce</title>
+      <link>https://cosedeje.brno.cz//w/posledni-cast-denisovych-sadu-se-docka-rekonstrukce</link>
+      <description>Poslední část Denisových sadů se dočká rekonstrukce</description>
     </item>
     <item>
       <title>

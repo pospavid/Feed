@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 20 Nov 2025 12:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 16:13:13 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Vodné a stočné ve městě Brně v roce 2026</title>
-      <link>https://cosedeje.brno.cz//w/vodne-a-stocne-ve-meste-brne-v-roce-2026</link>
-      <description>Vodné a stočné ve městě Brně v roce 2026</description>
-    </item>
-    <item>
-      <title>Víkendový výběr: vyrazte za vědou, vínem i podzimními procházkami</title>
-      <link>https://cosedeje.brno.cz//w/vikendovy-vyber-vyrazte-za-vedou-vinem-i-podzimnimi-prochazkami</link>
-      <description>Víkendový výběr: vyrazte za vědou, vínem i podzimními procházkami</description>
     </item>
     <item>
       <title>Od příštího roku se v Brně mírně zvedne cena za vodné a stočné. Stále bude pod republikovým průměrem</title>
@@ -168,6 +158,16 @@
       <title>Regionální konference paliativní péče propojila odborníky a nabídla workshopy</title>
       <link>https://cosedeje.brno.cz//w/regionalni-konference-paliativni-pece-propojila-odborniky-a-nabidla-workshopy</link>
       <description>Regionální konference paliativní péče propojila odborníky a nabídla workshopy</description>
+    </item>
+    <item>
+      <title>Obyvatelé Jihomoravského kraje dávají oblečení druhou šanci častěji než Pražané. Darují ho například na charitu</title>
+      <link>https://cosedeje.brno.cz//w/obyvatele-jihomoravskeho-kraje-davaji-obleceni-druhou-sanci-casteji-nez-prazane-daruji-ho-napriklad-na-charitu</link>
+      <description>Obyvatelé Jihomoravského kraje dávají oblečení druhou šanci častěji než Pražané. Darují ho například na charitu</description>
+    </item>
+    <item>
+      <title>Vytříděné oblečení nemusí končit pouze v kontejnerech. Druhý život mu můžete najít díky projektu Obleč Brno</title>
+      <link>https://cosedeje.brno.cz//w/vytridene-obleceni-nemusi-koncit-pouze-v-kontejnerech-druhy-zivot-mu-muzete-najit-diky-projektu-oblec-brno</link>
+      <description>Vytříděné oblečení nemusí končit pouze v kontejnerech. Druhý život mu můžete najít díky projektu Obleč Brno</description>
     </item>
     <item>
       <title>

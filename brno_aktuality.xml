@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 21 Nov 2025 08:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 12:19:18 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování nově platí v oblastech Kociánka a Křižíkova</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblastech-kocianka-a-krizikova</link>
-      <description>Rezidentní parkování nově platí v oblastech Kociánka a Křižíkova</description>
     </item>
     <item>
       <title>Přednáška přiblíží archeologický výzkum na stavbě Janáčkova kulturního centra</title>
@@ -168,6 +163,11 @@
       <title>Víkend přináší rozsvěcení vánočních stromů, pohádkové muzeum i výstavy</title>
       <link>https://cosedeje.brno.cz//w/vikend-prinasi-rozsveceni-vanocnich-stromu-pohadkove-muzeum-i-vystavy</link>
       <description>Víkend přináší rozsvěcení vánočních stromů, pohádkové muzeum i výstavy</description>
+    </item>
+    <item>
+      <title>O dostupné družstevní byty se nově budou moct přihlásit i singles</title>
+      <link>https://cosedeje.brno.cz//w/o-dostupne-druzstevni-byty-se-nove-budou-moct-prihlasit-i-singles</link>
+      <description>O dostupné družstevní byty se nově budou moct přihlásit i singles</description>
     </item>
     <item>
       <title>

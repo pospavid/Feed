@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 20 Nov 2025 16:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 08:15:13 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Od příštího roku se v Brně mírně zvedne cena za vodné a stočné. Stále bude pod republikovým průměrem</title>
-      <link>https://cosedeje.brno.cz//w/od-noveho-roku-se-v-brne-mirne-zvedne-cena-za-vodne-a-stocne-stale-bude-pod-republikovym-prumerem</link>
-      <description>Od příštího roku se v Brně mírně zvedne cena za vodné a stočné. Stále bude pod republikovým průměrem</description>
     </item>
     <item>
       <title>Rezidentní parkování nově platí v oblastech Kociánka a Křižíkova</title>
@@ -168,6 +163,11 @@
       <title>Vytříděné oblečení nemusí končit pouze v kontejnerech. Druhý život mu můžete najít díky projektu Obleč Brno</title>
       <link>https://cosedeje.brno.cz//w/vytridene-obleceni-nemusi-koncit-pouze-v-kontejnerech-druhy-zivot-mu-muzete-najit-diky-projektu-oblec-brno</link>
       <description>Vytříděné oblečení nemusí končit pouze v kontejnerech. Druhý život mu můžete najít díky projektu Obleč Brno</description>
+    </item>
+    <item>
+      <title>Víkend přináší rozsvěcení vánočních stromů, pohádkové muzeum i výstavy</title>
+      <link>https://cosedeje.brno.cz//w/vikend-prinasi-rozsveceni-vanocnich-stromu-pohadkove-muzeum-i-vystavy</link>
+      <description>Víkend přináší rozsvěcení vánočních stromů, pohádkové muzeum i výstavy</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 24 Nov 2025 08:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 12:20:47 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Přednáška přiblíží archeologický výzkum na stavbě Janáčkova kulturního centra</title>
-      <link>https://cosedeje.brno.cz//w/prednaska-priblizi-archeologicky-vyzkum-na-stavbe-janackova-kulturniho-centra</link>
-      <description>Přednáška přiblíží archeologický výzkum na stavbě Janáčkova kulturního centra</description>
     </item>
     <item>
       <title>Peníze městským částem, osvětlení pro náplavku nebo záměr výstavby nové školky – zastupitelé v listopadu projednali tyto a dalších 100 bodů</title>
@@ -168,6 +163,11 @@
       <title>O dostupné družstevní byty se nově budou moct přihlásit i singles</title>
       <link>https://cosedeje.brno.cz//w/o-dostupne-druzstevni-byty-se-nove-budou-moct-prihlasit-i-singles</link>
       <description>O dostupné družstevní byty se nově budou moct přihlásit i singles</description>
+    </item>
+    <item>
+      <title>Město zahájí koncesní řízení na výstavbu nového fotbalového stadionu za Lužánkami</title>
+      <link>https://cosedeje.brno.cz//w/mesto-zahaji-koncesni-rizeni-na-vystavbu-noveho-fotbaloveho-stadionu-za-luzankami</link>
+      <description>Město zahájí koncesní řízení na výstavbu nového fotbalového stadionu za Lužánkami</description>
     </item>
     <item>
       <title>

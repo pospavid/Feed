@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 24 Nov 2025 16:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 08:15:22 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>V Soukenické vyroste moderní školka pro sto dětí</title>
-      <link>https://cosedeje.brno.cz//w/v-soukenicke-vyroste-moderni-skolka-pro-sto-deti</link>
-      <description>V Soukenické vyroste moderní školka pro sto dětí</description>
     </item>
     <item>
       <title>V Jánské vznikne Biskupská základní škola G. J. Mendela</title>
@@ -168,6 +163,11 @@
       <title>Cena města Brna míří ke 14 osobnostem. Známe také dva nové čestné občany</title>
       <link>https://cosedeje.brno.cz//w/cena-mesta-brna-miri-k-14-osobnostem-zname-take-dva-nove-cestne-obcany</link>
       <description>Cena města Brna míří ke 14 osobnostem. Známe také dva nové čestné občany</description>
+    </item>
+    <item>
+      <title>Brněnský metropolitan č. 12/25</title>
+      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-12-25</link>
+      <description>Brněnský metropolitan č. 12/25</description>
     </item>
     <item>
       <title>

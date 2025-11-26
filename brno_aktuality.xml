@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 26 Nov 2025 08:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 12:21:50 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Jeden formulář pro téměř 30 000 bytů. Město zjednodušuje přístup k obecnímu bydlení</title>
-      <link>https://cosedeje.brno.cz//w/jeden-formular-pro-temer-30-000-bytu-mesto-zjednodusuje-pristup-k-obecnimu-bydleni</link>
-      <description>Jeden formulář pro téměř 30 000 bytů. Město zjednodušuje přístup k obecnímu bydlení</description>
     </item>
     <item>
       <title>Brněnské Vánoce začínají! Vánoční trhy odstartuje slavnostní rozsvícení stromu s Městským divadlem Brno</title>
@@ -168,6 +163,11 @@
       <title>Pod Janáčkovým kulturním centrem našli archeologové dům ze 13. století. Je unikátní tím, jak je dochovaný, říkají</title>
       <link>https://cosedeje.brno.cz//w/pod-janackovym-kulturnim-centrem-nasli-archeologove-dum-ze-13-stoleti-je-unikatni-tim-jak-je-dochovany-rikaji</link>
       <description>Pod Janáčkovým kulturním centrem našli archeologové dům ze 13. století. Je unikátní tím, jak je dochovaný, říkají</description>
+    </item>
+    <item>
+      <title>Setkání primátorů metropolitních oblastí a aglomerací v Hradci Králové potvrdilo jednotný postup pro programové období 2028+</title>
+      <link>https://cosedeje.brno.cz//w/setkani-primatoru-metropolitnich-oblasti-a-aglomeraci-v-hradci-kralove-potvrdilo-jednotny-postup-pro-programove-obdobi-2028-</link>
+      <description>Setkání primátorů metropolitních oblastí a aglomerací v Hradci Králové potvrdilo jednotný postup pro programové období 2028+</description>
     </item>
     <item>
       <title>

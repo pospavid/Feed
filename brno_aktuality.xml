@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 25 Nov 2025 16:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 08:15:03 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Vánoční čas v Brně odstartují krampusáci, v sobotu koně dovezou strom z Bílovic</title>
-      <link>https://cosedeje.brno.cz//w/vanocni-cas-v-brne-odstartuji-krampusaci-v-sobotu-kone-dovezou-strom-z-bilovic</link>
-      <description>Vánoční čas v Brně odstartují krampusáci, v sobotu koně dovezou strom z Bílovic</description>
     </item>
     <item>
       <title>Jeden formulář pro téměř 30 000 bytů. Město zjednodušuje přístup k obecnímu bydlení</title>
@@ -168,6 +163,11 @@
       <title>Dvě účasti, dva rekordy, dva tituly. Česko se ve světě Smart Cities stává pojmem</title>
       <link>https://cosedeje.brno.cz//w/dve-ucasti-dva-rekordy-dva-tituly-cesko-se-ve-svete-smart-cities-stava-pojmem</link>
       <description>Dvě účasti, dva rekordy, dva tituly. Česko se ve světě Smart Cities stává pojmem</description>
+    </item>
+    <item>
+      <title>Pod Janáčkovým kulturním centrem našli archeologové dům ze 13. století. Je unikátní tím, jak je dochovaný, říkají</title>
+      <link>https://cosedeje.brno.cz//w/pod-janackovym-kulturnim-centrem-nasli-archeologove-dum-ze-13-stoleti-je-unikatni-tim-jak-je-dochovany-rikaji</link>
+      <description>Pod Janáčkovým kulturním centrem našli archeologové dům ze 13. století. Je unikátní tím, jak je dochovaný, říkají</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 27 Nov 2025 08:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 12:20:54 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brněnské Vánoce začínají! Vánoční trhy odstartuje slavnostní rozsvícení stromu s Městským divadlem Brno</title>
-      <link>https://cosedeje.brno.cz//w/brnenske-vanoce-zacinaji-vanocni-trhy-odstartuje-slavnostni-rozsviceni-stromu-s-mestskym-divadlem-brno</link>
-      <description>Brněnské Vánoce začínají! Vánoční trhy odstartuje slavnostní rozsvícení stromu s Městským divadlem Brno</description>
-    </item>
-    <item>
-      <title>Modernizace bazénu i příprava haly pro cyklisty a atlety. Brno plánuje investice na příští rok</title>
-      <link>https://cosedeje.brno.cz//w/modernizace-bazenu-i-priprava-haly-pro-cyklisty-a-atlety-brno-planuje-investice-na-pristi-rok</link>
-      <description>Modernizace bazénu i příprava haly pro cyklisty a atlety. Brno plánuje investice na příští rok</description>
     </item>
     <item>
       <title>Dostupnější bydlení pro singles. Aktuálně jsou v nabídce čtyři městské byty</title>
@@ -168,6 +158,16 @@
       <title>Setkání primátorů metropolitních oblastí a aglomerací v Hradci Králové potvrdilo jednotný postup pro programové období 2028+</title>
       <link>https://cosedeje.brno.cz//w/setkani-primatoru-metropolitnich-oblasti-a-aglomeraci-v-hradci-kralove-potvrdilo-jednotny-postup-pro-programove-obdobi-2028-</link>
       <description>Setkání primátorů metropolitních oblastí a aglomerací v Hradci Králové potvrdilo jednotný postup pro programové období 2028+</description>
+    </item>
+    <item>
+      <title>Austerlitz pod Eiffelkou. U velvyslanectví České republiky v Paříži otevřela nová exteriérová výstava</title>
+      <link>https://cosedeje.brno.cz//w/austerlitz-pod-eiffelkou-u-velvyslanectvi-ceske-republiky-v-parizi-otevrela-nova-exterierova-vystava</link>
+      <description>Austerlitz pod Eiffelkou. U velvyslanectví České republiky v Paříži otevřela nová exteriérová výstava</description>
+    </item>
+    <item>
+      <title>Napoleon přinesl kousek Moravy až pod Eiffelovu věž. V Paříži začala výstava o bitvě u Slavkova</title>
+      <link>https://cosedeje.brno.cz//w/napoleon-prinesl-kousek-moravy-az-pod-eiffelovu-vez-v-parizi-zacala-vystava-o-bitve-u-slavkova</link>
+      <description>Napoleon přinesl kousek Moravy až pod Eiffelovu věž. V Paříži začala výstava o bitvě u Slavkova</description>
     </item>
     <item>
       <title>

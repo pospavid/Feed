@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 01 Dec 2025 08:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 12:21:25 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování nově platí v oblasti Lesná</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblasti-lesna</link>
-      <description>Rezidentní parkování nově platí v oblasti Lesná</description>
     </item>
     <item>
       <title>Chcete jezdit po Brně zdarma nebo volné vstupy do hvězdárny? Zapojte se do vánoční soutěže</title>
@@ -168,6 +163,11 @@
       <title>Děti o adventu zabaví magický les, mini vesničky nebo světelná stezka. Vše je zdarma</title>
       <link>https://cosedeje.brno.cz//w/deti-o-adventu-zabavi-magicky-les-mini-vesnicky-nebo-svetelna-stezka-vse-je-zdarma</link>
       <description>Děti o adventu zabaví magický les, mini vesničky nebo světelná stezka. Vše je zdarma</description>
+    </item>
+    <item>
+      <title>Nové brněnské nádraží získalo prestižní ocenění BLT Built Design Awards 2025</title>
+      <link>https://cosedeje.brno.cz//w/nove-brnenske-nadrazi-ziskava-prestizni-oceneni-blt-built-design-awards-2025</link>
+      <description>Nové brněnské nádraží získalo prestižní ocenění BLT Built Design Awards 2025</description>
     </item>
     <item>
       <title>

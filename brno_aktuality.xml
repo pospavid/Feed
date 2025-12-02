@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 02 Dec 2025 08:16:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 12:22:22 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Novým ředitelem Národního divadla Brno bude od 1. srpna 2028 Petr Štědroň</title>
-      <link>https://cosedeje.brno.cz//w/novym-reditelem-narodniho-divadla-brno-bude-od-1-srpna-2028-petr-stedron</link>
-      <description>Novým ředitelem Národního divadla Brno bude od 1. srpna 2028 Petr Štědroň</description>
     </item>
     <item>
       <title>Radní projednali návrh rozpočtu města Brna na rok 2026</title>
@@ -168,6 +163,11 @@
       <title>Už to víme! Z letošního participativního rozpočtu se zaplatí sedm projektů, které zvolila veřejnost</title>
       <link>https://cosedeje.brno.cz//w/uz-to-vime-z-letosniho-participativniho-rozpoctu-se-zaplati-sedm-projektu-ktere-zvolila-verejnost</link>
       <description>Už to víme! Z letošního participativního rozpočtu se zaplatí sedm projektů, které zvolila veřejnost</description>
+    </item>
+    <item>
+      <title>Úspěšná dražba pozemku: město získalo dvakrát více, než byla vyvolávací cena</title>
+      <link>https://cosedeje.brno.cz//w/uspesna-drazba-pozemku-mesto-ziskalo-dvakrat-vice-nez-byla-vyvolavaci-cena</link>
+      <description>Úspěšná dražba pozemku: město získalo dvakrát více, než byla vyvolávací cena</description>
     </item>
     <item>
       <title>

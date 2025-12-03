@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 03 Dec 2025 08:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 12:21:33 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Radní projednali návrh rozpočtu města Brna na rok 2026</title>
-      <link>https://cosedeje.brno.cz//w/radni-projednali-navrh-rozpoctu-mesta-brna-na-rok-2026</link>
-      <description>Radní projednali návrh rozpočtu města Brna na rok 2026</description>
     </item>
     <item>
       <title>Regionální konference paliativní péče propojila odborníky a nabídla workshopy</title>
@@ -168,6 +163,11 @@
       <title>Úspěšná dražba pozemku: město získalo dvakrát více, než byla vyvolávací cena</title>
       <link>https://cosedeje.brno.cz//w/uspesna-drazba-pozemku-mesto-ziskalo-dvakrat-vice-nez-byla-vyvolavaci-cena</link>
       <description>Úspěšná dražba pozemku: město získalo dvakrát více, než byla vyvolávací cena</description>
+    </item>
+    <item>
+      <title>Prosincové zasedání Zastupitelstva města Brna se přesouvá na středu 10. prosince 2025</title>
+      <link>https://cosedeje.brno.cz//w/prosincove-zasedani-zastupitelstva-mesta-brna-se-presouva-na-stredu-10-prosince-2025</link>
+      <description>Prosincové zasedání Zastupitelstva města Brna se přesouvá na středu 10. prosince 2025</description>
     </item>
     <item>
       <title>

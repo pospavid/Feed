@@ -7,12 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 03 Dec 2025 12:21:32 +0000</lastBuildDate>
-    <item>
-      <title>Výsledky losování žadatelů přihlášených do projektu Družstevního bydlení pro mladé, lokalita Kamenný vrch II ze dne 19. 6. 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-zadatelu-prihlasenych-do-projektu-druzstevniho-bydleni-pro-mlade-lokalita-kamenny-vrch-ii-ze-dne-19-6-2025/</link>
-      <description>Výsledky losování žadatelů přihlášených do projektu Družstevního bydlení pro mladé, lokalita Kamenný vrch II ze dne 19. 6. 2025</description>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 16:15:31 +0000</lastBuildDate>
     <item>
       <title>Výsledky losování startovacích bytů pro páry dne 23. 6. 2025</title>
       <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-pary-dne-23-6-2025/</link>
@@ -67,6 +62,11 @@
       <title>Nabídka startovacích bytů pro jednotlivce v domech Vojtova 9 a Bratislavská 51</title>
       <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-jednotlivce-v-domech-vojtova-9-a-bratislavska-51/</link>
       <description>Nabídka startovacích bytů pro jednotlivce v domech Vojtova 9 a Bratislavská 51</description>
+    </item>
+    <item>
+      <title>Pozvánka na losování sdíleného bytu pro studenty vysokých škol dne 15. prosince 2025</title>
+      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-sdileneho-bytu-pro-studenty-vysokych-skol-dne-15-prosince-2025/</link>
+      <description>Pozvánka na losování sdíleného bytu pro studenty vysokých škol dne 15. prosince 2025</description>
     </item>
   </channel>
 </rss>

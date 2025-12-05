@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 04 Dec 2025 16:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 08:15:16 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Austerlitz pod Eiffelkou. U velvyslanectví České republiky v Paříži otevřela nová exteriérová výstava</title>
-      <link>https://cosedeje.brno.cz//w/austerlitz-pod-eiffelkou-u-velvyslanectvi-ceske-republiky-v-parizi-otevrela-nova-exterierova-vystava</link>
-      <description>Austerlitz pod Eiffelkou. U velvyslanectví České republiky v Paříži otevřela nová exteriérová výstava</description>
     </item>
     <item>
       <title>Napoleon přinesl kousek Moravy až pod Eiffelovu věž. V Paříži začala výstava o bitvě u Slavkova</title>
@@ -168,6 +163,11 @@
       <title>Teplárny Brno ponechají i v roce 2026 cenu tepelné energie na úrovni roku 2025</title>
       <link>https://cosedeje.brno.cz//w/teplarny-brno-ponechaji-i-v-roce-2026-cenu-tepelne-energie-na-urovni-roku-2025</link>
       <description>Teplárny Brno ponechají i v roce 2026 cenu tepelné energie na úrovni roku 2025</description>
+    </item>
+    <item>
+      <title>Víkend plný Mikulášů, hudby i tvoření. Inspirujte se hromadou tipů</title>
+      <link>https://cosedeje.brno.cz//w/vikend-plny-mikulasu-hudby-i-tvoreni-inspirujte-se-hromadou-tipu</link>
+      <description>Víkend plný Mikulášů, hudby i tvoření. Inspirujte se hromadou tipů</description>
     </item>
     <item>
       <title>

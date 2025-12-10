@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 10 Dec 2025 08:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 12:21:58 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Napoleon přinesl kousek Moravy až pod Eiffelovu věž. V Paříži začala výstava o bitvě u Slavkova</title>
-      <link>https://cosedeje.brno.cz//w/napoleon-prinesl-kousek-moravy-az-pod-eiffelovu-vez-v-parizi-zacala-vystava-o-bitve-u-slavkova</link>
-      <description>Napoleon přinesl kousek Moravy až pod Eiffelovu věž. V Paříži začala výstava o bitvě u Slavkova</description>
-    </item>
-    <item>
-      <title>Užijte si víkend naplno. Nechybí festival Life!, bruslení ani kultura</title>
-      <link>https://cosedeje.brno.cz//w/uzijte-si-vikend-naplno-nechybi-festival-life-brusleni-ani-kultura</link>
-      <description>Užijte si víkend naplno. Nechybí festival Life!, bruslení ani kultura</description>
-    </item>
-    <item>
-      <title>Město investovalo do objektu SVČ Lužánky za posledních pět let přes 30 milionů korun, v plánu je renovace oplocení nebo nové veřejné toalety</title>
-      <link>https://cosedeje.brno.cz//w/mesto-investovalo-do-objektu-svc-luzanky-za-poslednich-pet-let-pres-30-milionu-korun-v-planu-je-renovace-oploceni-nebo-nove-verejne-toalety</link>
-      <description>Město investovalo do objektu SVČ Lužánky za posledních pět let přes 30 milionů korun, v plánu je renovace oplocení nebo nové veřejné toalety</description>
     </item>
     <item>
       <title>Děti o adventu zabaví magický les, mini vesničky nebo světelná stezka. Vše je zdarma</title>
@@ -168,6 +153,21 @@
       <title>Víkend plný Mikulášů, hudby i tvoření. Inspirujte se hromadou tipů</title>
       <link>https://cosedeje.brno.cz//w/vikend-plny-mikulasu-hudby-i-tvoreni-inspirujte-se-hromadou-tipu</link>
       <description>Víkend plný Mikulášů, hudby i tvoření. Inspirujte se hromadou tipů</description>
+    </item>
+    <item>
+      <title>V celosvětovém žebříčku měst přátelských k cyklistům je také Brno, nechalo za sebou Lodž, Milano i Rigu</title>
+      <link>https://cosedeje.brno.cz//w/v-celosvetovem-zebricku-mest-pratelskych-k-cyklistum-je-take-brno-nechalo-za-sebou-lodz-milano-i-rigu</link>
+      <description>V celosvětovém žebříčku měst přátelských k cyklistům je také Brno, nechalo za sebou Lodž, Milano i Rigu</description>
+    </item>
+    <item>
+      <title>Benzinka ustoupí výstavbě nové čtvrti, město se s ČEPRO domluvilo na směně pozemků</title>
+      <link>https://cosedeje.brno.cz//w/benzinka-ustoupi-vystavbe-nove-ctvrti-mesto-se-s-cepro-domluvilo-na-smene-pozemku</link>
+      <description>Benzinka ustoupí výstavbě nové čtvrti, město se s ČEPRO domluvilo na směně pozemků</description>
+    </item>
+    <item>
+      <title>Brno opět podpoří podnikání v kreativní sféře</title>
+      <link>https://cosedeje.brno.cz//w/brno-opet-podpori-podnikani-v-kreativni-sfere</link>
+      <description>Brno opět podpoří podnikání v kreativní sféře</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 15 Dec 2025 12:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 16:16:14 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nový život nad tunelem městského okruhu. Brno vyhlašuje architektonicko-krajinářskou soutěž na obnovu lesoparku Akátky</title>
-      <link>https://cosedeje.brno.cz//w/novy-zivot-nad-tunelem-mestskeho-okruhu-brno-vyhlasuje-architektonicko-krajinarskou-soutez-na-obnovu-lesoparku-akatky</link>
-      <description>Nový život nad tunelem městského okruhu. Brno vyhlašuje architektonicko-krajinářskou soutěž na obnovu lesoparku Akátky</description>
     </item>
     <item>
       <title>Brno smění pozemky s Masarykovou univerzitou. Škola tak bude rozvíjet svůj areál, město naopak postaví novou komunikaci</title>
@@ -168,6 +163,11 @@
       <title>25 doktorandů a doktorandek opět získá od města po 360 tisících korunách na svůj výzkum</title>
       <link>https://cosedeje.brno.cz//w/25-doktorandu-a-doktorandek-opet-ziska-od-mesta-po-360-tisicich-korunach-na-svuj-vyzkum</link>
       <description>25 doktorandů a doktorandek opět získá od města po 360 tisících korunách na svůj výzkum</description>
+    </item>
+    <item>
+      <title>Městské dražby: prodeje nemovitostí, které trhají rekordy</title>
+      <link>https://cosedeje.brno.cz//w/mestske-drazby-prodeje-nemovitosti-ktere-trhaji-rekordy</link>
+      <description>Městské dražby: prodeje nemovitostí, které trhají rekordy</description>
     </item>
     <item>
       <title>

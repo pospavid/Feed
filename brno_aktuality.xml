@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 16 Dec 2025 12:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 16:14:51 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno smění pozemky s Masarykovou univerzitou. Škola tak bude rozvíjet svůj areál, město naopak postaví novou komunikaci</title>
-      <link>https://cosedeje.brno.cz//w/brno-smeni-pozemky-s-masarykovou-univerzitou-skola-tak-bude-rozvijet-svuj-areal-mesto-naopak-postavi-novou-komunikaci</link>
-      <description>Brno smění pozemky s Masarykovou univerzitou. Škola tak bude rozvíjet svůj areál, město naopak postaví novou komunikaci</description>
     </item>
     <item>
       <title>Prosincové zasedání Zastupitelstva města Brna se přesouvá na středu 10. prosince 2025</title>
@@ -168,6 +163,11 @@
       <title>Městské dražby: prodeje nemovitostí, které trhají rekordy</title>
       <link>https://cosedeje.brno.cz//w/mestske-drazby-prodeje-nemovitosti-ktere-trhaji-rekordy</link>
       <description>Městské dražby: prodeje nemovitostí, které trhají rekordy</description>
+    </item>
+    <item>
+      <title>Předvánoční dárek pro nezávislou kulturu v Brně: Centrum CO.LABS otevřelo po rekonstrukci za 120 milionů</title>
+      <link>https://cosedeje.brno.cz//w/predvanocni-darek-pro-nezavislou-kulturu-v-brne-centrum-co-labs-otevrelo-po-rekonstrukci-za-120-milionu</link>
+      <description>Předvánoční dárek pro nezávislou kulturu v Brně: Centrum CO.LABS otevřelo po rekonstrukci za 120 milionů</description>
     </item>
     <item>
       <title>

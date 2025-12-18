@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 18 Dec 2025 12:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 16:15:08 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Šampionát florbalistek míří do Brna. Zahrajte si o lístky zdarma</title>
-      <link>https://cosedeje.brno.cz//w/sampionat-florbalistek-miri-do-brna-zahrajte-si-o-listky-zdarma</link>
-      <description>Šampionát florbalistek míří do Brna. Zahrajte si o lístky zdarma</description>
     </item>
     <item>
       <title>Brněnská práce s daty podruhé boduje na celostátní úrovni. Z Prahy si odvážíme cenu za Komunální projekt roku</title>
@@ -168,6 +163,11 @@
       <title>Vánoce na radnici zabaví den před Ježíškem malé i velké</title>
       <link>https://cosedeje.brno.cz//w/vanoce-na-radnici-zabavi-den-pred-jeziskem-male-i-velke</link>
       <description>Vánoce na radnici zabaví den před Ježíškem malé i velké</description>
+    </item>
+    <item>
+      <title>Poslední víkend před Vánocemi nabídne koledování, tvořivé dílny i hokej</title>
+      <link>https://cosedeje.brno.cz//w/posledni-vikend-pred-vanocemi-nabidne-koledovani-tvorive-dilny-i-hokej</link>
+      <description>Poslední víkend před Vánocemi nabídne koledování, tvořivé dílny i hokej</description>
     </item>
     <item>
       <title>

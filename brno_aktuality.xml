@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 19 Dec 2025 08:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 12:20:46 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nové cyklostezky i zázemí pro pečovatelskou službu: Řídicí výbor BMO podpořil projekty za 83 milionů korun</title>
-      <link>https://cosedeje.brno.cz//w/nove-cyklostezky-i-zazemi-pro-pecovatelskou-sluzbu-ridici-vybor-bmo-podporil-projekty-za-83-milionu-korun</link>
-      <description>Nové cyklostezky i zázemí pro pečovatelskou službu: Řídicí výbor BMO podpořil projekty za 83 milionů korun</description>
     </item>
     <item>
       <title>Teplárny Brno ponechají i v roce 2026 cenu tepelné energie na úrovni roku 2025</title>
@@ -168,6 +163,11 @@
       <title>Na Údolní ulice se 20. prosince vrátí tramvaje</title>
       <link>https://cosedeje.brno.cz//w/na-udolni-ulice-se-20-prosince-vrati-tramvaje</link>
       <description>Na Údolní ulice se 20. prosince vrátí tramvaje</description>
+    </item>
+    <item>
+      <title>Na Kraví horu tramvají – od soboty se vrací na Údolní</title>
+      <link>https://cosedeje.brno.cz//w/na-kravi-horu-tramvaji-od-soboty-se-vraci-na-udolni</link>
+      <description>Na Kraví horu tramvají – od soboty se vrací na Údolní</description>
     </item>
     <item>
       <title>

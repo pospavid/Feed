@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 22 Dec 2025 16:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 08:16:24 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Teplárny Brno ponechají i v roce 2026 cenu tepelné energie na úrovni roku 2025</title>
-      <link>https://cosedeje.brno.cz//w/teplarny-brno-ponechaji-i-v-roce-2026-cenu-tepelne-energie-na-urovni-roku-2025</link>
-      <description>Teplárny Brno ponechají i v roce 2026 cenu tepelné energie na úrovni roku 2025</description>
     </item>
     <item>
       <title>Víkend plný Mikulášů, hudby i tvoření. Inspirujte se hromadou tipů</title>
@@ -168,6 +163,11 @@
       <title>Na Kraví horu tramvají – od soboty se vrací na Údolní</title>
       <link>https://cosedeje.brno.cz//w/na-kravi-horu-tramvaji-od-soboty-se-vraci-na-udolni</link>
       <description>Na Kraví horu tramvají – od soboty se vrací na Údolní</description>
+    </item>
+    <item>
+      <title>Brno mezi svátky: kam za kulturou, pohybem i procházkami</title>
+      <link>https://cosedeje.brno.cz//w/brno-mezi-svatky-kam-za-kulturou-pohybem-i-prochazkami</link>
+      <description>Brno mezi svátky: kam za kulturou, pohybem i procházkami</description>
     </item>
     <item>
       <title>

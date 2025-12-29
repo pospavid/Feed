@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 28 Dec 2025 16:12:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 08:17:42 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Víkend plný Mikulášů, hudby i tvoření. Inspirujte se hromadou tipů</title>
-      <link>https://cosedeje.brno.cz//w/vikend-plny-mikulasu-hudby-i-tvoreni-inspirujte-se-hromadou-tipu</link>
-      <description>Víkend plný Mikulášů, hudby i tvoření. Inspirujte se hromadou tipů</description>
     </item>
     <item>
       <title>V celosvětovém žebříčku měst přátelských k cyklistům je také Brno, nechalo za sebou Lodž, Milano i Rigu</title>
@@ -168,6 +163,11 @@
       <title>Brno mezi svátky: kam za kulturou, pohybem i procházkami</title>
       <link>https://cosedeje.brno.cz//w/brno-mezi-svatky-kam-za-kulturou-pohybem-i-prochazkami</link>
       <description>Brno mezi svátky: kam za kulturou, pohybem i procházkami</description>
+    </item>
+    <item>
+      <title>Novoroční ohňostroj město nepořádá, ale na Silvestra bude program na Zelném trhu</title>
+      <link>https://cosedeje.brno.cz//w/novorocni-ohnostroj-mesto-neporada-ale-na-silvestra-bude-program-na-zelnem-trhu</link>
+      <description>Novoroční ohňostroj město nepořádá, ale na Silvestra bude program na Zelném trhu</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 30 Dec 2025 08:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 12:21:43 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Benzinka ustoupí výstavbě nové čtvrti, město se s ČEPRO domluvilo na směně pozemků</title>
-      <link>https://cosedeje.brno.cz//w/benzinka-ustoupi-vystavbe-nove-ctvrti-mesto-se-s-cepro-domluvilo-na-smene-pozemku</link>
-      <description>Benzinka ustoupí výstavbě nové čtvrti, město se s ČEPRO domluvilo na směně pozemků</description>
     </item>
     <item>
       <title>Brno opět podpoří podnikání v kreativní sféře</title>
@@ -168,6 +163,11 @@
       <title>Dopravní podnik města Brna pořídil dva nové elektrovozy pro službu Seniorbus</title>
       <link>https://cosedeje.brno.cz//w/dopravni-podnik-mesta-brna-nasadil-do-provozu-dva-nove-elektrovozy-pro-sluzbu-seniorbus</link>
       <description>Dopravní podnik města Brna pořídil dva nové elektrovozy pro službu Seniorbus</description>
+    </item>
+    <item>
+      <title>Nový rok, staronové ceny: sazby za odvoz odpadu, rezidentní parkování nebo tepelnou energii budou v roce 2026 stejné jako letos</title>
+      <link>https://cosedeje.brno.cz//w/novy-rok-staronove-ceny-sazby-za-odvoz-odpadu-rezidentni-parkovani-nebo-tepelnou-energii-budou-v-roce-2026-stejne-jako-letos</link>
+      <description>Nový rok, staronové ceny: sazby za odvoz odpadu, rezidentní parkování nebo tepelnou energii budou v roce 2026 stejné jako letos</description>
     </item>
     <item>
       <title>

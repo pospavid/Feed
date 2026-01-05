@@ -7,12 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 05 Jan 2026 12:22:49 +0000</lastBuildDate>
-    <item>
-      <title>Výsledky losování startovacích bytů dne 18. srpna 2025</title>
-      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-dne-18-8-2025/</link>
-      <description>Výsledky losování startovacích bytů dne 18. srpna 2025</description>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 16:15:09 +0000</lastBuildDate>
     <item>
       <title>Nabídka startovacích bytů pro páry i jednotlivce - září 2025</title>
       <link>https://bydleni.brno.cz/aktuality/nabidka-startovacich-bytu-pro-pary-i-jednotlivce/</link>
@@ -67,6 +62,11 @@
       <title>Výsledky losování sdíleného bytu pro studenty na ulici Pekařská 36</title>
       <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-sdileneho-bytu-pro-studenty-na-ulici-pekarska-36/</link>
       <description>Výsledky losování sdíleného bytu pro studenty na ulici Pekařská 36</description>
+    </item>
+    <item>
+      <title>Pozvánka na losování startovacích bytů pro jednotlivce dne 12. ledna 2026</title>
+      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-pro-jednotlivce-dne-12-ledna-2026/</link>
+      <description>Pozvánka na losování startovacích bytů pro jednotlivce dne 12. ledna 2026</description>
     </item>
   </channel>
 </rss>

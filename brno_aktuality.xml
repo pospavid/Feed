@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 08 Jan 2026 12:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 16:15:44 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rekonstrukce ulice Orlí je u konce. Projdete se po nové dlažbě a odpočinete si pod stromořadím</title>
-      <link>https://cosedeje.brno.cz//w/rekonstrukce-ulice-orli-je-u-konce-projdete-se-po-nove-dlazbe-a-odpocinete-si-pod-stromoradim</link>
-      <description>Rekonstrukce ulice Orlí je u konce. Projdete se po nové dlažbě a odpočinete si pod stromořadím</description>
     </item>
     <item>
       <title>Chystaná investice: má se opravit venkovní sportoviště při ZŠ Čejkovická</title>
@@ -168,6 +163,11 @@
       <title>Edukační centrum Národního divadla Brno za téměř 29 milionů korun by mohlo začít fungovat do konce roku 2027</title>
       <link>https://cosedeje.brno.cz//w/edukacni-centrum-narodniho-divadla-brno-za-temer-29-milionu-korun-by-mohlo-zacit-fungovat-do-konce-roku-2027</link>
       <description>Edukační centrum Národního divadla Brno za téměř 29 milionů korun by mohlo začít fungovat do konce roku 2027</description>
+    </item>
+    <item>
+      <title>Pohotovosti v roce 2026: přehled změn, lékáren i specializované péče</title>
+      <link>https://cosedeje.brno.cz//w/pohotovostni-pece-v-roce-2026-prehled-zmen-lekaren-i-specializovane-pece</link>
+      <description>Pohotovosti v roce 2026: přehled změn, lékáren i specializované péče</description>
     </item>
     <item>
       <title>

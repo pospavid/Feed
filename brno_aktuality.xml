@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 09 Jan 2026 08:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 12:22:24 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Chystaná investice: má se opravit venkovní sportoviště při ZŠ Čejkovická</title>
-      <link>https://cosedeje.brno.cz//w/chystana-investice-ma-se-opravit-venkovni-sportoviste-pri-zs-cejkovicka</link>
-      <description>Chystaná investice: má se opravit venkovní sportoviště při ZŠ Čejkovická</description>
-    </item>
-    <item>
-      <title>Chleborádova vila: Město hledá projektanta první etapy oprav, vznikla také studie o budoucím muzeu Leoše Janáčka</title>
-      <link>https://cosedeje.brno.cz//w/chleboradova-vila-mesto-hleda-projektanta-prvni-etapy-oprav-vznikla-take-studie-o-budoucim-muzeu-leose-janacka</link>
-      <description>Chleborádova vila: Město hledá projektanta první etapy oprav, vznikla také studie o budoucím muzeu Leoše Janáčka</description>
     </item>
     <item>
       <title>Vánoce na radnici zabaví den před Ježíškem malé i velké</title>
@@ -168,6 +158,16 @@
       <title>Pohotovosti v roce 2026: přehled změn, lékáren i specializované péče</title>
       <link>https://cosedeje.brno.cz//w/pohotovostni-pece-v-roce-2026-prehled-zmen-lekaren-i-specializovane-pece</link>
       <description>Pohotovosti v roce 2026: přehled změn, lékáren i specializované péče</description>
+    </item>
+    <item>
+      <title>Nabité víkendové tipy: vyrazte za vědou, sportem i do přírody</title>
+      <link>https://cosedeje.brno.cz//w/nabite-vikendove-tipy-vyrazte-za-vedou-sportem-i-do-prirody</link>
+      <description>Nabité víkendové tipy: vyrazte za vědou, sportem i do přírody</description>
+    </item>
+    <item>
+      <title>6 věcí, které chcete vědět, než se vydáte bruslit na přehradu</title>
+      <link>https://cosedeje.brno.cz//w/6-veci-ktere-chcete-vedet-nez-se-vydate-bruslit-na-prehradu</link>
+      <description>6 věcí, které chcete vědět, než se vydáte bruslit na přehradu</description>
     </item>
     <item>
       <title>

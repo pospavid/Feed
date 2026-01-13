@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 13 Jan 2026 12:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 16:17:57 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Vánoce na radnici zabaví den před Ježíškem malé i velké</title>
-      <link>https://cosedeje.brno.cz//w/vanoce-na-radnici-zabavi-den-pred-jeziskem-male-i-velke</link>
-      <description>Vánoce na radnici zabaví den před Ježíškem malé i velké</description>
     </item>
     <item>
       <title>Poslední víkend před Vánocemi nabídne koledování, tvořivé dílny i hokej</title>
@@ -168,6 +163,11 @@
       <title>6 věcí, které chcete vědět, než se vydáte bruslit na přehradu</title>
       <link>https://cosedeje.brno.cz//w/6-veci-ktere-chcete-vedet-nez-se-vydate-bruslit-na-prehradu</link>
       <description>6 věcí, které chcete vědět, než se vydáte bruslit na přehradu</description>
+    </item>
+    <item>
+      <title>Dostupnější nájem pro mladé lidi: město obsazuje 16 bytů, přihlašování končí za měsíc</title>
+      <link>https://cosedeje.brno.cz//w/dostupnejsi-najem-pro-mlade-lidi-mesto-obsazuje-16-bytu-prihlasovani-konci-za-mesic</link>
+      <description>Dostupnější nájem pro mladé lidi: město obsazuje 16 bytů, přihlašování končí za měsíc</description>
     </item>
     <item>
       <title>

@@ -7,12 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 13 Jan 2026 12:23:23 +0000</lastBuildDate>
-    <item>
-      <title>Nabídka bytu pro osamělé rodiče s dětmi v domě Vlhká 22</title>
-      <link>https://bydleni.brno.cz/aktuality/nabidka-bytu-pro-osamele-rodice-s-detmi-v-dome-vlhka-22/</link>
-      <description>Nabídka bytu pro osamělé rodiče s dětmi v domě Vlhká 22</description>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 16:17:55 +0000</lastBuildDate>
     <item>
       <title>Pozvánka na festival „Kam kráčíš, Brno?“</title>
       <link>https://bydleni.brno.cz/aktuality/pozvanka-na-festival-kam-kracis-brno/</link>
@@ -67,6 +62,11 @@
       <title>Lednová nabídka startovacích bytů pro páry a jednotlivce</title>
       <link>https://bydleni.brno.cz/aktuality/lednova-nabidka-startovacich-bytu-pro-pary-a-jednotlivce/</link>
       <description>Lednová nabídka startovacích bytů pro páry a jednotlivce</description>
+    </item>
+    <item>
+      <title>Výsledky losování startovacích bytů pro jednotlivce dne 12. ledna 2026</title>
+      <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-jednotlivce-dne-12-ledna-2026/</link>
+      <description>Výsledky losování startovacích bytů pro jednotlivce dne 12. ledna 2026</description>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 14 Jan 2026 12:22:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 16:16:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,31 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Na Údolní ulice se 20. prosince vrátí tramvaje</title>
-      <link>https://cosedeje.brno.cz//w/na-udolni-ulice-se-20-prosince-vrati-tramvaje</link>
-      <description>Na Údolní ulice se 20. prosince vrátí tramvaje</description>
-    </item>
-    <item>
-      <title>Na Kraví horu tramvají – od soboty se vrací na Údolní</title>
-      <link>https://cosedeje.brno.cz//w/na-kravi-horu-tramvaji-od-soboty-se-vraci-na-udolni</link>
-      <description>Na Kraví horu tramvají – od soboty se vrací na Údolní</description>
-    </item>
-    <item>
-      <title>Brno mezi svátky: kam za kulturou, pohybem i procházkami</title>
-      <link>https://cosedeje.brno.cz//w/brno-mezi-svatky-kam-za-kulturou-pohybem-i-prochazkami</link>
-      <description>Brno mezi svátky: kam za kulturou, pohybem i procházkami</description>
-    </item>
-    <item>
-      <title>Novoroční ohňostroj město nepořádá, ale na Silvestra bude program na Zelném trhu</title>
-      <link>https://cosedeje.brno.cz//w/novorocni-ohnostroj-mesto-neporada-ale-na-silvestra-bude-program-na-zelnem-trhu</link>
-      <description>Novoroční ohňostroj město nepořádá, ale na Silvestra bude program na Zelném trhu</description>
-    </item>
-    <item>
-      <title>Dopravní podnik města Brna pořídil dva nové elektrovozy pro službu Seniorbus</title>
-      <link>https://cosedeje.brno.cz//w/dopravni-podnik-mesta-brna-nasadil-do-provozu-dva-nove-elektrovozy-pro-sluzbu-seniorbus</link>
-      <description>Dopravní podnik města Brna pořídil dva nové elektrovozy pro službu Seniorbus</description>
     </item>
     <item>
       <title>Nový rok, staronové ceny: sazby za odvoz odpadu, rezidentní parkování nebo tepelnou energii budou v roce 2026 stejné jako letos</title>
@@ -163,6 +138,31 @@
       <title>Dostupnější nájem pro mladé lidi: město obsazuje 16 bytů, přihlašování končí za měsíc</title>
       <link>https://cosedeje.brno.cz//w/dostupnejsi-najem-pro-mlade-lidi-mesto-obsazuje-16-bytu-prihlasovani-konci-za-mesic</link>
       <description>Dostupnější nájem pro mladé lidi: město obsazuje 16 bytů, přihlašování končí za měsíc</description>
+    </item>
+    <item>
+      <title>Rekonstrukce Waldorfské školy Brno: investiční záměr zahrne nové oplocení i strop pavilonu</title>
+      <link>https://cosedeje.brno.cz//w/rekonstrukce-waldorfske-skoly-brno-investicni-zamer-zahrne-nove-oploceni-i-strop-pavilonu</link>
+      <description>Rekonstrukce Waldorfské školy Brno: investiční záměr zahrne nové oplocení i strop pavilonu</description>
+    </item>
+    <item>
+      <title>Město poskytne finanční podporu školám na přípravu dietní stravy</title>
+      <link>https://cosedeje.brno.cz//w/mesto-poskytne-financni-podporu-skolam-na-pripravu-dietni-stravy</link>
+      <description>Město poskytne finanční podporu školám na přípravu dietní stravy</description>
+    </item>
+    <item>
+      <title>Dotace na rok 2026: podpoří vrcholový sport i provoz TJ Tesla</title>
+      <link>https://cosedeje.brno.cz//w/dotace-na-rok-2026-podpori-vrcholovy-sport-i-provoz-tj-tesla</link>
+      <description>Dotace na rok 2026: podpoří vrcholový sport i provoz TJ Tesla</description>
+    </item>
+    <item>
+      <title>První rezidentní parkovací dům vznikne na Stamicově</title>
+      <link>https://cosedeje.brno.cz//w/prvni-rezidentni-parkovaci-dum-vznikne-na-stamicove</link>
+      <description>První rezidentní parkovací dům vznikne na Stamicově</description>
+    </item>
+    <item>
+      <title>Brno vítá nové zahraniční odborníky a posiluje svou pozici mezinárodního města</title>
+      <link>https://cosedeje.brno.cz//w/brno-vita-nove-zahranicni-odborniky-a-posiluje-svou-pozici-mezinarodniho-mesta</link>
+      <description>Brno vítá nové zahraniční odborníky a posiluje svou pozici mezinárodního města</description>
     </item>
     <item>
       <title>Jihomoravský kraj a Brno podpoří provoz nonstop lékárny Dr. Max na Baštách společně. Na noční provoz uvolní 3,2 milionu korun ročně</title>

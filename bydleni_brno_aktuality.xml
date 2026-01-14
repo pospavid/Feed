@@ -7,12 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 13 Jan 2026 16:17:55 +0000</lastBuildDate>
-    <item>
-      <title>Pozvánka na festival „Kam kráčíš, Brno?“</title>
-      <link>https://bydleni.brno.cz/aktuality/pozvanka-na-festival-kam-kracis-brno/</link>
-      <description>Pozvánka na festival „Kam kráčíš, Brno?“</description>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 08:16:28 +0000</lastBuildDate>
     <item>
       <title>Pozvánka na losování startovacích bytů dne 3. listopadu 2025</title>
       <link>https://bydleni.brno.cz/aktuality/pozvanka-na-losovani-startovacich-bytu-dne-3-listopadu-2025/</link>
@@ -67,6 +62,11 @@
       <title>Výsledky losování startovacích bytů pro jednotlivce dne 12. ledna 2026</title>
       <link>https://bydleni.brno.cz/aktuality/vysledky-losovani-startovacich-bytu-pro-jednotlivce-dne-12-ledna-2026/</link>
       <description>Výsledky losování startovacích bytů pro jednotlivce dne 12. ledna 2026</description>
+    </item>
+    <item>
+      <title>Od ledna lze žádat o běžný obecní byt na jednotném formuláři</title>
+      <link>https://bydleni.brno.cz/aktuality/od-ledna-lze-zadat-o-bezny-obecni-byt-na-jednotnem-formulari/</link>
+      <description>Od ledna lze žádat o běžný obecní byt na jednotném formuláři</description>
     </item>
   </channel>
 </rss>

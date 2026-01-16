@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 15 Jan 2026 16:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 08:16:23 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Tužky, nůžky, papír. Podpořte školáky v magistrátní sbírce</title>
-      <link>https://cosedeje.brno.cz//w/tuzky-nuzky-papir-podporte-skolaky-v-magistratni-sbirce</link>
-      <description>Tužky, nůžky, papír. Podpořte školáky v magistrátní sbírce</description>
     </item>
     <item>
       <title>Kolektor Česká–Středova: po skončení prací ulici oživí nové stromy</title>
@@ -168,6 +163,11 @@
       <title>Jihomoravská záchranka dostala již sedmou sanitku pořízenou z dotace statutárního města Brna</title>
       <link>https://cosedeje.brno.cz//w/jihomoravska-zachranka-dostala-jiz-sedmou-sanitku-porizenou-z-dotace-statutarniho-mesta-brna</link>
       <description>Jihomoravská záchranka dostala již sedmou sanitku pořízenou z dotace statutárního města Brna</description>
+    </item>
+    <item>
+      <title>Víkend ozvláštní oslavy vily Löw-Beer, akce pro děti i zimní běh</title>
+      <link>https://cosedeje.brno.cz//w/vikend-ozvlastni-oslavy-vily-low-beer-akce-pro-deti-i-zimni-beh</link>
+      <description>Víkend ozvláštní oslavy vily Löw-Beer, akce pro děti i zimní běh</description>
     </item>
     <item>
       <title>

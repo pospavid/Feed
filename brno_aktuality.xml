@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 20 Jan 2026 08:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 12:24:30 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Letem světem novoročním Brnem.  Kam se vydat první lednový víkend?</title>
-      <link>https://cosedeje.brno.cz//w/letem-svetem-novorocnim-brnem-kam-se-vydat-prvni-lednovy-vikend-</link>
-      <description>Letem světem novoročním Brnem.  Kam se vydat první lednový víkend?</description>
     </item>
     <item>
       <title>Brněnský metropolitan č. 1/2026</title>
@@ -168,6 +163,11 @@
       <title>Zajímají vás vysokorychlostní tratě a nové nádraží? Přijďte na přednášky v Urban centru</title>
       <link>https://cosedeje.brno.cz//w/zajimaji-vas-vysokorychlostni-trate-a-nove-nadrazi-prijdte-na-prednasky-v-urban-centru</link>
       <description>Zajímají vás vysokorychlostní tratě a nové nádraží? Přijďte na přednášky v Urban centru</description>
+    </item>
+    <item>
+      <title>Zemřela lékařka Alena Štětková, bývalá ředitelka nemocnice u svaté Anny</title>
+      <link>https://cosedeje.brno.cz//w/zemrela-lekarka-alena-stetkova-byvala-reditelka-nemocnice-u-svate-anny</link>
+      <description>Zemřela lékařka Alena Štětková, bývalá ředitelka nemocnice u svaté Anny</description>
     </item>
     <item>
       <title>

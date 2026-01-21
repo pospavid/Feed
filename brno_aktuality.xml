@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 21 Jan 2026 08:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 12:24:42 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno vyhlásí mezinárodní architektonickou soutěž na novou budovu magistrátu</title>
-      <link>https://cosedeje.brno.cz//w/brno-vyhlasi-mezinarodni-architektonickou-soutez-na-novou-budovu-magistratu</link>
-      <description>Brno vyhlásí mezinárodní architektonickou soutěž na novou budovu magistrátu</description>
-    </item>
-    <item>
-      <title>Zamilovaný hájek pro všechny – další projekt Dáme na vás je hotový. Oslava se uskuteční v pátek na bruslích</title>
-      <link>https://cosedeje.brno.cz//w/zamilovany-hajek-pro-vsechny-dalsi-projekt-dame-na-vas-je-hotovy-oslava-se-uskutecni-v-patek-na-bruslich</link>
-      <description>Zamilovaný hájek pro všechny – další projekt Dáme na vás je hotový. Oslava se uskuteční v pátek na bruslích</description>
     </item>
     <item>
       <title>Dotace do kultury: Město podpoří nový festival nezávislého divadla i oslavy jubilea B-SIDE BANDU. Speciální dar vyjednalo i pro výstavu Liběny Rochové</title>
@@ -168,6 +158,16 @@
       <title>Nové partnerské město, dotace do sportu nebo kultury – zastupitelé projednali téměř 100 bodů</title>
       <link>https://cosedeje.brno.cz//w/nove-partnerske-mesto-dotace-do-sportu-nebo-kultury-zastupitele-projednali-temer-100-bodu</link>
       <description>Nové partnerské město, dotace do sportu nebo kultury – zastupitelé projednali téměř 100 bodů</description>
+    </item>
+    <item>
+      <title>Získat městský byt zaplacením cizího dluhu na nájmu? To už v Brně nepůjde</title>
+      <link>https://cosedeje.brno.cz//w/ziskat-mestsky-byt-zaplacenim-ciziho-dluhu-na-najmu-to-uz-v-brne-nepujde</link>
+      <description>Získat městský byt zaplacením cizího dluhu na nájmu? To už v Brně nepůjde</description>
+    </item>
+    <item>
+      <title>Obsazené vůbec, prázdné jen výjimečně. Město výrazně omezuje prodej bytů</title>
+      <link>https://cosedeje.brno.cz//w/obsazene-vubec-prazdne-jen-vyjimecne-mesto-vyrazne-omezuje-prodej-bytu</link>
+      <description>Obsazené vůbec, prázdné jen výjimečně. Město výrazně omezuje prodej bytů</description>
     </item>
     <item>
       <title>

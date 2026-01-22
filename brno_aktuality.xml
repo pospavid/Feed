@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 22 Jan 2026 12:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 16:20:08 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rekonstrukce Waldorfské školy Brno: investiční záměr zahrne nové oplocení i strop pavilonu</title>
-      <link>https://cosedeje.brno.cz//w/rekonstrukce-waldorfske-skoly-brno-investicni-zamer-zahrne-nove-oploceni-i-strop-pavilonu</link>
-      <description>Rekonstrukce Waldorfské školy Brno: investiční záměr zahrne nové oplocení i strop pavilonu</description>
-    </item>
-    <item>
-      <title>Město poskytne finanční podporu školám na přípravu dietní stravy</title>
-      <link>https://cosedeje.brno.cz//w/mesto-poskytne-financni-podporu-skolam-na-pripravu-dietni-stravy</link>
-      <description>Město poskytne finanční podporu školám na přípravu dietní stravy</description>
     </item>
     <item>
       <title>Dotace na rok 2026: podpoří vrcholový sport i provoz TJ Tesla</title>
@@ -168,6 +158,16 @@
       <title>Namísto chátrající budovy park. Železniční poliklinika jde k zemi</title>
       <link>https://cosedeje.brno.cz//w/namisto-chatrajici-budovy-park-zeleznicni-poliklinika-jde-k-zemi</link>
       <description>Namísto chátrající budovy park. Železniční poliklinika jde k zemi</description>
+    </item>
+    <item>
+      <title>Strážníci jsou za svou práci ještě lépe ohodnocení, k platu dostávají vyšší stabilizační příspěvek</title>
+      <link>https://cosedeje.brno.cz//w/straznici-jsou-za-svou-praci-jeste-lepe-ohodnoceni-k-platu-dostavaji-vyssi-stabilizacni-prispevek</link>
+      <description>Strážníci jsou za svou práci ještě lépe ohodnocení, k platu dostávají vyšší stabilizační příspěvek</description>
+    </item>
+    <item>
+      <title>Železniční poliklinika jde k zemi. V budoucnu tu vznikne park</title>
+      <link>https://cosedeje.brno.cz//w/zeleznicni-poliklinika-jde-k-zemi-v-budoucnu-tu-vznikne-park</link>
+      <description>Železniční poliklinika jde k zemi. V budoucnu tu vznikne park</description>
     </item>
     <item>
       <title>

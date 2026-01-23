@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 23 Jan 2026 08:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 12:24:05 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>První rezidentní parkovací dům vznikne na Stamicově</title>
-      <link>https://cosedeje.brno.cz//w/prvni-rezidentni-parkovaci-dum-vznikne-na-stamicove</link>
-      <description>První rezidentní parkovací dům vznikne na Stamicově</description>
     </item>
     <item>
       <title>Brno vítá nové zahraniční odborníky a posiluje svou pozici mezinárodního města</title>
@@ -168,6 +163,11 @@
       <title>Roboti, blešák nebo výstava hraček. Zažijte bohatý víkend</title>
       <link>https://cosedeje.brno.cz//w/roboti-blesak-nebo-vystava-hracek-zazijte-bohaty-vikend</link>
       <description>Roboti, blešák nebo výstava hraček. Zažijte bohatý víkend</description>
+    </item>
+    <item>
+      <title>Hats off to the Queen! Červený klobouček na fasádě radnice připomene návštěvu královny Alžběty II.</title>
+      <link>https://cosedeje.brno.cz//w/hats-off-to-the-queen-cerveny-kloboucek-na-fasade-radnice-pripomene-navstevu-kralovny-alzbety-ii</link>
+      <description>Hats off to the Queen! Červený klobouček na fasádě radnice připomene návštěvu královny Alžběty II.</description>
     </item>
     <item>
       <title>

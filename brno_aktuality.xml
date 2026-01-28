@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 28 Jan 2026 08:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 12:25:26 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Jihomoravský kraj a Brno podpoří provoz nonstop lékárny Dr. Max na Baštách společně. Na noční provoz uvolní 3,2 milionu korun ročně</title>
-      <link>https://cosedeje.brno.cz//w/jihomoravsky-kraj-a-brno-podpori-provoz-nonstop-lekarny-dr-max-na-bastach-spolecne-na-nocni-provoz-uvolni-3-2-milionu-korun-rocne</link>
-      <description>Jihomoravský kraj a Brno podpoří provoz nonstop lékárny Dr. Max na Baštách společně. Na noční provoz uvolní 3,2 milionu korun ročně</description>
-    </item>
-    <item>
-      <title>Jihomoravská záchranka dostala již sedmou sanitku pořízenou z dotace statutárního města Brna</title>
-      <link>https://cosedeje.brno.cz//w/jihomoravska-zachranka-dostala-jiz-sedmou-sanitku-porizenou-z-dotace-statutarniho-mesta-brna</link>
-      <description>Jihomoravská záchranka dostala již sedmou sanitku pořízenou z dotace statutárního města Brna</description>
     </item>
     <item>
       <title>Víkend ozvláštní oslavy vily Löw-Beer, akce pro děti i zimní běh</title>
@@ -168,6 +158,16 @@
       <title>Brněnský metropolitan č. 2/2026</title>
       <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-2-2026</link>
       <description>Brněnský metropolitan č. 2/2026</description>
+    </item>
+    <item>
+      <title>V Dublinu začala výstava o vile Tugendhat</title>
+      <link>https://cosedeje.brno.cz//w/v-dublinu-zacala-vystava-o-vile-tugendhat</link>
+      <description>V Dublinu začala výstava o vile Tugendhat</description>
+    </item>
+    <item>
+      <title>Výstava o vile Tugendhat láká do Brna fanoušky architektury z Irska</title>
+      <link>https://cosedeje.brno.cz//w/vystava-o-vile-tugendhat-laka-do-brna-fanousky-architektury-z-irska</link>
+      <description>Výstava o vile Tugendhat láká do Brna fanoušky architektury z Irska</description>
     </item>
     <item>
       <title>

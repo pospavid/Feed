@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 29 Jan 2026 08:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 12:30:01 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Získat městský byt zaplacením cizího dluhu na nájmu? To už v Brně nepůjde</title>
-      <link>https://cosedeje.brno.cz//w/ziskat-mestsky-byt-zaplacenim-ciziho-dluhu-na-najmu-to-uz-v-brne-nepujde</link>
-      <description>Získat městský byt zaplacením cizího dluhu na nájmu? To už v Brně nepůjde</description>
     </item>
     <item>
       <title>Obsazené vůbec, prázdné jen výjimečně. Město výrazně omezuje prodej bytů</title>
@@ -168,6 +163,11 @@
       <title>Metropolitní oblasti a aglomerace zakládají společný svazek. Cílem je mít silný a jednotný hlas při prosazování zájmů měst</title>
       <link>https://cosedeje.brno.cz//w/metropolitni-oblasti-a-aglomerace-zakladaji-spolecny-svazek-cilem-je-mit-silny-a-jednotny-hlas-pri-prosazovani-zajmu-mest</link>
       <description>Metropolitní oblasti a aglomerace zakládají společný svazek. Cílem je mít silný a jednotný hlas při prosazování zájmů měst</description>
+    </item>
+    <item>
+      <title>Parkovací dům v Novém Lískovci má začít růst ještě letos, přinese skoro 300 míst</title>
+      <link>https://cosedeje.brno.cz//w/parkovaci-dum-v-novem-liskovci-ma-zacit-rust-jeste-letos-prinese-skoro-300-mist</link>
+      <description>Parkovací dům v Novém Lískovci má začít růst ještě letos, přinese skoro 300 míst</description>
     </item>
     <item>
       <title>

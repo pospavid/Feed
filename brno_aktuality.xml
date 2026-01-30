@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 30 Jan 2026 08:24:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 12:29:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Dotace pro velké sportovní akce: město přispěje 18 miliony korun</title>
-      <link>https://cosedeje.brno.cz//w/dotace-pro-velke-sportovni-akce-mesto-prispeje-18-miliony-korun</link>
-      <description>Dotace pro velké sportovní akce: město přispěje 18 miliony korun</description>
-    </item>
-    <item>
-      <title>Brno rozšiřuje inovační infrastrukturu. Nový spolek propojí městské firmy, výzkum a inovace</title>
-      <link>https://cosedeje.brno.cz//w/brno-rozsiruje-inovacni-infrastrukturu-novy-spolek-propoji-mestske-firmy-vyzkum-a-inovace</link>
-      <description>Brno rozšiřuje inovační infrastrukturu. Nový spolek propojí městské firmy, výzkum a inovace</description>
     </item>
     <item>
       <title>Převody pozemků v Pisárkách, Veveří a Slatině umožní vznik nové hasičské stanice a další výstavbu</title>
@@ -168,6 +158,16 @@
       <title>Na ples, nebo na party? Máme pro vás tipy na víkendové dny i noci</title>
       <link>https://cosedeje.brno.cz//w/na-ples-nebo-na-party-mame-pro-vas-tipy-na-vikendove-dny-i-noci</link>
       <description>Na ples, nebo na party? Máme pro vás tipy na víkendové dny i noci</description>
+    </item>
+    <item>
+      <title>Z křižovatky centrem Židenic? Starou osadu pomůže změnit urbanistická soutěž</title>
+      <link>https://cosedeje.brno.cz//w/z-krizovatky-centrem-zidenic-starou-osadu-pomuze-zmenit-urbanisticka-soutez</link>
+      <description>Z křižovatky centrem Židenic? Starou osadu pomůže změnit urbanistická soutěž</description>
+    </item>
+    <item>
+      <title>Prodej květin na České zůstává. Stánek se přesune na náhradní místo</title>
+      <link>https://cosedeje.brno.cz//w/prodej-kvetin-na-ceske-zustava-stanek-se-presune-na-nahradni-misto</link>
+      <description>Prodej květin na České zůstává. Stánek se přesune na náhradní místo</description>
     </item>
     <item>
       <title>

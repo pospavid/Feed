@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 29 Jan 2026 16:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 08:24:59 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Výjimečné osobnosti převzaly Ceny města Brna</title>
-      <link>https://cosedeje.brno.cz//w/vyjimecne-osobnosti-prevzaly-ceny-mesta-brna</link>
-      <description>Výjimečné osobnosti převzaly Ceny města Brna</description>
     </item>
     <item>
       <title>Dotace pro velké sportovní akce: město přispěje 18 miliony korun</title>
@@ -168,6 +163,11 @@
       <title>Čtvrtina fanoušků chodí na MotoGP pravidelně. Co dalšího ukázala ekonomická analýza?</title>
       <link>https://cosedeje.brno.cz//w/ctvrtina-fanousku-chodi-na-motogp-pravidelne-co-dalsiho-ukazala-ekonomicka-analyza-</link>
       <description>Čtvrtina fanoušků chodí na MotoGP pravidelně. Co dalšího ukázala ekonomická analýza?</description>
+    </item>
+    <item>
+      <title>Na ples, nebo na party? Máme pro vás tipy na víkendové dny i noci</title>
+      <link>https://cosedeje.brno.cz//w/na-ples-nebo-na-party-mame-pro-vas-tipy-na-vikendove-dny-i-noci</link>
+      <description>Na ples, nebo na party? Máme pro vás tipy na víkendové dny i noci</description>
     </item>
     <item>
       <title>

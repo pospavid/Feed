@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 02 Feb 2026 08:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 12:32:15 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Převody pozemků v Pisárkách, Veveří a Slatině umožní vznik nové hasičské stanice a další výstavbu</title>
-      <link>https://cosedeje.brno.cz//w/prevody-pozemku-v-pisarkach-veveri-a-slatine-umozni-vznik-nove-hasicske-stanice-a-dalsi-vystavbu</link>
-      <description>Převody pozemků v Pisárkách, Veveří a Slatině umožní vznik nové hasičské stanice a další výstavbu</description>
-    </item>
-    <item>
-      <title>Týmová práce místo frontální výuky. Na Merhautově zkouší novou vyučovací metodu, zápis do první třídy právě probíhá</title>
-      <link>https://cosedeje.brno.cz//w/tymova-prace-misto-frontalni-vyuky-na-merhautove-zkousi-novou-vyucovaci-metodu-zapis-do-prvni-tridy-prave-probiha</link>
-      <description>Týmová práce místo frontální výuky. Na Merhautově zkouší novou vyučovací metodu, zápis do první třídy právě probíhá</description>
     </item>
     <item>
       <title>Namísto chátrající budovy park. Železniční poliklinika jde k zemi</title>
@@ -168,6 +158,16 @@
       <title>Prodej květin na České zůstává. Stánek se přesune na náhradní místo</title>
       <link>https://cosedeje.brno.cz//w/prodej-kvetin-na-ceske-zustava-stanek-se-presune-na-nahradni-misto</link>
       <description>Prodej květin na České zůstává. Stánek se přesune na náhradní místo</description>
+    </item>
+    <item>
+      <title>DPMB loni dosáhl rekordních tržeb a počtu cestujících</title>
+      <link>https://cosedeje.brno.cz//w/dpmb-loni-dosahl-rekordnich-trzeb-a-poctu-cestujicich</link>
+      <description>DPMB loni dosáhl rekordních tržeb a počtu cestujících</description>
+    </item>
+    <item>
+      <title>Loni se MHD v Brně svezlo nejvíce lidí v historii dopravního podniku</title>
+      <link>https://cosedeje.brno.cz//w/loni-se-mhd-v-brne-svezlo-nejvice-lidi-v-historii-dopravniho-podniku</link>
+      <description>Loni se MHD v Brně svezlo nejvíce lidí v historii dopravního podniku</description>
     </item>
     <item>
       <title>

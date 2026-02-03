@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 03 Feb 2026 08:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 12:32:48 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Namísto chátrající budovy park. Železniční poliklinika jde k zemi</title>
-      <link>https://cosedeje.brno.cz//w/namisto-chatrajici-budovy-park-zeleznicni-poliklinika-jde-k-zemi</link>
-      <description>Namísto chátrající budovy park. Železniční poliklinika jde k zemi</description>
     </item>
     <item>
       <title>Strážníci jsou za svou práci ještě lépe ohodnocení, k platu dostávají vyšší stabilizační příspěvek</title>
@@ -168,6 +163,11 @@
       <title>Loni se MHD v Brně svezlo nejvíce lidí v historii dopravního podniku</title>
       <link>https://cosedeje.brno.cz//w/loni-se-mhd-v-brne-svezlo-nejvice-lidi-v-historii-dopravniho-podniku</link>
       <description>Loni se MHD v Brně svezlo nejvíce lidí v historii dopravního podniku</description>
+    </item>
+    <item>
+      <title>Míň vyhozených obědů, víc plných žaludků. Brno motivuje školní jídelny ke spolupráci s charitami</title>
+      <link>https://cosedeje.brno.cz//w/min-vyhozenych-obedu-vic-plnych-zaludku-brno-motivuje-skolni-jidelny-ke-spolupraci-s-charitami</link>
+      <description>Míň vyhozených obědů, víc plných žaludků. Brno motivuje školní jídelny ke spolupráci s charitami</description>
     </item>
     <item>
       <title>

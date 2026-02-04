@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 04 Feb 2026 12:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 16:32:55 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Strážníci jsou za svou práci ještě lépe ohodnocení, k platu dostávají vyšší stabilizační příspěvek</title>
-      <link>https://cosedeje.brno.cz//w/straznici-jsou-za-svou-praci-jeste-lepe-ohodnoceni-k-platu-dostavaji-vyssi-stabilizacni-prispevek</link>
-      <description>Strážníci jsou za svou práci ještě lépe ohodnocení, k platu dostávají vyšší stabilizační příspěvek</description>
-    </item>
-    <item>
-      <title>Železniční poliklinika jde k zemi. V budoucnu tu vznikne park</title>
-      <link>https://cosedeje.brno.cz//w/zeleznicni-poliklinika-jde-k-zemi-v-budoucnu-tu-vznikne-park</link>
-      <description>Železniční poliklinika jde k zemi. V budoucnu tu vznikne park</description>
     </item>
     <item>
       <title>Roboti, blešák nebo výstava hraček. Zažijte bohatý víkend</title>
@@ -168,6 +158,16 @@
       <title>Míň vyhozených obědů, víc plných žaludků. Brno motivuje školní jídelny ke spolupráci s charitami</title>
       <link>https://cosedeje.brno.cz//w/min-vyhozenych-obedu-vic-plnych-zaludku-brno-motivuje-skolni-jidelny-ke-spolupraci-s-charitami</link>
       <description>Míň vyhozených obědů, víc plných žaludků. Brno motivuje školní jídelny ke spolupráci s charitami</description>
+    </item>
+    <item>
+      <title>Chodci, cyklisté i auta: Brno otevírá data z dopravních senzorů</title>
+      <link>https://cosedeje.brno.cz//w/chodci-cykliste-i-auta-brno-otevira-data-z-dopravnich-senzoru</link>
+      <description>Chodci, cyklisté i auta: Brno otevírá data z dopravních senzorů</description>
+    </item>
+    <item>
+      <title>Brno očima lidí: 27 tisíc záznamů, šest map a devět stovek postřehů</title>
+      <link>https://cosedeje.brno.cz//w/brno-ocima-lidi-27-tisic-zaznamu-sest-map-a-devet-stovek-postrehu</link>
+      <description>Brno očima lidí: 27 tisíc záznamů, šest map a devět stovek postřehů</description>
     </item>
     <item>
       <title>

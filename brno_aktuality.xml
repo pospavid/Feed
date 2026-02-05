@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 05 Feb 2026 08:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 12:34:37 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Roboti, blešák nebo výstava hraček. Zažijte bohatý víkend</title>
-      <link>https://cosedeje.brno.cz//w/roboti-blesak-nebo-vystava-hracek-zazijte-bohaty-vikend</link>
-      <description>Roboti, blešák nebo výstava hraček. Zažijte bohatý víkend</description>
     </item>
     <item>
       <title>Hats off to the Queen! Červený klobouček na fasádě radnice připomene návštěvu královny Alžběty II.</title>
@@ -168,6 +163,11 @@
       <title>Brno očima lidí: 27 tisíc záznamů, šest map a devět stovek postřehů</title>
       <link>https://cosedeje.brno.cz//w/brno-ocima-lidi-27-tisic-zaznamu-sest-map-a-devet-stovek-postrehu</link>
       <description>Brno očima lidí: 27 tisíc záznamů, šest map a devět stovek postřehů</description>
+    </item>
+    <item>
+      <title>Město Brno podpoří dopravní podnik pěti byty pro jeho zaměstnance</title>
+      <link>https://cosedeje.brno.cz//w/mesto-brno-podpori-dopravni-podnik-peti-byty-pro-jeho-zamestnance</link>
+      <description>Město Brno podpoří dopravní podnik pěti byty pro jeho zaměstnance</description>
     </item>
     <item>
       <title>

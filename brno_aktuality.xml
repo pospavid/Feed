@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 05 Feb 2026 16:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 08:28:34 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Hats off to the Queen! Červený klobouček na fasádě radnice připomene návštěvu královny Alžběty II.</title>
-      <link>https://cosedeje.brno.cz//w/hats-off-to-the-queen-cerveny-kloboucek-na-fasade-radnice-pripomene-navstevu-kralovny-alzbety-ii</link>
-      <description>Hats off to the Queen! Červený klobouček na fasádě radnice připomene návštěvu královny Alžběty II.</description>
     </item>
     <item>
       <title>Brněnský metropolitan č. 2/2026</title>
@@ -168,6 +163,11 @@
       <title>Město Brno podpoří dopravní podnik pěti byty pro jeho zaměstnance</title>
       <link>https://cosedeje.brno.cz//w/mesto-brno-podpori-dopravni-podnik-peti-byty-pro-jeho-zamestnance</link>
       <description>Město Brno podpoří dopravní podnik pěti byty pro jeho zaměstnance</description>
+    </item>
+    <item>
+      <title>Čím ožije Brno o víkendu? Květinami, masopustem i uměním</title>
+      <link>https://cosedeje.brno.cz//w/cim-ozije-brno-o-vikendu-kvetinami-masopustem-i-umenim</link>
+      <description>Čím ožije Brno o víkendu? Květinami, masopustem i uměním</description>
     </item>
     <item>
       <title>

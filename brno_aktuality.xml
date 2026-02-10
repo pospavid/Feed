@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 09 Feb 2026 12:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 08:37:04 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brněnský metropolitan č. 2/2026</title>
-      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-2-2026</link>
-      <description>Brněnský metropolitan č. 2/2026</description>
     </item>
     <item>
       <title>V Dublinu začala výstava o vile Tugendhat</title>
@@ -168,6 +163,11 @@
       <title>Čím ožije Brno o víkendu? Květinami, masopustem i uměním</title>
       <link>https://cosedeje.brno.cz//w/cim-ozije-brno-o-vikendu-kvetinami-masopustem-i-umenim</link>
       <description>Čím ožije Brno o víkendu? Květinami, masopustem i uměním</description>
+    </item>
+    <item>
+      <title>Nevyhazujte obědy, darujte je potřebným, motivuje Brno školní jídelny</title>
+      <link>https://cosedeje.brno.cz//w/nevyhazujte-obedy-darujte-je-potrebnym-motivuje-brno-skolni-jidelny</link>
+      <description>Nevyhazujte obědy, darujte je potřebným, motivuje Brno školní jídelny</description>
     </item>
     <item>
       <title>

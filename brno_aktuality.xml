@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 16 Feb 2026 08:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 12:35:56 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Z křižovatky centrem Židenic? Starou osadu pomůže změnit urbanistická soutěž</title>
-      <link>https://cosedeje.brno.cz//w/z-krizovatky-centrem-zidenic-starou-osadu-pomuze-zmenit-urbanisticka-soutez</link>
-      <description>Z křižovatky centrem Židenic? Starou osadu pomůže změnit urbanistická soutěž</description>
     </item>
     <item>
       <title>Prodej květin na České zůstává. Stánek se přesune na náhradní místo</title>
@@ -168,6 +163,11 @@
       <title>Víkend bude patřit zamilovaným i milovníkům aktivního trávení volného času</title>
       <link>https://cosedeje.brno.cz//w/vikend-bude-patrit-zamilovanym-i-milovnikum-aktivniho-traveni-volneho-casu</link>
       <description>Víkend bude patřit zamilovaným i milovníkům aktivního trávení volného času</description>
+    </item>
+    <item>
+      <title>Odešel mistr sklářského umění Valér Kováč</title>
+      <link>https://cosedeje.brno.cz//w/odesel-mistr-sklarskeho-umeni-valer-kovac</link>
+      <description>Odešel mistr sklářského umění Valér Kováč</description>
     </item>
     <item>
       <title>

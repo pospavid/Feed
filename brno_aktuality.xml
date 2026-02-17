@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 17 Feb 2026 08:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 12:35:38 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>DPMB loni dosáhl rekordních tržeb a počtu cestujících</title>
-      <link>https://cosedeje.brno.cz//w/dpmb-loni-dosahl-rekordnich-trzeb-a-poctu-cestujicich</link>
-      <description>DPMB loni dosáhl rekordních tržeb a počtu cestujících</description>
     </item>
     <item>
       <title>Loni se MHD v Brně svezlo nejvíce lidí v historii dopravního podniku</title>
@@ -168,6 +163,11 @@
       <title>Hasiči v kolektorech trénují na zásahy v tunelech</title>
       <link>https://cosedeje.brno.cz//w/hasici-v-kolektorech-trenuji-na-zasahy-v-tunelech</link>
       <description>Hasiči v kolektorech trénují na zásahy v tunelech</description>
+    </item>
+    <item>
+      <title>O druhý městský holubník pečují lidé ve výkonu trestu</title>
+      <link>https://cosedeje.brno.cz//w/o-druhy-mestsky-holubnik-pecuji-lide-ve-vykonu-trestu</link>
+      <description>O druhý městský holubník pečují lidé ve výkonu trestu</description>
     </item>
     <item>
       <title>

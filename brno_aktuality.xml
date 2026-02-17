@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 17 Feb 2026 12:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 16:43:21 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Loni se MHD v Brně svezlo nejvíce lidí v historii dopravního podniku</title>
-      <link>https://cosedeje.brno.cz//w/loni-se-mhd-v-brne-svezlo-nejvice-lidi-v-historii-dopravniho-podniku</link>
-      <description>Loni se MHD v Brně svezlo nejvíce lidí v historii dopravního podniku</description>
     </item>
     <item>
       <title>Míň vyhozených obědů, víc plných žaludků. Brno motivuje školní jídelny ke spolupráci s charitami</title>
@@ -168,6 +163,11 @@
       <title>O druhý městský holubník pečují lidé ve výkonu trestu</title>
       <link>https://cosedeje.brno.cz//w/o-druhy-mestsky-holubnik-pecuji-lide-ve-vykonu-trestu</link>
       <description>O druhý městský holubník pečují lidé ve výkonu trestu</description>
+    </item>
+    <item>
+      <title>Večerníček si prodlužuje loňskou oslavu kulatin. Velká výstava se přesunula z Prahy do Brna</title>
+      <link>https://cosedeje.brno.cz//w/vecernicek-si-prodluzuje-lonskou-oslavu-kulatin-velka-vystava-se-presunula-z-prahy-do-brna</link>
+      <description>Večerníček si prodlužuje loňskou oslavu kulatin. Velká výstava se přesunula z Prahy do Brna</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 19 Feb 2026 16:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 08:28:43 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno očima lidí: 27 tisíc záznamů, šest map a devět stovek postřehů</title>
-      <link>https://cosedeje.brno.cz//w/brno-ocima-lidi-27-tisic-zaznamu-sest-map-a-devet-stovek-postrehu</link>
-      <description>Brno očima lidí: 27 tisíc záznamů, šest map a devět stovek postřehů</description>
     </item>
     <item>
       <title>Město Brno podpoří dopravní podnik pěti byty pro jeho zaměstnance</title>
@@ -168,6 +163,11 @@
       <title>Zoo Brno plánuje subtropický pavilon. Nyní hledá zhotovitele</title>
       <link>https://cosedeje.brno.cz//w/zoo-brno-planuje-subtropicky-pavilon-nyni-hleda-zhotovitele</link>
       <description>Zoo Brno plánuje subtropický pavilon. Nyní hledá zhotovitele</description>
+    </item>
+    <item>
+      <title>Víkendové tipy potěší rodiny, příznivce kultury i fanoušky fotbalu</title>
+      <link>https://cosedeje.brno.cz//w/vikendove-tipy-potesi-rodiny-priznivce-kultury-i-fanousky-fotbalu</link>
+      <description>Víkendové tipy potěší rodiny, příznivce kultury i fanoušky fotbalu</description>
     </item>
     <item>
       <title>

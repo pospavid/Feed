@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 24 Feb 2026 12:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 16:53:27 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nevyhazujte obědy, darujte je potřebným, motivuje Brno školní jídelny</title>
-      <link>https://cosedeje.brno.cz//w/nevyhazujte-obedy-darujte-je-potrebnym-motivuje-brno-skolni-jidelny</link>
-      <description>Nevyhazujte obědy, darujte je potřebným, motivuje Brno školní jídelny</description>
     </item>
     <item>
       <title>Budovy Centra experimentálního divadla na Zelném trhu čeká modernizace</title>
@@ -168,6 +163,11 @@
       <title>Ukrajina se Rusku brání už čtyři celé roky. Na Nové radnici vlaje modrožlutá vlajka</title>
       <link>https://cosedeje.brno.cz//w/ukrajina-se-rusku-brani-uz-ctyri-cele-roky-na-nove-radnici-vlaje-modrozluta-vlajka</link>
       <description>Ukrajina se Rusku brání už čtyři celé roky. Na Nové radnici vlaje modrožlutá vlajka</description>
+    </item>
+    <item>
+      <title>Jak oživit přehlížená místa Brna? Návrhy přinese výstava v Urban centru</title>
+      <link>https://cosedeje.brno.cz//w/jak-ozivit-prehlizena-mista-brna-navrhy-prinese-vystava-v-urban-centru-1</link>
+      <description>Jak oživit přehlížená místa Brna? Návrhy přinese výstava v Urban centru</description>
     </item>
     <item>
       <title>

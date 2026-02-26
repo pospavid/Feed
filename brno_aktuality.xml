@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Feb 2026 08:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 12:37:08 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Další krůček v humánní regulaci holubí populace. Začal fungovat druhý městský holubník</title>
-      <link>https://cosedeje.brno.cz//w/dalsi-krucek-v-humanni-regulaci-holubi-populace-zacal-fungovat-druhy-mestsky-holubnik</link>
-      <description>Další krůček v humánní regulaci holubí populace. Začal fungovat druhý městský holubník</description>
     </item>
     <item>
       <title>Víkend bude patřit zamilovaným i milovníkům aktivního trávení volného času</title>
@@ -168,6 +163,11 @@
       <title>Brno pošle přes 200 milionů do parkování a dopravy. Vznikne nový parkovací dům i další stání</title>
       <link>https://cosedeje.brno.cz//w/brno-posle-pres-200-milionu-do-parkovani-a-dopravy-vznikne-novy-parkovaci-dum-i-dalsi-stani</link>
       <description>Brno pošle přes 200 milionů do parkování a dopravy. Vznikne nový parkovací dům i další stání</description>
+    </item>
+    <item>
+      <title>Voskový model, vypálená forma, bronzový odlitek. Jak vzniká „klobouček královny Alžběty“?</title>
+      <link>https://cosedeje.brno.cz//w/voskovy-model-vypalena-forma-bronzovy-odlitek-jak-vznika-kloboucek-kralovny-alzbety-</link>
+      <description>Voskový model, vypálená forma, bronzový odlitek. Jak vzniká „klobouček královny Alžběty“?</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 03 Mar 2026 12:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 16:33:35 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Jak oživit přehlížená místa Brna? Návrhy přinese výstava v Urban centru</title>
-      <link>https://cosedeje.brno.cz//w/jak-ozivit-prehlizena-mista-brna-navrhy-prinese-vystava-v-urban-centru-1</link>
-      <description>Jak oživit přehlížená místa Brna? Návrhy přinese výstava v Urban centru</description>
     </item>
     <item>
       <title>Škola na Hudcově se rozšíří. Přibudou moderní učebny i střešní zahrada</title>
@@ -168,6 +163,11 @@
       <title>Festival Prototyp poprvé v ulicích: centrum Brna se promění v galerii světla a digitálního umění</title>
       <link>https://cosedeje.brno.cz//w/festival-prototyp-poprve-v-ulicich-centrum-brna-se-promeni-v-galerii-svetla-a-digitalniho-umeni</link>
       <description>Festival Prototyp poprvé v ulicích: centrum Brna se promění v galerii světla a digitálního umění</description>
+    </item>
+    <item>
+      <title>Co už v nové čtvrti vzniká a co se připravuje? Prozradí čtvrteční přednáška</title>
+      <link>https://cosedeje.brno.cz//w/co-uz-v-nove-ctvrti-vznika-a-co-se-pripravuje-prozradi-ctvrtecni-prednaska</link>
+      <description>Co už v nové čtvrti vzniká a co se připravuje? Prozradí čtvrteční přednáška</description>
     </item>
     <item>
       <title>

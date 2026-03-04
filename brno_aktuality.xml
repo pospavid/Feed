@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 04 Mar 2026 08:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 12:31:02 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Škola na Hudcově se rozšíří. Přibudou moderní učebny i střešní zahrada</title>
-      <link>https://cosedeje.brno.cz//w/skola-na-hudcove-se-rozsiri-pribudou-moderni-ucebny-i-stresni-zahrada</link>
-      <description>Škola na Hudcově se rozšíří. Přibudou moderní učebny i střešní zahrada</description>
     </item>
     <item>
       <title>Miliony zamíří na provoz sportovišť, basketbalový šampionát a trenéry ve školách</title>
@@ -168,6 +163,11 @@
       <title>Co už v nové čtvrti vzniká a co se připravuje? Prozradí čtvrteční přednáška</title>
       <link>https://cosedeje.brno.cz//w/co-uz-v-nove-ctvrti-vznika-a-co-se-pripravuje-prozradi-ctvrtecni-prednaska</link>
       <description>Co už v nové čtvrti vzniká a co se připravuje? Prozradí čtvrteční přednáška</description>
+    </item>
+    <item>
+      <title>Zastupitelé zvedli ruku pro dotace na pořádání MotoGP nebo na nonstop provoz pohotovostní lékárny. Schválena byla i vyhláška o nočním klidu či využití peněz z Fondu mobility</title>
+      <link>https://cosedeje.brno.cz//w/zastupitele-zvedli-ruku-pro-dotace-na-poradani-motogp-nebo-na-nonstop-provoz-pohotovostni-lekarny-schvalena-byla-i-vyhlaska-o-nocnim-klidu-ci-vyuziti-penez-z-fondu-mobility</link>
+      <description>Zastupitelé zvedli ruku pro dotace na pořádání MotoGP nebo na nonstop provoz pohotovostní lékárny. Schválena byla i vyhláška o nočním klidu či využití peněz z Fondu mobility</description>
     </item>
     <item>
       <title>

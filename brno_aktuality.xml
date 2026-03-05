@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 05 Mar 2026 12:34:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 17:57:10 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>T-ARENA má vybraného dodavatele gastronomických služeb. Stává se jím společnost ARAMARK</title>
-      <link>https://cosedeje.brno.cz//w/t-arena-ma-vybraneho-dodavatele-gastronomickych-sluzeb-stava-se-jim-spolecnost-aramark</link>
-      <description>T-ARENA má vybraného dodavatele gastronomických služeb. Stává se jím společnost ARAMARK</description>
     </item>
     <item>
       <title>Brno pošle přes 200 milionů do parkování a dopravy. Vznikne nový parkovací dům i další stání</title>
@@ -168,6 +163,11 @@
       <title>Brno získá 11 soutěžních návrhů nového magistrátu, zapojí se architektonické týmy z 8 různých států. O vítězné podobě bude jasno už letos v létě</title>
       <link>https://cosedeje.brno.cz//w/brno-ziska-11-souteznich-navrhu-noveho-magistratu-zapoji-se-architektonicke-tymy-z-8-ruznych-statu-o-vitezne-podobe-bude-jasno-uz-letos-v-lete</link>
       <description>Brno získá 11 soutěžních návrhů nového magistrátu, zapojí se architektonické týmy z 8 různých států. O vítězné podobě bude jasno už letos v létě</description>
+    </item>
+    <item>
+      <title>T-ARENA posiluje tým. Eventový úsek povede Štěpánka Redlichová</title>
+      <link>https://cosedeje.brno.cz//w/t-arena-posiluje-tym-eventovy-usek-povede-stepanka-redlichova</link>
+      <description>T-ARENA posiluje tým. Eventový úsek povede Štěpánka Redlichová</description>
     </item>
     <item>
       <title>

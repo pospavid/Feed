@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 05 Mar 2026 08:27:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 12:34:26 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Podpora bikesharingu 2026: nový ročník startuje v březnu</title>
-      <link>https://cosedeje.brno.cz//w/podpora-bikesharingu-2026-novy-rocnik-startuje-v-breznu</link>
-      <description>Podpora bikesharingu 2026: nový ročník startuje v březnu</description>
     </item>
     <item>
       <title>T-ARENA má vybraného dodavatele gastronomických služeb. Stává se jím společnost ARAMARK</title>
@@ -168,6 +163,11 @@
       <title>Změny v organizaci dopravy v centru: omezí se vjezdová oprávnění, přibydou výsuvné sloupky a úpravy se časem dočkají i parkovací místa</title>
       <link>https://cosedeje.brno.cz//w/zmeny-v-organizaci-dopravy-v-centru-omezi-se-vjezdova-opravneni-pribydou-vysuvne-sloupky-a-upravy-se-casem-dockaji-i-parkovaci-mista</link>
       <description>Změny v organizaci dopravy v centru: omezí se vjezdová oprávnění, přibydou výsuvné sloupky a úpravy se časem dočkají i parkovací místa</description>
+    </item>
+    <item>
+      <title>Brno získá 11 soutěžních návrhů nového magistrátu, zapojí se architektonické týmy z 8 různých států. O vítězné podobě bude jasno už letos v létě</title>
+      <link>https://cosedeje.brno.cz//w/brno-ziska-11-souteznich-navrhu-noveho-magistratu-zapoji-se-architektonicke-tymy-z-8-ruznych-statu-o-vitezne-podobe-bude-jasno-uz-letos-v-lete</link>
+      <description>Brno získá 11 soutěžních návrhů nového magistrátu, zapojí se architektonické týmy z 8 různých států. O vítězné podobě bude jasno už letos v létě</description>
     </item>
     <item>
       <title>

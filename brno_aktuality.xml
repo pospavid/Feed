@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 09 Mar 2026 12:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:44:46 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování: regulace v zóně A bude nově v režimu 24/7, v zóně B celodenně v pracovní dny a v neděli od 17 do 24 hodin. Upravuje se i harmonogram nových oblastí</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-regulace-v-zone-a-bude-nove-v-rezimu-24-7-v-zone-b-celodenne-v-pracovni-dny-a-v-nedeli-od-17-do-24-hodin-upravuje-se-i-harmonogram-novych-oblasti</link>
-      <description>Rezidentní parkování: regulace v zóně A bude nově v režimu 24/7, v zóně B celodenně v pracovní dny a v neděli od 17 do 24 hodin. Upravuje se i harmonogram nových oblastí</description>
     </item>
     <item>
       <title>Academy Park má nový ceník a nabízí nová parkovací oprávnění</title>
@@ -168,6 +163,11 @@
       <title>Oslavte Světový den vody ve vodojemech na Žlutém kopci</title>
       <link>https://cosedeje.brno.cz//w/oslavte-svetovy-den-vody-ve-vodojemech-na-zlutem-kopci</link>
       <description>Oslavte Světový den vody ve vodojemech na Žlutém kopci</description>
+    </item>
+    <item>
+      <title>Stavební sezona začala – pracuje se na D1, omezení čeká například Vídeňskou nebo Zvonařku</title>
+      <link>https://cosedeje.brno.cz//w/stavebni-sezona-zacala-pracuje-se-na-d1-omezeni-ceka-napriklad-videnskou-nebo-zvonarku</link>
+      <description>Stavební sezona začala – pracuje se na D1, omezení čeká například Vídeňskou nebo Zvonařku</description>
     </item>
     <item>
       <title>

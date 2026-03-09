@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 09 Mar 2026 08:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 12:34:29 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Z centra na nové nádraží bulvárem. Stavba jeho severní části začíná</title>
-      <link>https://cosedeje.brno.cz//w/z-centra-na-nove-nadrazi-bulvarem-stavba-jeho-severni-casti-zacina</link>
-      <description>Z centra na nové nádraží bulvárem. Stavba jeho severní části začíná</description>
     </item>
     <item>
       <title>Rezidentní parkování: regulace v zóně A bude nově v režimu 24/7, v zóně B celodenně v pracovní dny a v neděli od 17 do 24 hodin. Upravuje se i harmonogram nových oblastí</title>
@@ -168,6 +163,11 @@
       <title>Kamenný vrch jako rozvojová lokalita: město vykupuje pozemky pro další možnou výstavbu</title>
       <link>https://cosedeje.brno.cz//w/kamenny-vrch-jako-rozvojova-lokalita-mesto-vykupuje-pozemky-pro-dalsi-moznou-vystavbu</link>
       <description>Kamenný vrch jako rozvojová lokalita: město vykupuje pozemky pro další možnou výstavbu</description>
+    </item>
+    <item>
+      <title>Oslavte Světový den vody ve vodojemech na Žlutém kopci</title>
+      <link>https://cosedeje.brno.cz//w/oslavte-svetovy-den-vody-ve-vodojemech-na-zlutem-kopci</link>
+      <description>Oslavte Světový den vody ve vodojemech na Žlutém kopci</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 10 Mar 2026 08:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 12:34:10 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Academy Park má nový ceník a nabízí nová parkovací oprávnění</title>
-      <link>https://cosedeje.brno.cz//w/academy-park-ma-novy-cenik-a-nabizi-nova-parkovaci-opravneni</link>
-      <description>Academy Park má nový ceník a nabízí nová parkovací oprávnění</description>
     </item>
     <item>
       <title>Nevyhovující křižovatka v Králově Poli se dočká přestavby</title>
@@ -168,6 +163,11 @@
       <title>Stavební sezona začala – pracuje se na D1, omezení čeká například Vídeňskou nebo Zvonařku</title>
       <link>https://cosedeje.brno.cz//w/stavebni-sezona-zacala-pracuje-se-na-d1-omezeni-ceka-napriklad-videnskou-nebo-zvonarku</link>
       <description>Stavební sezona začala – pracuje se na D1, omezení čeká například Vídeňskou nebo Zvonařku</description>
+    </item>
+    <item>
+      <title>Zařízení zrušeného domova pro seniory pomůže v Užhorodu</title>
+      <link>https://cosedeje.brno.cz//w/zarizeni-zruseneho-domova-pro-seniory-pomuze-v-uzhorodu</link>
+      <description>Zařízení zrušeného domova pro seniory pomůže v Užhorodu</description>
     </item>
     <item>
       <title>

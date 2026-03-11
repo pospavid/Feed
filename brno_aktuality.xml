@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 11 Mar 2026 08:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:33:36 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nevyhovující křižovatka v Králově Poli se dočká přestavby</title>
-      <link>https://cosedeje.brno.cz//w/nevyhovujici-krizovatka-v-kralove-poli-se-docka-prestavby</link>
-      <description>Nevyhovující křižovatka v Králově Poli se dočká přestavby</description>
-    </item>
-    <item>
-      <title>Vyrazte o víkendu za chutěmi, kulturou i přírodou</title>
-      <link>https://cosedeje.brno.cz//w/vyrazte-o-vikendu-za-chutemi-kulturou-i-prirodou</link>
-      <description>Vyrazte o víkendu za chutěmi, kulturou i přírodou</description>
     </item>
     <item>
       <title>Město zveřejní záměr prodeje pozemků za Lužánkami pro stavbu fotbalového stadionu</title>
@@ -168,6 +158,16 @@
       <title>Zařízení zrušeného domova pro seniory pomůže v Užhorodu</title>
       <link>https://cosedeje.brno.cz//w/zarizeni-zruseneho-domova-pro-seniory-pomuze-v-uzhorodu</link>
       <description>Zařízení zrušeného domova pro seniory pomůže v Užhorodu</description>
+    </item>
+    <item>
+      <title>Nadaní doktorandi a doktorandky převzali ocenění Brno Ph.D. Talent</title>
+      <link>https://cosedeje.brno.cz//w/nadani-doktorandi-a-doktorandky-prevzali-oceneni-brno-ph-d-talent</link>
+      <description>Nadaní doktorandi a doktorandky převzali ocenění Brno Ph.D. Talent</description>
+    </item>
+    <item>
+      <title>Na Husově 3 a 5 bude 17. března zavřeno kvůli odstávce elektřiny</title>
+      <link>https://cosedeje.brno.cz//w/na-husove-3-a-5-bude-17-brezna-zavreno-kvuli-odstavce-elektriny</link>
+      <description>Na Husově 3 a 5 bude 17. března zavřeno kvůli odstávce elektřiny</description>
     </item>
     <item>
       <title>

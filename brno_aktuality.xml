@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 11 Mar 2026 12:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 16:38:07 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Město zveřejní záměr prodeje pozemků za Lužánkami pro stavbu fotbalového stadionu</title>
-      <link>https://cosedeje.brno.cz//w/mesto-zverejni-zamer-prodeje-pozemku-za-luzankami-pro-stavbu-fotbaloveho-stadionu</link>
-      <description>Město zveřejní záměr prodeje pozemků za Lužánkami pro stavbu fotbalového stadionu</description>
-    </item>
-    <item>
-      <title>Šestice projektů Dopravního podniku města Brna by měla dostat zelenou díky dotacím od města</title>
-      <link>https://cosedeje.brno.cz//w/sestice-projektu-dopravniho-podniku-mesta-brna-by-mela-dostat-zelenou-diky-dotacim-od-mesta</link>
-      <description>Šestice projektů Dopravního podniku města Brna by měla dostat zelenou díky dotacím od města</description>
     </item>
     <item>
       <title>Heineken se stává dodavatelem piva pro T-ARENU</title>
@@ -168,6 +158,16 @@
       <title>Na Husově 3 a 5 bude 17. března zavřeno kvůli odstávce elektřiny</title>
       <link>https://cosedeje.brno.cz//w/na-husove-3-a-5-bude-17-brezna-zavreno-kvuli-odstavce-elektriny</link>
       <description>Na Husově 3 a 5 bude 17. března zavřeno kvůli odstávce elektřiny</description>
+    </item>
+    <item>
+      <title>Stezka pro cyklisty a pěší při ulici Bauerova se začne stavět v průběhu letošního roku</title>
+      <link>https://cosedeje.brno.cz//w/stezka-pro-cyklisty-a-pesi-pri-ulici-bauerova-se-zacne-stavet-v-prubehu-letosniho-roku</link>
+      <description>Stezka pro cyklisty a pěší při ulici Bauerova se začne stavět v průběhu letošního roku</description>
+    </item>
+    <item>
+      <title>Stadion na Srbské získá lepší ozvučení, výše pronájmů pro kluby se nemění</title>
+      <link>https://cosedeje.brno.cz//w/stadion-na-srbske-ziska-lepsi-ozvuceni-vyse-pronajmu-pro-kluby-se-nemeni</link>
+      <description>Stadion na Srbské získá lepší ozvučení, výše pronájmů pro kluby se nemění</description>
     </item>
     <item>
       <title>

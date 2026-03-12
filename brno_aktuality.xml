@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 12 Mar 2026 12:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 16:47:10 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Zastupitelé zvedli ruku pro dotace na pořádání MotoGP nebo na nonstop provoz pohotovostní lékárny. Schválena byla i vyhláška o nočním klidu či využití peněz z Fondu mobility</title>
-      <link>https://cosedeje.brno.cz//w/zastupitele-zvedli-ruku-pro-dotace-na-poradani-motogp-nebo-na-nonstop-provoz-pohotovostni-lekarny-schvalena-byla-i-vyhlaska-o-nocnim-klidu-ci-vyuziti-penez-z-fondu-mobility</link>
-      <description>Zastupitelé zvedli ruku pro dotace na pořádání MotoGP nebo na nonstop provoz pohotovostní lékárny. Schválena byla i vyhláška o nočním klidu či využití peněz z Fondu mobility</description>
     </item>
     <item>
       <title>Připravuje se dostavba fotbalového centra i rekonstrukce koupaliště v Zábrdovicích</title>
@@ -168,6 +163,11 @@
       <title>Děti odvypráví další příběhy svých sousedů</title>
       <link>https://cosedeje.brno.cz//w/deti-odvypravi-dalsi-pribehy-svych-sousedu</link>
       <description>Děti odvypráví další příběhy svých sousedů</description>
+    </item>
+    <item>
+      <title>V Brně začíná modernizace vozovny Slatina. DPMB zahájil stavbu nového parkovacího objektu se zázemím</title>
+      <link>https://cosedeje.brno.cz//w/v-brne-zacina-modernizace-vozovny-slatina-dpmb-zahajil-stavbu-noveho-parkovaciho-objektu-se-zazemim</link>
+      <description>V Brně začíná modernizace vozovny Slatina. DPMB zahájil stavbu nového parkovacího objektu se zázemím</description>
     </item>
     <item>
       <title>

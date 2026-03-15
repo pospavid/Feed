@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 14 Mar 2026 16:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 08:24:26 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Dopravní stavby v roce 2026: pokračují práce na D1, rekonstruují se vodovody a kanalizace, staví se nový bulvár</title>
-      <link>https://cosedeje.brno.cz//w/dopravni-stavby-v-roce-2026-pokracuji-prace-na-d1-rekonstruuji-se-vodovody-a-kanalizace-stavi-se-novy-bulvar</link>
-      <description>Dopravní stavby v roce 2026: pokračují práce na D1, rekonstruují se vodovody a kanalizace, staví se nový bulvár</description>
     </item>
     <item>
       <title>Změny v organizaci dopravy v centru: omezí se vjezdová oprávnění, přibydou výsuvné sloupky a úpravy se časem dočkají i parkovací místa</title>
@@ -168,6 +163,11 @@
       <title>Víkend ve znamení výstav, jídla i hokeje. Co si vyberete vy?</title>
       <link>https://cosedeje.brno.cz//w/vikend-ve-znameni-vystav-jidla-i-hokeje-co-si-vyberete-vy-</link>
       <description>Víkend ve znamení výstav, jídla i hokeje. Co si vyberete vy?</description>
+    </item>
+    <item>
+      <title>Na pár dní theatrem mundi. Brno se promění v Divadelní svět už posedmnácté</title>
+      <link>https://cosedeje.brno.cz//w/na-par-dni-theatrem-mundi-brno-se-promeni-v-divadelni-svet-uz-posedmnacte</link>
+      <description>Na pár dní theatrem mundi. Brno se promění v Divadelní svět už posedmnácté</description>
     </item>
     <item>
       <title>

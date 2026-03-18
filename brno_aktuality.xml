@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 18 Mar 2026 12:42:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 16:48:05 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,31 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno získá 11 soutěžních návrhů nového magistrátu, zapojí se architektonické týmy z 8 různých států. O vítězné podobě bude jasno už letos v létě</title>
-      <link>https://cosedeje.brno.cz//w/brno-ziska-11-souteznich-navrhu-noveho-magistratu-zapoji-se-architektonicke-tymy-z-8-ruznych-statu-o-vitezne-podobe-bude-jasno-uz-letos-v-lete</link>
-      <description>Brno získá 11 soutěžních návrhů nového magistrátu, zapojí se architektonické týmy z 8 různých států. O vítězné podobě bude jasno už letos v létě</description>
-    </item>
-    <item>
-      <title>T-ARENA posiluje tým. Eventový úsek povede Štěpánka Redlichová</title>
-      <link>https://cosedeje.brno.cz//w/t-arena-posiluje-tym-eventovy-usek-povede-stepanka-redlichova</link>
-      <description>T-ARENA posiluje tým. Eventový úsek povede Štěpánka Redlichová</description>
-    </item>
-    <item>
-      <title>Co chystá víkend: veletrh motorek, oslavy MDŽ i posezení u táboráku</title>
-      <link>https://cosedeje.brno.cz//w/co-chysta-vikend-veletrh-motorek-oslavy-mdz-i-posezeni-u-taboraku</link>
-      <description>Co chystá víkend: veletrh motorek, oslavy MDŽ i posezení u táboráku</description>
-    </item>
-    <item>
-      <title>Kamenný vrch jako rozvojová lokalita: město vykupuje pozemky pro další možnou výstavbu</title>
-      <link>https://cosedeje.brno.cz//w/kamenny-vrch-jako-rozvojova-lokalita-mesto-vykupuje-pozemky-pro-dalsi-moznou-vystavbu</link>
-      <description>Kamenný vrch jako rozvojová lokalita: město vykupuje pozemky pro další možnou výstavbu</description>
-    </item>
-    <item>
-      <title>Oslavte Světový den vody ve vodojemech na Žlutém kopci</title>
-      <link>https://cosedeje.brno.cz//w/oslavte-svetovy-den-vody-ve-vodojemech-na-zlutem-kopci</link>
-      <description>Oslavte Světový den vody ve vodojemech na Žlutém kopci</description>
     </item>
     <item>
       <title>Stavební sezona začala – pracuje se na D1, omezení čeká například Vídeňskou nebo Zvonařku</title>
@@ -165,9 +140,34 @@
       <description>Na pár dní theatrem mundi. Brno se promění v Divadelní svět už posedmnácté</description>
     </item>
     <item>
+      <title>Prošli si ústavní péčí. Mladým dospělým má teď k samostatnému životu pomoci spolupráce města a spolku EkoInkubátor</title>
+      <link>https://cosedeje.brno.cz//w/prosli-si-ustavni-peci-mladym-dospelym-ma-ted-k-samostatnemu-zivotu-pomoci-spoluprace-mesta-a-spolku-ekoinkubator</link>
+      <description>Prošli si ústavní péčí. Mladým dospělým má teď k samostatnému životu pomoci spolupráce města a spolku EkoInkubátor</description>
+    </item>
+    <item>
+      <title>Rezidentní parkování začne letos platit v 7 oblastech. Nejdříve přijdou na řadu dvě v Maloměřicích a Obřanech</title>
+      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-zacne-letos-platit-v-7-oblastech-nejdrive-prijdou-na-radu-dve-v-malomericich-a-obranech</link>
+      <description>Rezidentní parkování začne letos platit v 7 oblastech. Nejdříve přijdou na řadu dvě v Maloměřicích a Obřanech</description>
+    </item>
+    <item>
       <title>Poliklinika Zahradníkova bude v pátek bez proudu</title>
       <link>https://cosedeje.brno.cz//w/poliklinika-zahradnikova-bude-v-patek-bez-proudu</link>
       <description>Poliklinika Zahradníkova bude v pátek bez proudu</description>
+    </item>
+    <item>
+      <title>Torzo domu ze 13. století chce město zachránit. Plánuje jeho umístění do budoucího vnitrobloku Janáčkova kulturního centra</title>
+      <link>https://cosedeje.brno.cz//w/torzo-domu-ze-13-stoleti-chce-mesto-zachranit-planuje-jeho-umisteni-do-budouciho-vnitrobloku-janackova-kulturniho-centra</link>
+      <description>Torzo domu ze 13. století chce město zachránit. Plánuje jeho umístění do budoucího vnitrobloku Janáčkova kulturního centra</description>
+    </item>
+    <item>
+      <title>Poprvé se předával Štít primátorky pro vítěze fotbalového derby, získala ho Zbrojovka</title>
+      <link>https://cosedeje.brno.cz//w/poprve-se-predaval-stit-primatorky-pro-viteze-fotbaloveho-derby-ziskala-ho-zbrojovka</link>
+      <description>Poprvé se předával Štít primátorky pro vítěze fotbalového derby, získala ho Zbrojovka</description>
+    </item>
+    <item>
+      <title>Zpěvačka Věra Strbačková se představí v rámci Dní umění nevidomých</title>
+      <link>https://cosedeje.brno.cz//w/zpevacka-vera-strbackova-se-predstavi-v-ramci-dni-umeni-nevidomych</link>
+      <description>Zpěvačka Věra Strbačková se představí v rámci Dní umění nevidomých</description>
     </item>
     <item>
       <title>

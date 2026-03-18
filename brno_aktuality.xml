@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 18 Mar 2026 08:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 12:42:29 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Změny v organizaci dopravy v centru: omezí se vjezdová oprávnění, přibydou výsuvné sloupky a úpravy se časem dočkají i parkovací místa</title>
-      <link>https://cosedeje.brno.cz//w/zmeny-v-organizaci-dopravy-v-centru-omezi-se-vjezdova-opravneni-pribydou-vysuvne-sloupky-a-upravy-se-casem-dockaji-i-parkovaci-mista</link>
-      <description>Změny v organizaci dopravy v centru: omezí se vjezdová oprávnění, přibydou výsuvné sloupky a úpravy se časem dočkají i parkovací místa</description>
     </item>
     <item>
       <title>Brno získá 11 soutěžních návrhů nového magistrátu, zapojí se architektonické týmy z 8 různých států. O vítězné podobě bude jasno už letos v létě</title>
@@ -168,6 +163,11 @@
       <title>Na pár dní theatrem mundi. Brno se promění v Divadelní svět už posedmnácté</title>
       <link>https://cosedeje.brno.cz//w/na-par-dni-theatrem-mundi-brno-se-promeni-v-divadelni-svet-uz-posedmnacte</link>
       <description>Na pár dní theatrem mundi. Brno se promění v Divadelní svět už posedmnácté</description>
+    </item>
+    <item>
+      <title>Poliklinika Zahradníkova bude v pátek bez proudu</title>
+      <link>https://cosedeje.brno.cz//w/poliklinika-zahradnikova-bude-v-patek-bez-proudu</link>
+      <description>Poliklinika Zahradníkova bude v pátek bez proudu</description>
     </item>
     <item>
       <title>

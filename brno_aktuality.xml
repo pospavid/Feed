@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 19 Mar 2026 16:44:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 08:28:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nadaní doktorandi a doktorandky převzali ocenění Brno Ph.D. Talent</title>
-      <link>https://cosedeje.brno.cz//w/nadani-doktorandi-a-doktorandky-prevzali-oceneni-brno-ph-d-talent</link>
-      <description>Nadaní doktorandi a doktorandky převzali ocenění Brno Ph.D. Talent</description>
     </item>
     <item>
       <title>Na Husově 3 a 5 bude 17. března zavřeno kvůli odstávce elektřiny</title>
@@ -168,6 +163,11 @@
       <title>Zoo Brno zahájila stavbu expozice jelena milu</title>
       <link>https://cosedeje.brno.cz//w/zoo-brno-zahajila-stavbu-expozice-jelena-milu</link>
       <description>Zoo Brno zahájila stavbu expozice jelena milu</description>
+    </item>
+    <item>
+      <title>Oslavte Světový den vody, přivítejte jaro v zoo nebo ukliďte Židenice. Víkend bude ale patřit také filmu nebo akvabelám</title>
+      <link>https://cosedeje.brno.cz//w/oslavte-svetovy-den-vody-privitejte-jaro-v-zoo-nebo-uklidte-zidenice-vikend-bude-ale-patrit-take-filmu-nebo-akvabelam</link>
+      <description>Oslavte Světový den vody, přivítejte jaro v zoo nebo ukliďte Židenice. Víkend bude ale patřit také filmu nebo akvabelám</description>
     </item>
     <item>
       <title>

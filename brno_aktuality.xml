@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Mar 2026 08:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 12:46:36 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování začne letos platit v 7 oblastech. Nejdříve přijdou na řadu dvě v Maloměřicích a Obřanech</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-zacne-letos-platit-v-7-oblastech-nejdrive-prijdou-na-radu-dve-v-malomericich-a-obranech</link>
-      <description>Rezidentní parkování začne letos platit v 7 oblastech. Nejdříve přijdou na řadu dvě v Maloměřicích a Obřanech</description>
     </item>
     <item>
       <title>Poliklinika Zahradníkova bude v pátek bez proudu</title>
@@ -168,6 +163,11 @@
       <title>Projektanti zpracují rekonstrukci Benešovy. Celá oblast změní svůj ráz</title>
       <link>https://cosedeje.brno.cz//w/projektanti-zpracuji-rekonstrukci-benesovy-cela-oblast-zmeni-svuj-raz</link>
       <description>Projektanti zpracují rekonstrukci Benešovy. Celá oblast změní svůj ráz</description>
+    </item>
+    <item>
+      <title>Poznejte historii Ústředního hřbitova na komentované procházce</title>
+      <link>https://cosedeje.brno.cz//w/poznejte-historii-ustredniho-hrbitova-na-komentovane-prochazce</link>
+      <description>Poznejte historii Ústředního hřbitova na komentované procházce</description>
     </item>
     <item>
       <title>

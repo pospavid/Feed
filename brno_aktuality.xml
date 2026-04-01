@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:52:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 12:52:05 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,31 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Torzo domu ze 13. století chce město zachránit. Plánuje jeho umístění do budoucího vnitrobloku Janáčkova kulturního centra</title>
-      <link>https://cosedeje.brno.cz//w/torzo-domu-ze-13-stoleti-chce-mesto-zachranit-planuje-jeho-umisteni-do-budouciho-vnitrobloku-janackova-kulturniho-centra-1</link>
-      <description>Torzo domu ze 13. století chce město zachránit. Plánuje jeho umístění do budoucího vnitrobloku Janáčkova kulturního centra</description>
-    </item>
-    <item>
-      <title>Zoo Brno zahájila stavbu expozice jelena milu</title>
-      <link>https://cosedeje.brno.cz//w/zoo-brno-zahajila-stavbu-expozice-jelena-milu</link>
-      <description>Zoo Brno zahájila stavbu expozice jelena milu</description>
-    </item>
-    <item>
-      <title>Oslavte Světový den vody, přivítejte jaro v zoo nebo ukliďte Židenice. Víkend bude ale patřit také filmu nebo akvabelám</title>
-      <link>https://cosedeje.brno.cz//w/oslavte-svetovy-den-vody-privitejte-jaro-v-zoo-nebo-uklidte-zidenice-vikend-bude-ale-patrit-take-filmu-nebo-akvabelam</link>
-      <description>Oslavte Světový den vody, přivítejte jaro v zoo nebo ukliďte Židenice. Víkend bude ale patřit také filmu nebo akvabelám</description>
-    </item>
-    <item>
-      <title>Tříletý evropský projekt vyvrcholil mezinárodní konferencí a memorandem o další spolupráci</title>
-      <link>https://cosedeje.brno.cz//w/trilety-evropsky-projekt-vyvrcholil-mezinarodni-konferenci-a-memorandem-o-dalsi-spolupraci</link>
-      <description>Tříletý evropský projekt vyvrcholil mezinárodní konferencí a memorandem o další spolupráci</description>
-    </item>
-    <item>
-      <title>Britské odpoledne na Nové radnici připomene návštěvu Alžběty II. v Brně</title>
-      <link>https://cosedeje.brno.cz//w/britske-odpoledne-na-nove-radnici-pripomene-navstevu-alzbety-ii-v-brne</link>
-      <description>Britské odpoledne na Nové radnici připomene návštěvu Alžběty II. v Brně</description>
     </item>
     <item>
       <title>Brněnský metropolitan č. 4/2026</title>
@@ -168,6 +143,31 @@
       <title>Řídicí výbor BMO podpořil projekty za téměř 300 milionů korun, nejvíce v oblasti životního prostředí</title>
       <link>https://cosedeje.brno.cz//w/ridici-vybor-bmo-podporil-projekty-za-temer-300-milionu-korun-nejvice-v-oblasti-zivotniho-prostredi</link>
       <description>Řídicí výbor BMO podpořil projekty za téměř 300 milionů korun, nejvíce v oblasti životního prostředí</description>
+    </item>
+    <item>
+      <title>Více dostupného bydlení v Brně: Podobu obecních domů určí architektonická soutěž</title>
+      <link>https://cosedeje.brno.cz//w/vice-dostupneho-bydleni-v-brne-podobu-obecnich-domu-urci-architektonicka-soutez</link>
+      <description>Více dostupného bydlení v Brně: Podobu obecních domů určí architektonická soutěž</description>
+    </item>
+    <item>
+      <title>Handicapovaná mládež, děti, žactvo, veřejnost i senioři. Dotační podpora na sport míří všemi směry</title>
+      <link>https://cosedeje.brno.cz//w/handicapovana-mladez-deti-zactvo-verejnost-i-seniori-dotacni-podpora-na-sport-miri-vsemi-smery</link>
+      <description>Handicapovaná mládež, děti, žactvo, veřejnost i senioři. Dotační podpora na sport míří všemi směry</description>
+    </item>
+    <item>
+      <title>Základní školy se nemusí bát – vyšší náklady za pronájem bazénů uhradí až příští rok</title>
+      <link>https://cosedeje.brno.cz//w/zakladni-skoly-se-nemusi-bat-vyssi-naklady-za-pronajem-bazenu-uhradi-az-pristi-rok</link>
+      <description>Základní školy se nemusí bát – vyšší náklady za pronájem bazénů uhradí až příští rok</description>
+    </item>
+    <item>
+      <title>Hybešova a Francouzská. Město chystá dva bytové projekty, aktuálně pro ně hledá projektanta</title>
+      <link>https://cosedeje.brno.cz//w/hybesova-a-francouzska-mesto-chysta-dva-bytove-projekty-aktualne-pro-ne-hleda-projektanta</link>
+      <description>Hybešova a Francouzská. Město chystá dva bytové projekty, aktuálně pro ně hledá projektanta</description>
+    </item>
+    <item>
+      <title>Masarykova univerzita je o 13 443 m2 blíže k výstavbě nových kolejí. S městem Brnem podepsala směnnou smlouvu k pozemkům</title>
+      <link>https://cosedeje.brno.cz//w/masarykova-univerzita-je-o-13-443-m2-blize-k-vystavbe-novych-koleji-s-mestem-brnem-podepsala-smennou-smlouvu-k-pozemkum</link>
+      <description>Masarykova univerzita je o 13 443 m2 blíže k výstavbě nových kolejí. S městem Brnem podepsala směnnou smlouvu k pozemkům</description>
     </item>
     <item>
       <title>

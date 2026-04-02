@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 12:44:28 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno plánuje nové investice do dopravy: cyklostezku k přehradě, úpravy křižovatek i nová parkovací místa</title>
-      <link>https://cosedeje.brno.cz//w/brno-planuje-nove-investice-do-dopravy-cyklostezku-k-prehrade-upravy-krizovatek-i-nova-parkovaci-mista</link>
-      <description>Brno plánuje nové investice do dopravy: cyklostezku k přehradě, úpravy křižovatek i nová parkovací místa</description>
     </item>
     <item>
       <title>Nové přechody nebo kruhový objezd. Stavební úpravy na Jemelkově a Klobásově zlepší dopravní situaci</title>
@@ -168,6 +163,11 @@
       <title>Nové sedačky i řada dalších úprav. Srbská se chystá na první ligu</title>
       <link>https://cosedeje.brno.cz//w/nove-sedacky-i-rada-dalsich-uprav-srbska-se-chysta-na-prvni-ligu</link>
       <description>Nové sedačky i řada dalších úprav. Srbská se chystá na první ligu</description>
+    </item>
+    <item>
+      <title>T ARENA představuje svého maskota. O jeho jménu rozhodne veřejnost</title>
+      <link>https://cosedeje.brno.cz//w/t-arena-predstavuje-sveho-maskota-o-jeho-jmenu-rozhodne-verejnost</link>
+      <description>T ARENA představuje svého maskota. O jeho jménu rozhodne veřejnost</description>
     </item>
     <item>
       <title>

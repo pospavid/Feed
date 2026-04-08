@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 12:53:54 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Vídeňská v budoucnu dostane větší kruhový objezd</title>
-      <link>https://cosedeje.brno.cz//w/videnska-v-budoucnu-dostane-vetsi-kruhovy-objezd</link>
-      <description>Vídeňská v budoucnu dostane větší kruhový objezd</description>
-    </item>
-    <item>
-      <title>Přípravy Srbské na první ligu běží podle plánu: byl vybrán dodavatel turniketů</title>
-      <link>https://cosedeje.brno.cz//w/pripravy-srbske-na-prvni-ligu-bezi-podle-planu-byl-vybran-dodavatel-turniketu</link>
-      <description>Přípravy Srbské na první ligu běží podle plánu: byl vybrán dodavatel turniketů</description>
     </item>
     <item>
       <title>Projektanti zpracují rekonstrukci Benešovy. Celá oblast změní svůj ráz</title>
@@ -168,6 +158,16 @@
       <title>Repair Café v Brně ukáže, že i rozbité věci mají druhou šanci</title>
       <link>https://cosedeje.brno.cz//w/repair-cafe-v-brne-ukaze-ze-i-rozbite-veci-maji-druhou-sanci</link>
       <description>Repair Café v Brně ukáže, že i rozbité věci mají druhou šanci</description>
+    </item>
+    <item>
+      <title>Dejte věcem druhou šanci v Repair Café</title>
+      <link>https://cosedeje.brno.cz//w/dejte-vecem-druhou-sanci-v-repair-cafe</link>
+      <description>Dejte věcem druhou šanci v Repair Café</description>
+    </item>
+    <item>
+      <title>O pět startovacích bytů se mladé páry hlásí do 8. 5.</title>
+      <link>https://cosedeje.brno.cz//w/o-pet-startovacich-bytu-se-mlade-pary-hlasi-do-8-5</link>
+      <description>O pět startovacích bytů se mladé páry hlásí do 8. 5.</description>
     </item>
     <item>
       <title>

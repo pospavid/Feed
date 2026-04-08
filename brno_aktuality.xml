@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 08 Apr 2026 12:53:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 16:50:13 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Projektanti zpracují rekonstrukci Benešovy. Celá oblast změní svůj ráz</title>
-      <link>https://cosedeje.brno.cz//w/projektanti-zpracuji-rekonstrukci-benesovy-cela-oblast-zmeni-svuj-raz</link>
-      <description>Projektanti zpracují rekonstrukci Benešovy. Celá oblast změní svůj ráz</description>
-    </item>
-    <item>
-      <title>Poznejte historii Ústředního hřbitova na komentované procházce</title>
-      <link>https://cosedeje.brno.cz//w/poznejte-historii-ustredniho-hrbitova-na-komentovane-prochazce</link>
-      <description>Poznejte historii Ústředního hřbitova na komentované procházce</description>
-    </item>
-    <item>
-      <title>Víkend se vším všudy: zažijte britské odpoledne, Noc divadel i Dny elektronové mikroskopie</title>
-      <link>https://cosedeje.brno.cz//w/vikend-se-vsim-vsudy-zazijte-britske-odpoledne-noc-divadel-i-dny-elektronove-mikroskopie</link>
-      <description>Víkend se vším všudy: zažijte britské odpoledne, Noc divadel i Dny elektronové mikroskopie</description>
     </item>
     <item>
       <title>Flexibilita, barevnost a futuristický nádech. Infocentrum TIC BRNO vyhrálo v soutěži CZECH INTERIOR AWARD</title>
@@ -165,9 +150,24 @@
       <description>Dejte věcem druhou šanci v Repair Café</description>
     </item>
     <item>
+      <title>Brno schválilo strategii rozvoje tramvajové sítě: Do roku 2035 přibude přes devět kilometrů nových tratí</title>
+      <link>https://cosedeje.brno.cz//w/brno-schvalilo-strategii-rozvoje-tramvajove-site-do-roku-2035-pribude-pres-devet-kilometru-novych-trati</link>
+      <description>Brno schválilo strategii rozvoje tramvajové sítě: Do roku 2035 přibude přes devět kilometrů nových tratí</description>
+    </item>
+    <item>
+      <title>Brno investuje do moderní dopravy. Rekordních 15 miliard korun míří do vozů i kolejí</title>
+      <link>https://cosedeje.brno.cz//w/brno-investuje-do-moderni-dopravy-rekordnich-15-miliard-korun-miri-do-vozu-i-koleji</link>
+      <description>Brno investuje do moderní dopravy. Rekordních 15 miliard korun míří do vozů i kolejí</description>
+    </item>
+    <item>
       <title>O pět startovacích bytů se mladé páry hlásí do 8. 5.</title>
       <link>https://cosedeje.brno.cz//w/o-pet-startovacich-bytu-se-mlade-pary-hlasi-do-8-5</link>
       <description>O pět startovacích bytů se mladé páry hlásí do 8. 5.</description>
+    </item>
+    <item>
+      <title>Parkování na Zelném trhu dozná změn: méně vyhrazených míst, více prostoru pro rezidenty</title>
+      <link>https://cosedeje.brno.cz//w/parkovani-na-zelnem-trhu-dozna-zmen-mene-vyhrazenych-mist-vice-prostoru-pro-rezidenty</link>
+      <description>Parkování na Zelném trhu dozná změn: méně vyhrazených míst, více prostoru pro rezidenty</description>
     </item>
     <item>
       <title>

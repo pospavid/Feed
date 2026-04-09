@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 09 Apr 2026 08:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 12:56:09 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Flexibilita, barevnost a futuristický nádech. Infocentrum TIC BRNO vyhrálo v soutěži CZECH INTERIOR AWARD</title>
-      <link>https://cosedeje.brno.cz//w/flexibilita-barevnost-a-futuristicky-nadech-infocentrum-tic-brno-vyhralo-v-soutezi-czech-interior-award</link>
-      <description>Flexibilita, barevnost a futuristický nádech. Infocentrum TIC BRNO vyhrálo v soutěži CZECH INTERIOR AWARD</description>
     </item>
     <item>
       <title>Otevírání turistické sezóny v Brně a na jižní Moravě: v hlavní roli gastronomie, festivaly a odkaz slavných osobností</title>
@@ -168,6 +163,11 @@
       <title>Parkování na Zelném trhu dozná změn: méně vyhrazených míst, více prostoru pro rezidenty</title>
       <link>https://cosedeje.brno.cz//w/parkovani-na-zelnem-trhu-dozna-zmen-mene-vyhrazenych-mist-vice-prostoru-pro-rezidenty</link>
       <description>Parkování na Zelném trhu dozná změn: méně vyhrazených míst, více prostoru pro rezidenty</description>
+    </item>
+    <item>
+      <title>V zóně B bude regulace parkování i v neděli od 17 do 24 hodin</title>
+      <link>https://cosedeje.brno.cz//w/zmena-regulace-v-zone-b-se-bude-zavadet-postupne-a-to-s-vymenou-znacek</link>
+      <description>V zóně B bude regulace parkování i v neděli od 17 do 24 hodin</description>
     </item>
     <item>
       <title>

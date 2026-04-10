@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 10 Apr 2026 08:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:42:30 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Více dostupného bydlení v Brně: Podobu obecních domů určí architektonická soutěž</title>
-      <link>https://cosedeje.brno.cz//w/vice-dostupneho-bydleni-v-brne-podobu-obecnich-domu-urci-architektonicka-soutez</link>
-      <description>Více dostupného bydlení v Brně: Podobu obecních domů určí architektonická soutěž</description>
-    </item>
-    <item>
-      <title>Handicapovaná mládež, děti, žactvo, veřejnost i senioři. Dotační podpora na sport míří všemi směry</title>
-      <link>https://cosedeje.brno.cz//w/handicapovana-mladez-deti-zactvo-verejnost-i-seniori-dotacni-podpora-na-sport-miri-vsemi-smery</link>
-      <description>Handicapovaná mládež, děti, žactvo, veřejnost i senioři. Dotační podpora na sport míří všemi směry</description>
     </item>
     <item>
       <title>Základní školy se nemusí bát – vyšší náklady za pronájem bazénů uhradí až příští rok</title>
@@ -168,6 +158,16 @@
       <title>Zastupitelé budou jednat 14. dubna, prostor pro občany bude i v Rytířském sále</title>
       <link>https://cosedeje.brno.cz//w/zastupitele-budou-jednat-14-dubna-prostor-pro-obcany-bude-i-v-rytirskem-sale</link>
       <description>Zastupitelé budou jednat 14. dubna, prostor pro občany bude i v Rytířském sále</description>
+    </item>
+    <item>
+      <title>Víkend plný zážitků: těšte se na spoustu akcí pro celou rodinu</title>
+      <link>https://cosedeje.brno.cz//w/vikend-plny-zazitku-teste-se-na-spoustu-akci-pro-celou-rodinu</link>
+      <description>Víkend plný zážitků: těšte se na spoustu akcí pro celou rodinu</description>
+    </item>
+    <item>
+      <title>Zlatá makovice je zpět na Měnínské bráně. Muzeum města Brna dnes osadilo makovici s časovou schránkou pro příští generace</title>
+      <link>https://cosedeje.brno.cz//w/zlata-makovice-je-zpet-na-meninske-brane-muzeum-mesta-brna-dnes-osadilo-makovici-s-casovou-schrankou-pro-pristi-generace</link>
+      <description>Zlatá makovice je zpět na Měnínské bráně. Muzeum města Brna dnes osadilo makovici s časovou schránkou pro příští generace</description>
     </item>
     <item>
       <title>

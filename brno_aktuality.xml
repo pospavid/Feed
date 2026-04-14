@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 14 Apr 2026 12:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 16:53:40 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Masarykova univerzita je o 13 443 m2 blíže k výstavbě nových kolejí. S městem Brnem podepsala směnnou smlouvu k pozemkům</title>
-      <link>https://cosedeje.brno.cz//w/masarykova-univerzita-je-o-13-443-m2-blize-k-vystavbe-novych-koleji-s-mestem-brnem-podepsala-smennou-smlouvu-k-pozemkum</link>
-      <description>Masarykova univerzita je o 13 443 m2 blíže k výstavbě nových kolejí. S městem Brnem podepsala směnnou smlouvu k pozemkům</description>
     </item>
     <item>
       <title>KORDIS JMK upravuje organizační strukturu řízení společnosti</title>
@@ -168,6 +163,11 @@
       <title>Vařím pro dobrou věc 2026: Brno se znovu spojí pro domov dospělých lidí s autismem</title>
       <link>https://cosedeje.brno.cz//w/varim-pro-dobrou-vec-2026-brno-se-znovu-spoji-pro-domov-dospelych-lidi-s-autismem</link>
       <description>Vařím pro dobrou věc 2026: Brno se znovu spojí pro domov dospělých lidí s autismem</description>
+    </item>
+    <item>
+      <title>Vzniká program letošních Brno Creative Days, zastupitelstvo schválilo další dotace</title>
+      <link>https://cosedeje.brno.cz//w/vznika-program-letosnich-brno-creative-days-zastupitelstvo-schvalilo-dalsi-dotace</link>
+      <description>Vzniká program letošních Brno Creative Days, zastupitelstvo schválilo další dotace</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 14 Apr 2026 16:53:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 09:08:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -70,11 +70,6 @@
       <description>Aktuality</description>
     </item>
     <item>
-      <title>KORDIS JMK upravuje organizační strukturu řízení společnosti</title>
-      <link>https://cosedeje.brno.cz//w/kordis-jmk-upravuje-organizacni-strukturu-rizeni-spolecnosti</link>
-      <description>KORDIS JMK upravuje organizační strukturu řízení společnosti</description>
-    </item>
-    <item>
       <title>Nová data potvrzují sílu regionu: Jižní Morava roste ve výzkumu, investicích i technologických oborech budoucnosti</title>
       <link>https://cosedeje.brno.cz//w/nova-data-potvrzuji-silu-regionu-jizni-morava-roste-ve-vyzkumu-investicich-i-technologickych-oborech-budoucnosti</link>
       <description>Nová data potvrzují sílu regionu: Jižní Morava roste ve výzkumu, investicích i technologických oborech budoucnosti</description>
@@ -130,9 +125,9 @@
       <description>Parkování na Zelném trhu dozná změn: méně vyhrazených míst, více prostoru pro rezidenty</description>
     </item>
     <item>
-      <title>V zóně B bude regulace parkování i v neděli od 17 do 24 hodin</title>
+      <title>V zóně B bude regulace parkování i v neděli od 17 do 24 hodin. Platit to bude od 1. června</title>
       <link>https://cosedeje.brno.cz//w/zmena-regulace-v-zone-b-se-bude-zavadet-postupne-a-to-s-vymenou-znacek</link>
-      <description>V zóně B bude regulace parkování i v neděli od 17 do 24 hodin</description>
+      <description>V zóně B bude regulace parkování i v neděli od 17 do 24 hodin. Platit to bude od 1. června</description>
     </item>
     <item>
       <title>Devět kilometrů nových tramvajových tratí přibude v Brně do roku 2035</title>
@@ -168,6 +163,11 @@
       <title>Vzniká program letošních Brno Creative Days, zastupitelstvo schválilo další dotace</title>
       <link>https://cosedeje.brno.cz//w/vznika-program-letosnich-brno-creative-days-zastupitelstvo-schvalilo-dalsi-dotace</link>
       <description>Vzniká program letošních Brno Creative Days, zastupitelstvo schválilo další dotace</description>
+    </item>
+    <item>
+      <title>Zastupitelé se zabývali sudetoněmeckým setkáním i dotacemi pro sport, filmový fond nebo na prevenci kriminality</title>
+      <link>https://cosedeje.brno.cz//w/zastupitele-se-zabyvali-sudetonemeckym-sjezdem-dotacemi-do-sportu-filmoveho-fondu-nebo-na-prevenci-kriminality</link>
+      <description>Zastupitelé se zabývali sudetoněmeckým setkáním i dotacemi pro sport, filmový fond nebo na prevenci kriminality</description>
     </item>
     <item>
       <title>

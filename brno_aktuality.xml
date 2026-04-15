@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 15 Apr 2026 09:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 12:56:49 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nová data potvrzují sílu regionu: Jižní Morava roste ve výzkumu, investicích i technologických oborech budoucnosti</title>
-      <link>https://cosedeje.brno.cz//w/nova-data-potvrzuji-silu-regionu-jizni-morava-roste-ve-vyzkumu-investicich-i-technologickych-oborech-budoucnosti</link>
-      <description>Nová data potvrzují sílu regionu: Jižní Morava roste ve výzkumu, investicích i technologických oborech budoucnosti</description>
-    </item>
-    <item>
-      <title>Masarykova univerzita, Teplárny Brno a město Brno podepsaly memorandum o spolupráci v oblasti energetiky</title>
-      <link>https://cosedeje.brno.cz//w/masarykova-univerzita-teplarny-brno-a-mesto-brno-podepsaly-memorandum-o-spolupraci-v-oblasti-energetiky</link>
-      <description>Masarykova univerzita, Teplárny Brno a město Brno podepsaly memorandum o spolupráci v oblasti energetiky</description>
     </item>
     <item>
       <title>Nové sedačky i řada dalších úprav. Srbská se chystá na první ligu</title>
@@ -168,6 +158,16 @@
       <title>Zastupitelé se zabývali sudetoněmeckým setkáním i dotacemi pro sport, filmový fond nebo na prevenci kriminality</title>
       <link>https://cosedeje.brno.cz//w/zastupitele-se-zabyvali-sudetonemeckym-sjezdem-dotacemi-do-sportu-filmoveho-fondu-nebo-na-prevenci-kriminality</link>
       <description>Zastupitelé se zabývali sudetoněmeckým setkáním i dotacemi pro sport, filmový fond nebo na prevenci kriminality</description>
+    </item>
+    <item>
+      <title>Vzdělávání dětí i rodičů. Město finančně podpoří i zranitelné skupiny</title>
+      <link>https://cosedeje.brno.cz//w/vzdelavani-deti-i-rodicu-mesto-financne-podpori-i-zranitelne-skupiny</link>
+      <description>Vzdělávání dětí i rodičů. Město finančně podpoří i zranitelné skupiny</description>
+    </item>
+    <item>
+      <title>Podpora pro kulturní akce: získá ji Comic-Con, Kniha Brno i Majáles</title>
+      <link>https://cosedeje.brno.cz//w/podpora-pro-kulturni-akce-ziska-ji-comic-con-kniha-brno-i-majales</link>
+      <description>Podpora pro kulturní akce: získá ji Comic-Con, Kniha Brno i Majáles</description>
     </item>
     <item>
       <title>

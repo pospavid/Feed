@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 17 Apr 2026 09:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 12:52:57 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno schválilo strategii rozvoje tramvajové sítě: Do roku 2035 přibude přes devět kilometrů nových tratí</title>
-      <link>https://cosedeje.brno.cz//w/brno-schvalilo-strategii-rozvoje-tramvajove-site-do-roku-2035-pribude-pres-devet-kilometru-novych-trati</link>
-      <description>Brno schválilo strategii rozvoje tramvajové sítě: Do roku 2035 přibude přes devět kilometrů nových tratí</description>
     </item>
     <item>
       <title>Brno investuje do moderní dopravy. Rekordních 15 miliard korun míří do vozů i kolejí</title>
@@ -168,6 +163,11 @@
       <title>Užijte si víkend v Brně: čekají vás Den Země i festival Vařím pro dobrou věc</title>
       <link>https://cosedeje.brno.cz//w/uzijte-si-vikend-v-brne-cekaji-vas-den-zeme-i-festival-varim-pro-dobrou-vec</link>
       <description>Užijte si víkend v Brně: čekají vás Den Země i festival Vařím pro dobrou věc</description>
+    </item>
+    <item>
+      <title>Přijďte si vypít kafe s nevidomými či slabozrakými</title>
+      <link>https://cosedeje.brno.cz//w/prijdte-si-vypit-kafe-s-nevidomymi-ci-slabozrakymi</link>
+      <description>Přijďte si vypít kafe s nevidomými či slabozrakými</description>
     </item>
     <item>
       <title>

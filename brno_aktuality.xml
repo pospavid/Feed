@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 20 Apr 2026 13:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 16:52:05 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>O pět startovacích bytů se mladé páry hlásí do 8. 5.</title>
-      <link>https://cosedeje.brno.cz//w/o-pet-startovacich-bytu-se-mlade-pary-hlasi-do-8-5</link>
-      <description>O pět startovacích bytů se mladé páry hlásí do 8. 5.</description>
     </item>
     <item>
       <title>Parkování na Zelném trhu dozná změn: méně vyhrazených míst, více prostoru pro rezidenty</title>
@@ -168,6 +163,11 @@
       <title>Hnědé popelnice už v Brně máme pět let, díky nim klesl objem směsného odpadu</title>
       <link>https://cosedeje.brno.cz//w/hnede-popelnice-uz-v-brne-mame-pet-let-diky-nim-klesl-objem-smesneho-odpadu</link>
       <description>Hnědé popelnice už v Brně máme pět let, díky nim klesl objem směsného odpadu</description>
+    </item>
+    <item>
+      <title>Špičkový zvuk a čerstvý vzduch – takové bude Kino Art po modernizaci</title>
+      <link>https://cosedeje.brno.cz//w/spickovy-zvuk-a-cerstvy-vzduch-takove-bude-kino-art-po-modernizaci</link>
+      <description>Špičkový zvuk a čerstvý vzduch – takové bude Kino Art po modernizaci</description>
     </item>
     <item>
       <title>

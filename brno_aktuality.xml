@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 21 Apr 2026 12:57:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:46:42 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Parkování na Zelném trhu dozná změn: méně vyhrazených míst, více prostoru pro rezidenty</title>
-      <link>https://cosedeje.brno.cz//w/parkovani-na-zelnem-trhu-dozna-zmen-mene-vyhrazenych-mist-vice-prostoru-pro-rezidenty</link>
-      <description>Parkování na Zelném trhu dozná změn: méně vyhrazených míst, více prostoru pro rezidenty</description>
     </item>
     <item>
       <title>V zóně B bude regulace parkování i v neděli od 17 do 24 hodin. Platit to bude od 1. června</title>
@@ -168,6 +163,11 @@
       <title>Špičkový zvuk a čerstvý vzduch – takové bude Kino Art po modernizaci</title>
       <link>https://cosedeje.brno.cz//w/spickovy-zvuk-a-cerstvy-vzduch-takove-bude-kino-art-po-modernizaci</link>
       <description>Špičkový zvuk a čerstvý vzduch – takové bude Kino Art po modernizaci</description>
+    </item>
+    <item>
+      <title>Na cestě z Prahy do La Rochelle</title>
+      <link>https://cosedeje.brno.cz//w/na-ceste-z-prahy-do-la-rochelle</link>
+      <description>Na cestě z Prahy do La Rochelle</description>
     </item>
     <item>
       <title>

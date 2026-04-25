@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 25 Apr 2026 12:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 16:29:01 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Zastupitelé se zabývali sudetoněmeckým setkáním i dotacemi pro sport, filmový fond nebo na prevenci kriminality</title>
-      <link>https://cosedeje.brno.cz//w/zastupitele-se-zabyvali-sudetonemeckym-sjezdem-dotacemi-do-sportu-filmoveho-fondu-nebo-na-prevenci-kriminality</link>
-      <description>Zastupitelé se zabývali sudetoněmeckým setkáním i dotacemi pro sport, filmový fond nebo na prevenci kriminality</description>
     </item>
     <item>
       <title>Vzdělávání dětí i rodičů. Město finančně podpoří i zranitelné skupiny</title>
@@ -168,6 +163,11 @@
       <title>Nový projekt Vesny představil 22 upcyklovaných modelů Znovu a lépe a zahajuje prodej značky Made in Vesna</title>
       <link>https://cosedeje.brno.cz//w/novy-projekt-vesny-predstavil-22-upcyklovanych-modelu-znovu-a-lepe-a-zahajuje-prodej-znacky-made-in-vesna</link>
       <description>Nový projekt Vesny představil 22 upcyklovaných modelů Znovu a lépe a zahajuje prodej značky Made in Vesna</description>
+    </item>
+    <item>
+      <title>Rezidentní parkování nově platí v oblastech Dolnopolní a Obřanská</title>
+      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblastech-dolnopolni-a-obranska</link>
+      <description>Rezidentní parkování nově platí v oblastech Dolnopolní a Obřanská</description>
     </item>
     <item>
       <title>

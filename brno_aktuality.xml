@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 26 Apr 2026 16:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:14:32 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Vzdělávání dětí i rodičů. Město finančně podpoří i zranitelné skupiny</title>
-      <link>https://cosedeje.brno.cz//w/vzdelavani-deti-i-rodicu-mesto-financne-podpori-i-zranitelne-skupiny</link>
-      <description>Vzdělávání dětí i rodičů. Město finančně podpoří i zranitelné skupiny</description>
     </item>
     <item>
       <title>Podpora pro kulturní akce: získá ji Comic-Con, Kniha Brno i Majáles</title>
@@ -168,6 +163,11 @@
       <title>Rezidentní parkování nově platí v oblastech Dolnopolní a Obřanská</title>
       <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblastech-dolnopolni-a-obranska</link>
       <description>Rezidentní parkování nově platí v oblastech Dolnopolní a Obřanská</description>
+    </item>
+    <item>
+      <title>Brněnský metropolitan č. 5/2026</title>
+      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-5-2026</link>
+      <description>Brněnský metropolitan č. 5/2026</description>
     </item>
     <item>
       <title>

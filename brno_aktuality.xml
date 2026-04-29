@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:55:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:19:10 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Podpora pro kulturní akce: získá ji Comic-Con, Kniha Brno i Majáles</title>
-      <link>https://cosedeje.brno.cz//w/podpora-pro-kulturni-akce-ziska-ji-comic-con-kniha-brno-i-majales</link>
-      <description>Podpora pro kulturní akce: získá ji Comic-Con, Kniha Brno i Majáles</description>
     </item>
     <item>
       <title>Posviťme si na to: Den Země v Brně ukáže světlo z nečekaných stran</title>
@@ -168,6 +163,11 @@
       <title>Brněnský metropolitan č. 5/2026</title>
       <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-5-2026</link>
       <description>Brněnský metropolitan č. 5/2026</description>
+    </item>
+    <item>
+      <title>Větší zapojení AI do chodu města i akční plán pro kyberbezpečnost. Brno klade důraz na moderní technologie</title>
+      <link>https://cosedeje.brno.cz//w/vetsi-zapojeni-ai-do-chodu-mesta-i-akcni-plan-pro-kyberbezpecnost-brno-klade-duraz-na-moderni-technologie</link>
+      <description>Větší zapojení AI do chodu města i akční plán pro kyberbezpečnost. Brno klade důraz na moderní technologie</description>
     </item>
     <item>
       <title>

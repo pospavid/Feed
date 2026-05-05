@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 05 May 2026 09:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:07:23 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nové výhledy na město i zpřístupněné podzemí. Víme, jak budou do budoucna vypadat Akátky</title>
-      <link>https://cosedeje.brno.cz//w/nove-vyhledy-na-mesto-i-zpristupnene-podzemi-vime-jak-budou-do-budoucna-vypadat-akatky</link>
-      <description>Nové výhledy na město i zpřístupněné podzemí. Víme, jak budou do budoucna vypadat Akátky</description>
     </item>
     <item>
       <title>Úpravy rozptylové loučky na Ústředním hřbitově přiblíží veřejné projednání</title>
@@ -168,6 +163,11 @@
       <title>Aplikace BRNOCARE přináší komplexní přehled o zdravotnických zařízeních v Brně</title>
       <link>https://cosedeje.brno.cz//w/aplikace-brnocare-prinasi-komplexni-prehled-o-zdravotnickych-zarizenich-v-brne</link>
       <description>Aplikace BRNOCARE přináší komplexní přehled o zdravotnických zařízeních v Brně</description>
+    </item>
+    <item>
+      <title>Sanaci skalního řícení v Bosonohách provede firma HELPING VÝŠKOVÉ PRÁCE</title>
+      <link>https://cosedeje.brno.cz//w/sanaci-skalniho-riceni-v-bosonohach-provede-firma-helping-vyskove-prace</link>
+      <description>Sanaci skalního řícení v Bosonohách provede firma HELPING VÝŠKOVÉ PRÁCE</description>
     </item>
     <item>
       <title>

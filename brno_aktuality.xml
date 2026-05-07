@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 07 May 2026 10:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:24:59 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Popularizace vědy, volnočasové aktivity dětí či mezinárodní projekty na rozvoj mládeže – sem míří dotace města</title>
-      <link>https://cosedeje.brno.cz//w/popularizace-vedy-volnocasove-aktivity-deti-ci-mezinarodni-projekty-na-rozvoj-mladeze-sem-miri-dotace-mesta</link>
-      <description>Popularizace vědy, volnočasové aktivity dětí či mezinárodní projekty na rozvoj mládeže – sem míří dotace města</description>
-    </item>
-    <item>
-      <title>Dáme na vás: díky pokračování úspěšného projektu bylo vysázeno šest set stromů</title>
-      <link>https://cosedeje.brno.cz//w/dame-na-vas-diky-pokracovani-uspesneho-projektu-bylo-vysazeno-sest-set-stromu</link>
-      <description>Dáme na vás: díky pokračování úspěšného projektu bylo vysázeno šest set stromů</description>
-    </item>
-    <item>
-      <title>Stovky nových míst pro děti: připravují se mateřské školy Kamenný vrch a Dělostřelecká</title>
-      <link>https://cosedeje.brno.cz//w/stovky-novych-mist-pro-deti-pripravuji-se-materske-skoly-kamenny-vrch-a-delostrelecka</link>
-      <description>Stovky nových míst pro děti: připravují se mateřské školy Kamenný vrch a Dělostřelecká</description>
     </item>
     <item>
       <title>Strážníci posílí hlídky na hlavním nádraží. Ve všední dny budou na místě 24 hodin. Asistovat jim budou sociální pracovníci</title>
@@ -168,6 +153,21 @@
       <title>Elektromobilita nabírá na obrátkách. Síť dobíjecích stanic neustále roste</title>
       <link>https://cosedeje.brno.cz//w/elektromobilita-nabira-na-obratkach-sit-dobijecich-stanic-neustale-roste</link>
       <description>Elektromobilita nabírá na obrátkách. Síť dobíjecích stanic neustále roste</description>
+    </item>
+    <item>
+      <title>Situace před hlavním nádražím se zklidnila. Na zlepšení stavu budou dál spolupracovat město, městská policie a Brno-střed</title>
+      <link>https://cosedeje.brno.cz//w/situace-pred-hlavnim-nadrazim-se-zklidnila-na-zlepseni-stavu-budou-dal-spolupracovat-mesto-mestska-policie-a-brno-stred</link>
+      <description>Situace před hlavním nádražím se zklidnila. Na zlepšení stavu budou dál spolupracovat město, městská policie a Brno-střed</description>
+    </item>
+    <item>
+      <title>Sváteční tipy: konají se akce ke Dni vítězství, tematická prohlídka u kapucínů i festivaly</title>
+      <link>https://cosedeje.brno.cz//w/svatecni-tipy-konaji-se-akce-ke-dni-vitezstvi-tematicka-prohlidka-u-kapucinu-i-festivaly</link>
+      <description>Sváteční tipy: konají se akce ke Dni vítězství, tematická prohlídka u kapucínů i festivaly</description>
+    </item>
+    <item>
+      <title>S opravami Chleborádovy vily chce město začít příští rok, nyní vybralo projektanta</title>
+      <link>https://cosedeje.brno.cz//w/s-opravami-chleboradovy-vily-chce-mesto-zacit-pristi-rok-nyni-vybralo-projektanta</link>
+      <description>S opravami Chleborádovy vily chce město začít příští rok, nyní vybralo projektanta</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 06 May 2026 17:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:12:19 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Špičkový zvuk a čerstvý vzduch – takové bude Kino Art po modernizaci</title>
-      <link>https://cosedeje.brno.cz//w/spickovy-zvuk-a-cerstvy-vzduch-takove-bude-kino-art-po-modernizaci</link>
-      <description>Špičkový zvuk a čerstvý vzduch – takové bude Kino Art po modernizaci</description>
-    </item>
-    <item>
-      <title>Na cestě z Prahy do La Rochelle</title>
-      <link>https://cosedeje.brno.cz//w/na-ceste-z-prahy-do-la-rochelle</link>
-      <description>Na cestě z Prahy do La Rochelle</description>
-    </item>
-    <item>
-      <title>Brno plánuje rozšíření mateřských škol a renovaci školního hřiště</title>
-      <link>https://cosedeje.brno.cz//w/brno-planuje-rozsireni-materskych-skol-a-renovaci-skolniho-hriste</link>
-      <description>Brno plánuje rozšíření mateřských škol a renovaci školního hřiště</description>
     </item>
     <item>
       <title>Popularizace vědy, volnočasové aktivity dětí či mezinárodní projekty na rozvoj mládeže – sem míří dotace města</title>
@@ -168,6 +153,21 @@
       <title>Elektromobilita v Brně nabírá tempo. Teplárny Brno rozšiřují síť a připravují nové projekty</title>
       <link>https://cosedeje.brno.cz//w/elektromobilita-v-brne-nabira-tempo-teplarny-brno-rozsiruji-sit-a-pripravuji-nove-projekty</link>
       <description>Elektromobilita v Brně nabírá tempo. Teplárny Brno rozšiřují síť a připravují nové projekty</description>
+    </item>
+    <item>
+      <title>Na sedmém ročníku turnaje v piškvorkách změří síly hráči z Česka i okolních zemí</title>
+      <link>https://cosedeje.brno.cz//w/na-sedmem-rocniku-turnaje-v-piskvorkach-zmeri-sily-hraci-z-ceska-i-okolnich-zemi</link>
+      <description>Na sedmém ročníku turnaje v piškvorkách změří síly hráči z Česka i okolních zemí</description>
+    </item>
+    <item>
+      <title>Brno oživí veřejný prostor: přibude socha, vodní prvek i Muchova lavička</title>
+      <link>https://cosedeje.brno.cz//w/brno-ozivi-verejny-prostor-pribude-socha-vodni-prvek-i-muchova-lavicka</link>
+      <description>Brno oživí veřejný prostor: přibude socha, vodní prvek i Muchova lavička</description>
+    </item>
+    <item>
+      <title>Elektromobilita nabírá na obrátkách. Síť dobíjecích stanic neustále roste</title>
+      <link>https://cosedeje.brno.cz//w/elektromobilita-nabira-na-obratkach-sit-dobijecich-stanic-neustale-roste</link>
+      <description>Elektromobilita nabírá na obrátkách. Síť dobíjecích stanic neustále roste</description>
     </item>
     <item>
       <title>

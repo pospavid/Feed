@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 11 May 2026 17:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:21:54 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Strážníci posílí hlídky na hlavním nádraží. Ve všední dny budou na místě 24 hodin. Asistovat jim budou sociální pracovníci</title>
-      <link>https://cosedeje.brno.cz//w/straznici-posili-hlidky-na-hlavnim-nadrazi-ve-vsedni-dny-budou-na-miste-24-hodin-asistovat-jim-budou-socialni-pracovnici</link>
-      <description>Strážníci posílí hlídky na hlavním nádraží. Ve všední dny budou na místě 24 hodin. Asistovat jim budou sociální pracovníci</description>
     </item>
     <item>
       <title>Více stromů v alejích, opravy na hřbitově nebo expozice pro dželady – příspěvkové organizace města představily svou činnost v roce 2025</title>
@@ -168,6 +163,11 @@
       <title>S opravami Chleborádovy vily chce město začít příští rok, nyní vybralo projektanta</title>
       <link>https://cosedeje.brno.cz//w/s-opravami-chleboradovy-vily-chce-mesto-zacit-pristi-rok-nyni-vybralo-projektanta</link>
       <description>S opravami Chleborádovy vily chce město začít příští rok, nyní vybralo projektanta</description>
+    </item>
+    <item>
+      <title>Jak budou brněnské školky otevřené o prázdninách?</title>
+      <link>https://cosedeje.brno.cz//w/jak-budou-brnenske-skolky-otevrene-o-prazdninach-</link>
+      <description>Jak budou brněnské školky otevřené o prázdninách?</description>
     </item>
     <item>
       <title>

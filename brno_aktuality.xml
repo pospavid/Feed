@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 13 May 2026 14:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:53:09 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování nově platí v oblastech Dolnopolní a Obřanská</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblastech-dolnopolni-a-obranska</link>
-      <description>Rezidentní parkování nově platí v oblastech Dolnopolní a Obřanská</description>
     </item>
     <item>
       <title>Brněnský metropolitan č. 5/2026</title>
@@ -168,6 +163,11 @@
       <title>Aktivní dětství a dospívání plné sportu – jde se na to!</title>
       <link>https://cosedeje.brno.cz//w/aktivni-detstvi-a-dospivani-plne-sportu-jde-se-na-to-</link>
       <description>Aktivní dětství a dospívání plné sportu – jde se na to!</description>
+    </item>
+    <item>
+      <title>Open House Brno: Zbývá posledních pár míst na rezervaci, i bez ní se ale dostanete na 80 lokací</title>
+      <link>https://cosedeje.brno.cz//w/open-house-brno-zbyva-poslednich-par-mist-na-rezervaci-i-bez-ni-se-ale-dostanete-na-80-lokaci</link>
+      <description>Open House Brno: Zbývá posledních pár míst na rezervaci, i bez ní se ale dostanete na 80 lokací</description>
     </item>
     <item>
       <title>

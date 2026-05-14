@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 14 May 2026 13:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:29:28 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Prodloužený víkend začíná. Čekají vás pálení čarodějnic, tematický den v zoo i výstavy</title>
-      <link>https://cosedeje.brno.cz//w/prodlouzeny-vikend-zacina-cekaji-vas-paleni-carodejnic-tematicky-den-v-zoo-i-vystavy</link>
-      <description>Prodloužený víkend začíná. Čekají vás pálení čarodějnic, tematický den v zoo i výstavy</description>
     </item>
     <item>
       <title>Aplikace BRNOCARE přináší komplexní přehled o zdravotnických zařízeních v Brně</title>
@@ -168,6 +163,11 @@
       <title>Brněnské chasy zatančí poprvé společně – celoměstské hody se uskuteční od 14. do 16. srpna</title>
       <link>https://cosedeje.brno.cz//w/brnenske-chasy-zatanci-poprve-spolecne-celomestske-hody-se-uskutecni-od-14-do-16-srpna</link>
       <description>Brněnské chasy zatančí poprvé společně – celoměstské hody se uskuteční od 14. do 16. srpna</description>
+    </item>
+    <item>
+      <title>Záchranku a hasiče pouští do centra chytré sloupky, zkracuje se tím délka zásahu</title>
+      <link>https://cosedeje.brno.cz//w/zachranku-a-hasice-pousti-do-centra-chytre-sloupky-zkracuje-se-tim-delka-zasahu</link>
+      <description>Záchranku a hasiče pouští do centra chytré sloupky, zkracuje se tím délka zásahu</description>
     </item>
     <item>
       <title>

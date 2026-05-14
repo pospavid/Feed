@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 13 May 2026 17:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:03:48 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brněnský metropolitan č. 5/2026</title>
-      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-5-2026</link>
-      <description>Brněnský metropolitan č. 5/2026</description>
-    </item>
-    <item>
-      <title>Větší zapojení AI do chodu města i akční plán pro kyberbezpečnost. Brno klade důraz na moderní technologie</title>
-      <link>https://cosedeje.brno.cz//w/vetsi-zapojeni-ai-do-chodu-mesta-i-akcni-plan-pro-kyberbezpecnost-brno-klade-duraz-na-moderni-technologie</link>
-      <description>Větší zapojení AI do chodu města i akční plán pro kyberbezpečnost. Brno klade důraz na moderní technologie</description>
     </item>
     <item>
       <title>Prodloužený víkend začíná. Čekají vás pálení čarodějnic, tematický den v zoo i výstavy</title>
@@ -168,6 +158,16 @@
       <title>Open House Brno: Zbývá posledních pár míst na rezervaci, i bez ní se ale dostanete na 80 lokací</title>
       <link>https://cosedeje.brno.cz//w/open-house-brno-zbyva-poslednich-par-mist-na-rezervaci-i-bez-ni-se-ale-dostanete-na-80-lokaci</link>
       <description>Open House Brno: Zbývá posledních pár míst na rezervaci, i bez ní se ale dostanete na 80 lokací</description>
+    </item>
+    <item>
+      <title>Na Křížové má vzniknout až 90 bytů, plánuje město a městská část Brno-střed</title>
+      <link>https://cosedeje.brno.cz//w/na-krizove-ma-vzniknout-az-90-bytu-planuje-mesto-a-mestska-cast-brno-stred</link>
+      <description>Na Křížové má vzniknout až 90 bytů, plánuje město a městská část Brno-střed</description>
+    </item>
+    <item>
+      <title>Brněnské chasy zatančí poprvé společně – celoměstské hody se uskuteční od 14. do 16. srpna</title>
+      <link>https://cosedeje.brno.cz//w/brnenske-chasy-zatanci-poprve-spolecne-celomestske-hody-se-uskutecni-od-14-do-16-srpna</link>
+      <description>Brněnské chasy zatančí poprvé společně – celoměstské hody se uskuteční od 14. do 16. srpna</description>
     </item>
     <item>
       <title>

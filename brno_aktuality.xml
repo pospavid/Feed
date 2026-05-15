@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 14 May 2026 17:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:10:57 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Aplikace BRNOCARE přináší komplexní přehled o zdravotnických zařízeních v Brně</title>
-      <link>https://cosedeje.brno.cz//w/aplikace-brnocare-prinasi-komplexni-prehled-o-zdravotnickych-zarizenich-v-brne</link>
-      <description>Aplikace BRNOCARE přináší komplexní přehled o zdravotnických zařízeních v Brně</description>
     </item>
     <item>
       <title>Sanaci skalního řícení v Bosonohách provede firma HELPING VÝŠKOVÉ PRÁCE</title>
@@ -168,6 +163,11 @@
       <title>Záchranku a hasiče pouští do centra chytré sloupky, zkracuje se tím délka zásahu</title>
       <link>https://cosedeje.brno.cz//w/zachranku-a-hasice-pousti-do-centra-chytre-sloupky-zkracuje-se-tim-delka-zasahu</link>
       <description>Záchranku a hasiče pouští do centra chytré sloupky, zkracuje se tím délka zásahu</description>
+    </item>
+    <item>
+      <title>Objevte víkendové Brno: čekají vás muzejní noc i Májové slavnosti</title>
+      <link>https://cosedeje.brno.cz//w/objevte-vikendove-brno-cekaji-vas-muzejni-noc-i-majove-slavnosti</link>
+      <description>Objevte víkendové Brno: čekají vás muzejní noc i Májové slavnosti</description>
     </item>
     <item>
       <title>

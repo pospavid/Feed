@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 15 May 2026 13:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 17:19:36 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Sanaci skalního řícení v Bosonohách provede firma HELPING VÝŠKOVÉ PRÁCE</title>
-      <link>https://cosedeje.brno.cz//w/sanaci-skalniho-riceni-v-bosonohach-provede-firma-helping-vyskove-prace</link>
-      <description>Sanaci skalního řícení v Bosonohách provede firma HELPING VÝŠKOVÉ PRÁCE</description>
     </item>
     <item>
       <title>Na Francouzské 61 vznikne nový bytový dům. Město hledá projektanta</title>
@@ -168,6 +163,11 @@
       <title>Objevte víkendové Brno: čekají vás muzejní noc i Májové slavnosti</title>
       <link>https://cosedeje.brno.cz//w/objevte-vikendove-brno-cekaji-vas-muzejni-noc-i-majove-slavnosti</link>
       <description>Objevte víkendové Brno: čekají vás muzejní noc i Májové slavnosti</description>
+    </item>
+    <item>
+      <title>Party na Prýglu, celoměstská hra i speciální kuličky. Lodní doprava slaví své osmdesátiny i mimo vodu</title>
+      <link>https://cosedeje.brno.cz//w/party-na-pryglu-celomestska-hra-i-specialni-kulicky-lodni-doprava-slavi-sve-osmdesatiny-i-mimo-vodu</link>
+      <description>Party na Prýglu, celoměstská hra i speciální kuličky. Lodní doprava slaví své osmdesátiny i mimo vodu</description>
     </item>
     <item>
       <title>

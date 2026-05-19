@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 19 May 2026 10:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:31:27 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -70,16 +70,6 @@
       <description>Aktuality</description>
     </item>
     <item>
-      <title>Brno oživí veřejný prostor: přibude socha, vodní prvek i Muchova lavička</title>
-      <link>https://cosedeje.brno.cz//w/brno-ozivi-verejny-prostor-pribude-socha-vodni-prvek-i-muchova-lavicka</link>
-      <description>Brno oživí veřejný prostor: přibude socha, vodní prvek i Muchova lavička</description>
-    </item>
-    <item>
-      <title>Elektromobilita nabírá na obrátkách. Síť dobíjecích stanic neustále roste</title>
-      <link>https://cosedeje.brno.cz//w/elektromobilita-nabira-na-obratkach-sit-dobijecich-stanic-neustale-roste</link>
-      <description>Elektromobilita nabírá na obrátkách. Síť dobíjecích stanic neustále roste</description>
-    </item>
-    <item>
       <title>Situace před hlavním nádražím se zklidnila. Na zlepšení stavu budou dál spolupracovat město, městská policie a Brno-střed</title>
       <link>https://cosedeje.brno.cz//w/situace-pred-hlavnim-nadrazim-se-zklidnila-na-zlepseni-stavu-budou-dal-spolupracovat-mesto-mestska-policie-a-brno-stred</link>
       <description>Situace před hlavním nádražím se zklidnila. Na zlepšení stavu budou dál spolupracovat město, městská policie a Brno-střed</description>
@@ -113,6 +103,11 @@
       <title>Aktivní dětství a dospívání plné sportu – jde se na to!</title>
       <link>https://cosedeje.brno.cz//w/aktivni-detstvi-a-dospivani-plne-sportu-jde-se-na-to-</link>
       <description>Aktivní dětství a dospívání plné sportu – jde se na to!</description>
+    </item>
+    <item>
+      <title>Konference Kultura jako společný jazyk</title>
+      <link>https://cosedeje.brno.cz//w/konference-kultura-jako-spolecny-jazyk</link>
+      <description>Konference Kultura jako společný jazyk</description>
     </item>
     <item>
       <title>Open House Brno: Zbývá posledních pár míst na rezervaci, i bez ní se ale dostanete na 80 lokací</title>
@@ -168,6 +163,11 @@
       <title>Brno podpoří péči o lidi s autismem i činnost neziskových organizací</title>
       <link>https://cosedeje.brno.cz//w/brno-podpori-peci-o-lidi-s-autismem-i-cinnost-neziskovych-organizaci</link>
       <description>Brno podpoří péči o lidi s autismem i činnost neziskových organizací</description>
+    </item>
+    <item>
+      <title>Vyhláška o nočním klidu, příspěvek na nákup magnetické rezonance nebo podpora sportu a sociálních projektů – zastupitelé projednali 115 bodů</title>
+      <link>https://cosedeje.brno.cz//w/vyhlaska-o-nocnim-klidu-prispevek-na-nakup-magneticke-rezonance-nebo-podpora-sportu-a-socialnich-projektu-zastupitele-projednali-115-bodu</link>
+      <description>Vyhláška o nočním klidu, příspěvek na nákup magnetické rezonance nebo podpora sportu a sociálních projektů – zastupitelé projednali 115 bodů</description>
     </item>
     <item>
       <title>

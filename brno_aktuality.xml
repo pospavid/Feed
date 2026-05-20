@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 20 May 2026 10:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:30:45 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Jak budou brněnské školky otevřené o prázdninách?</title>
-      <link>https://cosedeje.brno.cz//w/jak-budou-brnenske-skolky-otevrene-o-prazdninach-</link>
-      <description>Jak budou brněnské školky otevřené o prázdninách?</description>
     </item>
     <item>
       <title>Náměstí Míru vdechne nový život celková rekonstrukce</title>
@@ -168,6 +163,11 @@
       <title>V blízkosti nového mokřadu u Svratky vznikne místo pro relaxaci a sport</title>
       <link>https://cosedeje.brno.cz//w/v-blizkosti-noveho-mokradu-u-svratky-vznikne-misto-pro-relaxaci-a-sport</link>
       <description>V blízkosti nového mokřadu u Svratky vznikne místo pro relaxaci a sport</description>
+    </item>
+    <item>
+      <title>Meeting Brno zve k naslouchání i smíření</title>
+      <link>https://cosedeje.brno.cz//w/meeting-brno-zve-k-naslouchani-i-smireni</link>
+      <description>Meeting Brno zve k naslouchání i smíření</description>
     </item>
     <item>
       <title>

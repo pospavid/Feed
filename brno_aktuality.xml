@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 31 May 2026 16:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:25:10 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Na spojení FabLabu a Hobbylabu přispěje město 1,5 milionu korun</title>
-      <link>https://cosedeje.brno.cz//w/na-spojeni-fablabu-a-hobbylabu-prispeje-mesto-1-5-milionu-korun</link>
-      <description>Na spojení FabLabu a Hobbylabu přispěje město 1,5 milionu korun</description>
     </item>
     <item>
       <title>Brno podpoří péči o lidi s autismem i činnost neziskových organizací</title>
@@ -168,6 +163,11 @@
       <title>Jak strávíte víkend vy? Otevírají se kostely a slaví se Den dětí</title>
       <link>https://cosedeje.brno.cz//w/jak-stravite-vikend-vy-oteviraji-se-kostely-a-slavi-se-den-deti</link>
       <description>Jak strávíte víkend vy? Otevírají se kostely a slaví se Den dětí</description>
+    </item>
+    <item>
+      <title>Brno v datech: přibylo obyvatel, studentů i aut</title>
+      <link>https://cosedeje.brno.cz//w/brno-v-datech-pribylo-obyvatel-studentu-i-aut-1</link>
+      <description>Brno v datech: přibylo obyvatel, studentů i aut</description>
     </item>
     <item>
       <title>

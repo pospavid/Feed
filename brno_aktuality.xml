@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 04 Jun 2026 14:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 11:16:50 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Waldorfská škola Brno projde opravami. Ty zajistí její bezpečnost</title>
-      <link>https://cosedeje.brno.cz//w/waldorfska-skola-brno-projde-opravami-ty-zajisti-jeji-bezpecnost</link>
-      <description>Waldorfská škola Brno projde opravami. Ty zajistí její bezpečnost</description>
     </item>
     <item>
       <title>V blízkosti nového mokřadu u Svratky vznikne místo pro relaxaci a sport</title>
@@ -168,6 +163,11 @@
       <title>Děti navrhly města budoucnosti. Nejlepší týmy z HackaTEENu pojedou do Barcelony</title>
       <link>https://cosedeje.brno.cz//w/deti-navrhly-mesta-budoucnosti-nejlepsi-tymy-z-hackateenu-pojedou-do-barcelony</link>
       <description>Děti navrhly města budoucnosti. Nejlepší týmy z HackaTEENu pojedou do Barcelony</description>
+    </item>
+    <item>
+      <title>Do Brna přichází víkend plný festivalů, soutěží a kultury</title>
+      <link>https://cosedeje.brno.cz//w/do-brna-prichazi-vikend-plny-festivalu-soutezi-a-kultury</link>
+      <description>Do Brna přichází víkend plný festivalů, soutěží a kultury</description>
     </item>
     <item>
       <title>

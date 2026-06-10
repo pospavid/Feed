@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 09 Jun 2026 17:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:29:08 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Dáme na vás: lidé podali téměř dvě stovky podnětů</title>
-      <link>https://cosedeje.brno.cz//w/dame-na-vas-lide-podali-temer-dve-stovky-podnetu</link>
-      <description>Dáme na vás: lidé podali téměř dvě stovky podnětů</description>
-    </item>
-    <item>
-      <title>Festivaly, dobré jídlo nebo fotbalové oslavy. Připravte se na rozmanitý víkend</title>
-      <link>https://cosedeje.brno.cz//w/festivaly-dobre-jidlo-nebo-fotbalove-oslavy-pripravte-se-na-rozmanity-vikend</link>
-      <description>Festivaly, dobré jídlo nebo fotbalové oslavy. Připravte se na rozmanitý víkend</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování nově platí v oblasti Hády</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-nove-plati-v-oblasti-hady</link>
-      <description>Rezidentní parkování nově platí v oblasti Hády</description>
     </item>
     <item>
       <title>Brněnský metropolitan č. 6/2026</title>
@@ -168,6 +153,21 @@
       <title>Na sobotní akci Festivalu zdraví ve jménu prevence dorazilo kolem 2000 návštěvníků</title>
       <link>https://cosedeje.brno.cz//w/festival-zdravi-se-zameruje-na-prevenci-na-sobotni-akci-dorazilo-kolem-2000-navstevniku</link>
       <description>Na sobotní akci Festivalu zdraví ve jménu prevence dorazilo kolem 2000 návštěvníků</description>
+    </item>
+    <item>
+      <title>Celkem 105 odstřelů a 40 tisíc tun vyvezeného materiálu. Tunel tramvajové trati na Kamechy je proražený</title>
+      <link>https://cosedeje.brno.cz//w/celkem-105-odstrelu-a-40-tisic-tun-vyvezeneho-materialu-tunel-tramvajove-trati-na-kamechy-je-prorazeny-1</link>
+      <description>Celkem 105 odstřelů a 40 tisíc tun vyvezeného materiálu. Tunel tramvajové trati na Kamechy je proražený</description>
+    </item>
+    <item>
+      <title>Na náměstí Svobody se vrací Velká cena České republiky</title>
+      <link>https://cosedeje.brno.cz//w/na-namesti-svobody-se-vraci-velka-cena-ceske-republiky</link>
+      <description>Na náměstí Svobody se vrací Velká cena České republiky</description>
+    </item>
+    <item>
+      <title>Bazén na Ponávce dostane novou vanu a rozšíří se</title>
+      <link>https://cosedeje.brno.cz//w/bazen-na-ponavce-dostane-novou-vanu-a-rozsiri-se</link>
+      <description>Bazén na Ponávce dostane novou vanu a rozšíří se</description>
     </item>
     <item>
       <title>

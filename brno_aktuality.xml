@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 10 Jun 2026 11:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 14:48:48 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,41 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brněnský metropolitan č. 6/2026</title>
-      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-6-2026</link>
-      <description>Brněnský metropolitan č. 6/2026</description>
-    </item>
-    <item>
-      <title>Mladým singles se otevřela širší nabídka družstevního bydlení</title>
-      <link>https://cosedeje.brno.cz//w/mladym-singles-se-otevrela-sirsi-nabidka-druzstevniho-bydleni</link>
-      <description>Mladým singles se otevřela širší nabídka družstevního bydlení</description>
-    </item>
-    <item>
-      <title>Od prevence po jógu. Festival zdraví v Brně nabídne desítky akcí</title>
-      <link>https://cosedeje.brno.cz//w/od-prevence-po-jogu-festival-zdravi-v-brne-nabidne-desitky-akci</link>
-      <description>Od prevence po jógu. Festival zdraví v Brně nabídne desítky akcí</description>
-    </item>
-    <item>
-      <title>Rozvoj elektromobility nejen v Brně, ale v celém kraji. Spolupráci stvrdí signatáři memorandem</title>
-      <link>https://cosedeje.brno.cz//w/rozvoj-elektromobility-nejen-v-brne-ale-v-celem-kraji-spolupraci-stvrdi-signatari-memorandem</link>
-      <description>Rozvoj elektromobility nejen v Brně, ale v celém kraji. Spolupráci stvrdí signatáři memorandem</description>
-    </item>
-    <item>
-      <title>Celkem 38 milionů korun rozdělí město na dotacích kulturním organizacím</title>
-      <link>https://cosedeje.brno.cz//w/celkem-38-milionu-korun-rozdeli-mesto-na-dotacich-kulturnim-organizacim</link>
-      <description>Celkem 38 milionů korun rozdělí město na dotacích kulturním organizacím</description>
-    </item>
-    <item>
-      <title>Dobrá zpráva pro klasickou hudbu: Moravský podzim získá více peněz od města</title>
-      <link>https://cosedeje.brno.cz//w/dobra-zprava-pro-klasickou-hudbu-moravsky-podzim-ziska-vice-penez-od-mesta</link>
-      <description>Dobrá zpráva pro klasickou hudbu: Moravský podzim získá více peněz od města</description>
-    </item>
-    <item>
-      <title>Obslužná komunikace propojí Tomešovu a Vinařskou</title>
-      <link>https://cosedeje.brno.cz//w/obsluzna-komunikace-propoji-tomesovu-a-vinarskou</link>
-      <description>Obslužná komunikace propojí Tomešovu a Vinařskou</description>
     </item>
     <item>
       <title>Brno na URBIS: Poprvé jako jeden celek se svými společnostmi. V unikátní expozici se dozvíte o inovativních projektech města</title>
@@ -168,6 +133,41 @@
       <title>Bazén na Ponávce dostane novou vanu a rozšíří se</title>
       <link>https://cosedeje.brno.cz//w/bazen-na-ponavce-dostane-novou-vanu-a-rozsiri-se</link>
       <description>Bazén na Ponávce dostane novou vanu a rozšíří se</description>
+    </item>
+    <item>
+      <title>Co čeká stadion Srbská? Nové osvětlení, novinářské lávky i LED obrazovky</title>
+      <link>https://cosedeje.brno.cz//w/co-ceka-stadion-srbska-nove-osvetleni-novinarske-lavky-i-led-obrazovky</link>
+      <description>Co čeká stadion Srbská? Nové osvětlení, novinářské lávky i LED obrazovky</description>
+    </item>
+    <item>
+      <title>Série sportovních dotací podpoří významné akce, vznik nového hřiště nebo handicapované</title>
+      <link>https://cosedeje.brno.cz//w/serie-sportovnich-dotaci-podpori-vyznamne-akce-vznik-noveho-hriste-nebo-handicapovane</link>
+      <description>Série sportovních dotací podpoří významné akce, vznik nového hřiště nebo handicapované</description>
+    </item>
+    <item>
+      <title>Masarykova univerzita se spojí s městem při vzdělávání učitelů, Základní škola Eduard navýší kapacitu žáků</title>
+      <link>https://cosedeje.brno.cz//w/masarykova-univerzita-se-spoji-s-mestem-pri-vzdelavani-ucitelu-zakladni-skola-eduard-navysi-kapacitu-zaku</link>
+      <description>Masarykova univerzita se spojí s městem při vzdělávání učitelů, Základní škola Eduard navýší kapacitu žáků</description>
+    </item>
+    <item>
+      <title>Město podpoří tři projekty pro děti a mládež částkou 140 tisíc korun</title>
+      <link>https://cosedeje.brno.cz//w/mesto-podpori-tri-projekty-pro-deti-a-mladez-castkou-140-tisic-korun</link>
+      <description>Město podpoří tři projekty pro děti a mládež částkou 140 tisíc korun</description>
+    </item>
+    <item>
+      <title>Plán nové Staré osady – má se stát živým srdcem Židenic s velkorysým náměstím pro Brno</title>
+      <link>https://cosedeje.brno.cz//w/plan-nove-stare-osady-ma-se-stat-zivym-srdcem-zidenic-s-velkorysym-namestim-pro-brno</link>
+      <description>Plán nové Staré osady – má se stát živým srdcem Židenic s velkorysým náměstím pro Brno</description>
+    </item>
+    <item>
+      <title>Zájemci se budou moci přihlásit do dalších dvou projektů družstevního bydlení</title>
+      <link>https://cosedeje.brno.cz//w/zajemci-se-budou-moci-prihlasit-do-dalsich-dvou-projektu-druzstevniho-bydleni</link>
+      <description>Zájemci se budou moci přihlásit do dalších dvou projektů družstevního bydlení</description>
+    </item>
+    <item>
+      <title>Město nabídne studujícím další dva byty za výhodnou cenu</title>
+      <link>https://cosedeje.brno.cz//w/mesto-nabidne-studujicim-dalsi-dva-byty-za-vyhodnou-cenu</link>
+      <description>Město nabídne studujícím další dva byty za výhodnou cenu</description>
     </item>
     <item>
       <title>

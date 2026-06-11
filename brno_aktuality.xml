@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 11 Jun 2026 12:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 18:38:58 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Jak strávíte víkend vy? Otevírají se kostely a slaví se Den dětí</title>
-      <link>https://cosedeje.brno.cz//w/jak-stravite-vikend-vy-oteviraji-se-kostely-a-slavi-se-den-deti</link>
-      <description>Jak strávíte víkend vy? Otevírají se kostely a slaví se Den dětí</description>
-    </item>
-    <item>
-      <title>Brno v datech: přibylo obyvatel, studentů i aut</title>
-      <link>https://cosedeje.brno.cz//w/brno-v-datech-pribylo-obyvatel-studentu-i-aut-1</link>
-      <description>Brno v datech: přibylo obyvatel, studentů i aut</description>
     </item>
     <item>
       <title>Vyrazte na lov! Kdo ukořistí nejvíce brněnských soch?</title>
@@ -168,6 +158,16 @@
       <title>MyMachine poprvé v Česku: Děti navrhly vynálezy snů. Studenti je proměnili ve skutečnost</title>
       <link>https://cosedeje.brno.cz//w/mymachine-poprve-v-cesku-deti-navrhly-vynalezy-snu-studenti-je-promenili-ve-skutecnost</link>
       <description>MyMachine poprvé v Česku: Děti navrhly vynálezy snů. Studenti je proměnili ve skutečnost</description>
+    </item>
+    <item>
+      <title>Maloměřice a Obřany mají nová zákoutí pro setkávání i relaxaci</title>
+      <link>https://cosedeje.brno.cz//w/malomerice-a-obrany-maji-nova-zakouti-pro-setkavani-i-relaxaci</link>
+      <description>Maloměřice a Obřany mají nová zákoutí pro setkávání i relaxaci</description>
+    </item>
+    <item>
+      <title>MotoGP rozburácí okruh i Svoboďák. V Brně se předvede i domácí Filip Salač, který v Maďarsku dojel druhý</title>
+      <link>https://cosedeje.brno.cz//w/motogp-rozburaci-okruh-i-svobodak-v-brne-se-predvede-i-domaci-filip-salac-ktery-v-madarsku-dojel-druhy</link>
+      <description>MotoGP rozburácí okruh i Svoboďák. V Brně se předvede i domácí Filip Salač, který v Maďarsku dojel druhý</description>
     </item>
     <item>
       <title>

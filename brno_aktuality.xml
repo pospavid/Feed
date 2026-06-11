@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 10 Jun 2026 18:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:01:25 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -70,11 +70,6 @@
       <description>Aktuality</description>
     </item>
     <item>
-      <title>Brno na URBIS: Poprvé jako jeden celek se svými společnostmi. V unikátní expozici se dozvíte o inovativních projektech města</title>
-      <link>https://cosedeje.brno.cz//w/brno-na-urbis-poprve-jako-jeden-celek-se-svymi-spolecnostmi-v-unikatni-expozici-se-dozvite-o-inovativnich-projektech-mesta</link>
-      <description>Brno na URBIS: Poprvé jako jeden celek se svými společnostmi. V unikátní expozici se dozvíte o inovativních projektech města</description>
-    </item>
-    <item>
       <title>Jak strávíte víkend vy? Otevírají se kostely a slaví se Den dětí</title>
       <link>https://cosedeje.brno.cz//w/jak-stravite-vikend-vy-oteviraji-se-kostely-a-slavi-se-den-deti</link>
       <description>Jak strávíte víkend vy? Otevírají se kostely a slaví se Den dětí</description>
@@ -105,6 +100,16 @@
       <description>Do Brna přichází víkend plný festivalů, soutěží a kultury</description>
     </item>
     <item>
+      <title>Na náměstí Svobody se vrací Velká cena České republiky</title>
+      <link>https://cosedeje.brno.cz//w/na-namesti-svobody-se-vraci-velka-cena-ceske-republiky</link>
+      <description>Na náměstí Svobody se vrací Velká cena České republiky</description>
+    </item>
+    <item>
+      <title>Celkem 105 odstřelů a 40 tisíc tun vyvezeného materiálu. Tunel tramvajové trati na Kamechy je proražený</title>
+      <link>https://cosedeje.brno.cz//w/celkem-105-odstrelu-a-40-tisic-tun-vyvezeneho-materialu-tunel-tramvajove-trati-na-kamechy-je-prorazeny-1</link>
+      <description>Celkem 105 odstřelů a 40 tisíc tun vyvezeného materiálu. Tunel tramvajové trati na Kamechy je proražený</description>
+    </item>
+    <item>
       <title>REGIOJET IGNIS BRUNENSIS promění na začátku prázdnin Brněnskou přehradu v multimediální jeviště. Umělecké ohňostroje Finska, Švýcarska a Česka doplní dvě světelné show s premiérou 500 dronů i laserový maják</title>
       <link>https://cosedeje.brno.cz//w/regiojet-ignis-brunensis-promeni-na-zacatku-prazdnin-brnenskou-prehradu-v-multimedialni-jeviste-umelecke-ohnostroje-finska-svycarska-a-ceska-doplni-dve-svetelne-show-s-premierou-500-dronu-i-laserovy-majak</link>
       <description>REGIOJET IGNIS BRUNENSIS promění na začátku prázdnin Brněnskou přehradu v multimediální jeviště. Umělecké ohňostroje Finska, Švýcarska a Česka doplní dvě světelné show s premiérou 500 dronů i laserový maják</description>
@@ -118,16 +123,6 @@
       <title>Na sobotní akci Festivalu zdraví ve jménu prevence dorazilo kolem 2000 návštěvníků</title>
       <link>https://cosedeje.brno.cz//w/festival-zdravi-se-zameruje-na-prevenci-na-sobotni-akci-dorazilo-kolem-2000-navstevniku</link>
       <description>Na sobotní akci Festivalu zdraví ve jménu prevence dorazilo kolem 2000 návštěvníků</description>
-    </item>
-    <item>
-      <title>Celkem 105 odstřelů a 40 tisíc tun vyvezeného materiálu. Tunel tramvajové trati na Kamechy je proražený</title>
-      <link>https://cosedeje.brno.cz//w/celkem-105-odstrelu-a-40-tisic-tun-vyvezeneho-materialu-tunel-tramvajove-trati-na-kamechy-je-prorazeny-1</link>
-      <description>Celkem 105 odstřelů a 40 tisíc tun vyvezeného materiálu. Tunel tramvajové trati na Kamechy je proražený</description>
-    </item>
-    <item>
-      <title>Na náměstí Svobody se vrací Velká cena České republiky</title>
-      <link>https://cosedeje.brno.cz//w/na-namesti-svobody-se-vraci-velka-cena-ceske-republiky</link>
-      <description>Na náměstí Svobody se vrací Velká cena České republiky</description>
     </item>
     <item>
       <title>Bazén na Ponávce dostane novou vanu a rozšíří se</title>
@@ -168,6 +163,11 @@
       <title>Město nabídne studujícím další dva byty za výhodnou cenu</title>
       <link>https://cosedeje.brno.cz//w/mesto-nabidne-studujicim-dalsi-dva-byty-za-vyhodnou-cenu</link>
       <description>Město nabídne studujícím další dva byty za výhodnou cenu</description>
+    </item>
+    <item>
+      <title>MyMachine poprvé v Česku: Děti navrhly vynálezy snů. Studenti je proměnili ve skutečnost</title>
+      <link>https://cosedeje.brno.cz//w/mymachine-poprve-v-cesku-deti-navrhly-vynalezy-snu-studenti-je-promenili-ve-skutecnost</link>
+      <description>MyMachine poprvé v Česku: Děti navrhly vynálezy snů. Studenti je proměnili ve skutečnost</description>
     </item>
     <item>
       <title>

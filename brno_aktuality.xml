@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 14 Jun 2026 17:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:44:24 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Do Brna přichází víkend plný festivalů, soutěží a kultury</title>
-      <link>https://cosedeje.brno.cz//w/do-brna-prichazi-vikend-plny-festivalu-soutezi-a-kultury</link>
-      <description>Do Brna přichází víkend plný festivalů, soutěží a kultury</description>
     </item>
     <item>
       <title>Na náměstí Svobody se vrací Velká cena České republiky</title>
@@ -168,6 +163,11 @@
       <title>Festival Life! propojí fanoušky gamingu, sportu i tance. Nejvýhodnější vstupenky v prodeji pouze do konce června</title>
       <link>https://cosedeje.brno.cz//w/festival-life-propoji-fanousky-gamingu-sportu-i-tance-nejvyhodnejsi-vstupenky-v-prodeji-pouze-do-konce-cervna</link>
       <description>Festival Life! propojí fanoušky gamingu, sportu i tance. Nejvýhodnější vstupenky v prodeji pouze do konce června</description>
+    </item>
+    <item>
+      <title>Brno ztratilo významného vědce. Zemřel neurolog Ivan Rektor</title>
+      <link>https://cosedeje.brno.cz//w/brno-ztratilo-vyznamneho-vedce-zemrel-neurolog-ivan-rektor</link>
+      <description>Brno ztratilo významného vědce. Zemřel neurolog Ivan Rektor</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 24 Jun 2026 14:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:45:41 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -70,46 +70,6 @@
       <description>Aktuality</description>
     </item>
     <item>
-      <title>Dostupné bydlení pro mladé páry i studující: o volné byty se hlásí do července</title>
-      <link>https://cosedeje.brno.cz//w/dostupne-bydleni-pro-mlade-pary-i-studujici-o-volne-byty-se-hlasi-do-cervence</link>
-      <description>Dostupné bydlení pro mladé páry i studující: o volné byty se hlásí do července</description>
-    </item>
-    <item>
-      <title>Mladí Brňané mění své školy k lepšímu. Autoři inspirativních projektů převzali ocenění na Nové radnici</title>
-      <link>https://cosedeje.brno.cz//w/mladi-brnane-meni-sve-skoly-k-lepsimu-autori-inspirativnich-projektu-prevezmou-oceneni-na-nove-radnici</link>
-      <description>Mladí Brňané mění své školy k lepšímu. Autoři inspirativních projektů převzali ocenění na Nové radnici</description>
-    </item>
-    <item>
-      <title>Město bude směňovat pozemky, cílem je získání prostoru pro výstavbu dostupného bydlení</title>
-      <link>https://cosedeje.brno.cz//w/mesto-bude-smenovat-pozemky-cilem-je-ziskani-prostoru-pro-vystavbu-dostupneho-bydleni</link>
-      <description>Město bude směňovat pozemky, cílem je získání prostoru pro výstavbu dostupného bydlení</description>
-    </item>
-    <item>
-      <title>Peníze pro Starez: půjdou na modernizaci hlavní budovy Riviéry i na letošní akce</title>
-      <link>https://cosedeje.brno.cz//w/penize-pro-starez-pujdou-na-modernizaci-hlavni-budovy-riviery-i-na-letosni-akce</link>
-      <description>Peníze pro Starez: půjdou na modernizaci hlavní budovy Riviéry i na letošní akce</description>
-    </item>
-    <item>
-      <title>V Černovicích by měla vzniknout curlingová hala</title>
-      <link>https://cosedeje.brno.cz//w/v-cernovicich-by-mela-vzniknout-curlingova-hala</link>
-      <description>V Černovicích by měla vzniknout curlingová hala</description>
-    </item>
-    <item>
-      <title>Organizátoři hlásí připraveno. Monster Energy Grand Prix České republiky 2026 poprvé startuje ještě před prázdninami</title>
-      <link>https://cosedeje.brno.cz//w/organizatori-hlasi-pripraveno-monster-energy-grand-prix-ceske-republiky-2026-poprve-startuje-jeste-pred-prazdninami</link>
-      <description>Organizátoři hlásí připraveno. Monster Energy Grand Prix České republiky 2026 poprvé startuje ještě před prázdninami</description>
-    </item>
-    <item>
-      <title>Biskupství opraví školu na Jánské, město mu přispěje 30 miliony</title>
-      <link>https://cosedeje.brno.cz//w/biskupstvi-opravi-skolu-na-janske-mesto-mu-prispeje-30-miliony</link>
-      <description>Biskupství opraví školu na Jánské, město mu přispěje 30 miliony</description>
-    </item>
-    <item>
-      <title>Věčný „nesnesitelně lehký“ spánek Milana Kundery.  V Brně ho uložili do čestného hrobu</title>
-      <link>https://cosedeje.brno.cz//w/vecny-nesnesitelne-lehky-spanek-milana-kundery-v-brne-ho-ulozili-do-cestneho-hrobu</link>
-      <description>Věčný „nesnesitelně lehký“ spánek Milana Kundery.  V Brně ho uložili do čestného hrobu</description>
-    </item>
-    <item>
       <title>Odstartovala příprava nové strategie Brněnské metropolitní oblasti po roce 2027</title>
       <link>https://cosedeje.brno.cz//w/odstartovala-priprava-nove-strategie-brnenske-metropolitni-oblasti-po-roce-2027</link>
       <description>Odstartovala příprava nové strategie Brněnské metropolitní oblasti po roce 2027</description>
@@ -168,6 +128,46 @@
       <title>Moderní stadion pro dnešní dobu. Vznikne projektová dokumentace na částečnou rekonstrukci Srbské</title>
       <link>https://cosedeje.brno.cz//w/moderni-stadion-pro-dnesni-dobu-vznikne-projektova-dokumentace-na-castecnou-rekonstrukci-srbske</link>
       <description>Moderní stadion pro dnešní dobu. Vznikne projektová dokumentace na částečnou rekonstrukci Srbské</description>
+    </item>
+    <item>
+      <title>Odkaz významného genetika má zůstat živý. Radní podpořili zařazení hrobu Jaroslava Kříženeckého mezi významné hroby Brna</title>
+      <link>https://cosedeje.brno.cz//w/odkaz-vyznamneho-genetika-ma-zustat-zivy-radni-podporili-zarazeni-hrobu-jaroslava-krizeneckeho-mezi-vyznamne-hroby-brna</link>
+      <description>Odkaz významného genetika má zůstat živý. Radní podpořili zařazení hrobu Jaroslava Kříženeckého mezi významné hroby Brna</description>
+    </item>
+    <item>
+      <title>Krása, udržitelnost a inkluze. Dotační program pro kreativce pokračuje devátou etapou</title>
+      <link>https://cosedeje.brno.cz//w/krasa-udrzitelnost-a-inkluze-dotacni-program-pro-kreativce-pokracuje-devatou-etapou</link>
+      <description>Krása, udržitelnost a inkluze. Dotační program pro kreativce pokračuje devátou etapou</description>
+    </item>
+    <item>
+      <title>Moderní stadion pro dnešní dobu. Vznikne projektová dokumentace na částečnou rekonstrukci Srbské</title>
+      <link>https://cosedeje.brno.cz//w/moderni-stadion-pro-dnesni-dobu-vznikne-projektova-dokumentace-na-castecnou-rekonstrukci-srbske-1</link>
+      <description>Moderní stadion pro dnešní dobu. Vznikne projektová dokumentace na částečnou rekonstrukci Srbské</description>
+    </item>
+    <item>
+      <title>Jak obstát v krizi? Brno hledá cesty k větší odolnosti města</title>
+      <link>https://cosedeje.brno.cz//w/jak-obstat-v-krizi-brno-hleda-cesty-k-vetsi-odolnosti-mesta</link>
+      <description>Jak obstát v krizi? Brno hledá cesty k větší odolnosti města</description>
+    </item>
+    <item>
+      <title>Přes 150 obcí v Brněnské metropolitní oblasti zhodnotilo vztah k Brnu</title>
+      <link>https://cosedeje.brno.cz//w/pres-150-obci-v-brnenske-metropolitni-oblasti-zhodnotilo-vztah-k-brnu</link>
+      <description>Přes 150 obcí v Brněnské metropolitní oblasti zhodnotilo vztah k Brnu</description>
+    </item>
+    <item>
+      <title>Ať žije kultura! Akce od festivalů po edukaci zadotuje město bezmála 108 miliony korun</title>
+      <link>https://cosedeje.brno.cz//w/at-zije-kultura-akce-od-festivalu-po-edukaci-zadotuje-mesto-bezmala-108-miliony-korun</link>
+      <description>Ať žije kultura! Akce od festivalů po edukaci zadotuje město bezmála 108 miliony korun</description>
+    </item>
+    <item>
+      <title>Brno bude i nadále podporovat vědecké talenty prostřednictvím JCMM</title>
+      <link>https://cosedeje.brno.cz//w/brno-bude-i-nadale-podporovat-vedecke-talenty-prostrednictvim-jcmm</link>
+      <description>Brno bude i nadále podporovat vědecké talenty prostřednictvím JCMM</description>
+    </item>
+    <item>
+      <title>Dlouhodobá strategie města doznala dílčích změn</title>
+      <link>https://cosedeje.brno.cz//w/dlouhodoba-strategie-mesta-doznala-dilcich-zmen</link>
+      <description>Dlouhodobá strategie města doznala dílčích změn</description>
     </item>
     <item>
       <title>

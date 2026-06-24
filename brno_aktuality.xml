@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 24 Jun 2026 10:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:02:58 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno ztratilo významného vědce. Zemřel neurolog Ivan Rektor</title>
-      <link>https://cosedeje.brno.cz//w/brno-ztratilo-vyznamneho-vedce-zemrel-neurolog-ivan-rektor</link>
-      <description>Brno ztratilo významného vědce. Zemřel neurolog Ivan Rektor</description>
     </item>
     <item>
       <title>Dostupné bydlení pro mladé páry i studující: o volné byty se hlásí do července</title>
@@ -168,6 +163,11 @@
       <title>O koncesním řízení na stavbu fotbalového stadionu rozhodnou zastupitelé později. Nadto projednali další desítky bodů</title>
       <link>https://cosedeje.brno.cz//w/o-koncesnim-rizeni-na-stavbu-fotbaloveho-stadionu-rozhodnou-zastupitele-pozdeji-jednali-take-o-novych-nazvech-ulic-dotacich-nebo-druzstevnim-bydleni</link>
       <description>O koncesním řízení na stavbu fotbalového stadionu rozhodnou zastupitelé později. Nadto projednali další desítky bodů</description>
+    </item>
+    <item>
+      <title>Moderní stadion pro dnešní dobu. Vznikne projektová dokumentace na částečnou rekonstrukci Srbské</title>
+      <link>https://cosedeje.brno.cz//w/moderni-stadion-pro-dnesni-dobu-vznikne-projektova-dokumentace-na-castecnou-rekonstrukci-srbske</link>
+      <description>Moderní stadion pro dnešní dobu. Vznikne projektová dokumentace na částečnou rekonstrukci Srbské</description>
     </item>
     <item>
       <title>

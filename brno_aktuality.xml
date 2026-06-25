@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 25 Jun 2026 10:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:59:39 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Odstartovala příprava nové strategie Brněnské metropolitní oblasti po roce 2027</title>
-      <link>https://cosedeje.brno.cz//w/odstartovala-priprava-nove-strategie-brnenske-metropolitni-oblasti-po-roce-2027</link>
-      <description>Odstartovala příprava nové strategie Brněnské metropolitní oblasti po roce 2027</description>
     </item>
     <item>
       <title>Víkend bude ve znamení MotoGP. Koná se i festival v Kamence nebo dobročinný bazárek</title>
@@ -168,6 +163,11 @@
       <title>Na horníky při ražbě kolektoru pod ulicí Českou dohlédnou sošky sv. Barbory</title>
       <link>https://cosedeje.brno.cz//w/na-horniky-pri-razbe-kolektoru-pod-ulici-ceskou-dohlednou-sosky-sv-barbory</link>
       <description>Na horníky při ražbě kolektoru pod ulicí Českou dohlédnou sošky sv. Barbory</description>
+    </item>
+    <item>
+      <title>Mendel festival propojí vědu, vzdělávání a zábavu pro celé rodiny. Nově nabídne i Den trusu</title>
+      <link>https://cosedeje.brno.cz//w/mendel-festival-propoji-vedu-vzdelavani-a-zabavu-pro-cele-rodiny-nove-nabidne-i-den-trusu</link>
+      <description>Mendel festival propojí vědu, vzdělávání a zábavu pro celé rodiny. Nově nabídne i Den trusu</description>
     </item>
     <item>
       <title>

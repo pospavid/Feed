@@ -7,7 +7,7 @@ from traceback import format_exc
 def soup_create(url,site_title,site_description):
     global soup, fg, fe, web_url
     # Getting soup of website
-    resp = requests.get(url)
+    resp = requests.get(url, verify=False)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.content, 'html.parser')
     # Creating the feed

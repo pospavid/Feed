@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 20 Jul 2026 13:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 17:16:39 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -140,11 +140,6 @@
       <description>Město podepsalo smlouvu se zhotovitelem družstevního bydlení na Kamenném vrchu</description>
     </item>
     <item>
-      <title>Další mladé páry mají šanci bydlet v Brně levněji</title>
-      <link>https://cosedeje.brno.cz//w/dalsi-mlade-pary-maji-sanci-bydlet-v-brne-levneji</link>
-      <description>Další mladé páry mají šanci bydlet v Brně levněji</description>
-    </item>
-    <item>
       <title>Poslední zastávka při cestě na popraviště? Záhadný Zderadův sloup se dočkal opravy</title>
       <link>https://cosedeje.brno.cz//w/posledni-zastavka-pri-ceste-na-popraviste-zahadny-zderaduv-sloup-se-dockal-opravy</link>
       <description>Poslední zastávka při cestě na popraviště? Záhadný Zderadův sloup se dočkal opravy</description>
@@ -168,6 +163,11 @@
       <title>Brněnská USE-IT mapa jako první v Evropě zahrnuje i okolí města</title>
       <link>https://cosedeje.brno.cz//w/brnenska-use-it-mapa-jako-prvni-v-evrope-zahrnuje-i-okoli-mesta</link>
       <description>Brněnská USE-IT mapa jako první v Evropě zahrnuje i okolí města</description>
+    </item>
+    <item>
+      <title>Další mladé páry a samoživitelé mají šanci bydlet v Brně levněji</title>
+      <link>https://cosedeje.brno.cz//w/dalsi-mlade-pary-maji-sanci-bydlet-v-brne-levneji</link>
+      <description>Další mladé páry a samoživitelé mají šanci bydlet v Brně levněji</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:41:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:38:12 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>V Tuřanech vznikne nový Dům zdraví</title>
-      <link>https://cosedeje.brno.cz//w/v-turanech-vznikne-novy-dum-zdravi</link>
-      <description>V Tuřanech vznikne nový Dům zdraví</description>
     </item>
     <item>
       <title>Rezidentní parkování se v létě rozšíří do Bohunic</title>
@@ -168,6 +163,11 @@
       <title>Výběr zhotovitele varhan pro Janáčkovo kulturní centrum jde do finále. Trojice uchazečů má zaslat finální nabídky</title>
       <link>https://cosedeje.brno.cz//w/vyber-zhotovitele-varhan-pro-janackovo-kulturni-centrum-jde-do-finale-trojice-uchazecu-ma-zaslat-finalni-nabidky</link>
       <description>Výběr zhotovitele varhan pro Janáčkovo kulturní centrum jde do finále. Trojice uchazečů má zaslat finální nabídky</description>
+    </item>
+    <item>
+      <title>Mapa pro mladé cestovatele USE-IT poprvé zobrazuje Brno i jeho okolí. V Evropě se jedná o unikát</title>
+      <link>https://cosedeje.brno.cz//w/mapa-pro-mlade-cestovatele-use-it-poprve-zobrazuje-brno-i-jeho-okoli-v-evrope-se-jedna-o-unikat</link>
+      <description>Mapa pro mladé cestovatele USE-IT poprvé zobrazuje Brno i jeho okolí. V Evropě se jedná o unikát</description>
     </item>
     <item>
       <title>

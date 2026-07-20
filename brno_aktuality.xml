@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:44:23 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování se v létě rozšíří do Bohunic</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-se-v-lete-rozsiri-do-bohunic</link>
-      <description>Rezidentní parkování se v létě rozšíří do Bohunic</description>
     </item>
     <item>
       <title>Brno spouští svůj Portál občana. Díky ověřené identitě v něm lidé požádají o byt nebo zaplatí poplatek za psa</title>
@@ -168,6 +163,11 @@
       <title>Mapa pro mladé cestovatele USE-IT poprvé zobrazuje Brno i jeho okolí. V Evropě se jedná o unikát</title>
       <link>https://cosedeje.brno.cz//w/mapa-pro-mlade-cestovatele-use-it-poprve-zobrazuje-brno-i-jeho-okoli-v-evrope-se-jedna-o-unikat</link>
       <description>Mapa pro mladé cestovatele USE-IT poprvé zobrazuje Brno i jeho okolí. V Evropě se jedná o unikát</description>
+    </item>
+    <item>
+      <title>Brněnská USE-IT mapa jako první v Evropě zahrnuje i okolí města</title>
+      <link>https://cosedeje.brno.cz//w/brnenska-use-it-mapa-jako-prvni-v-evrope-zahrnuje-i-okoli-mesta</link>
+      <description>Brněnská USE-IT mapa jako první v Evropě zahrnuje i okolí města</description>
     </item>
     <item>
       <title>

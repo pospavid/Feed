@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Jul 2026 13:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:05:18 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno spouští svůj Portál občana. Díky ověřené identitě v něm lidé požádají o byt nebo zaplatí poplatek za psa</title>
-      <link>https://cosedeje.brno.cz//w/brno-spousti-svuj-portal-obcana-diky-overene-identite-v-nem-lide-pozadaji-o-byt-nebo-zaplati-poplatek-za-psa</link>
-      <description>Brno spouští svůj Portál občana. Díky ověřené identitě v něm lidé požádají o byt nebo zaplatí poplatek za psa</description>
-    </item>
-    <item>
-      <title>Bydlete ve svém, v novostavbě a za cenu nákladů. Město zve mladé lidi do dalších dvou projektů družstevního bydlení</title>
-      <link>https://cosedeje.brno.cz//w/bydlete-ve-svem-v-novostavbe-a-za-cenu-nakladu-mesto-zve-mlade-lidi-do-dalsich-dvou-projektu-druzstevniho-bydleni</link>
-      <description>Bydlete ve svém, v novostavbě a za cenu nákladů. Město zve mladé lidi do dalších dvou projektů družstevního bydlení</description>
     </item>
     <item>
       <title>Už rok opřádá Brno solidární síť Místní místním</title>
@@ -168,6 +158,16 @@
       <title>Další mladé páry a samoživitelé mají šanci bydlet v Brně levněji</title>
       <link>https://cosedeje.brno.cz//w/dalsi-mlade-pary-maji-sanci-bydlet-v-brne-levneji</link>
       <description>Další mladé páry a samoživitelé mají šanci bydlet v Brně levněji</description>
+    </item>
+    <item>
+      <title>ShipEx Aréna je připravena na ligové boje</title>
+      <link>https://cosedeje.brno.cz//w/shipex-arena-je-pripravena-na-ligove-boje</link>
+      <description>ShipEx Aréna je připravena na ligové boje</description>
+    </item>
+    <item>
+      <title>ShipEx Aréna na Srbské přivítá prvoligový fotbal</title>
+      <link>https://cosedeje.brno.cz//w/shipex-arena-na-srbske-privita-prvoligovy-fotbal</link>
+      <description>ShipEx Aréna na Srbské přivítá prvoligový fotbal</description>
     </item>
     <item>
       <title>

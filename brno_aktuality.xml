@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 26 Jul 2026 16:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:59:43 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno vybralo zhotovitele parkovacího domu v Novém Lískovci</title>
-      <link>https://cosedeje.brno.cz//w/brno-vybralo-zhotovitele-parkovaciho-domu-v-novem-liskovci</link>
-      <description>Brno vybralo zhotovitele parkovacího domu v Novém Lískovci</description>
     </item>
     <item>
       <title>Laskavý pedagog Václav Cejpek se odebral do divadelního nebe</title>
@@ -168,6 +163,11 @@
       <title>Nabitý letní víkend: těšte se na venkovní festivaly i na historickou prohlídku</title>
       <link>https://cosedeje.brno.cz//w/nabity-letni-vikend-teste-se-na-venkovni-festivaly-i-na-historickou-prohlidku</link>
       <description>Nabitý letní víkend: těšte se na venkovní festivaly i na historickou prohlídku</description>
+    </item>
+    <item>
+      <title>Procházka s bonusem. Objevte v Brně nová místa i informace</title>
+      <link>https://cosedeje.brno.cz//w/prochazka-s-bonusem-objevte-v-brne-nova-mista-i-informace</link>
+      <description>Procházka s bonusem. Objevte v Brně nová místa i informace</description>
     </item>
     <item>
       <title>

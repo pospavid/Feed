@@ -26,21 +26,21 @@ def export_rss(xml_file):
 #===============================================================
 # Bydlení Brno
 #-------------
-soup_create("https://bydleni.brno.cz/aktuality/","Bydlení Brno","RSS feed aktualit z webu bydleni.brno.cz")
+#soup_create("https://bydleni.brno.cz/aktuality/","Bydlení Brno","RSS feed aktualit z webu bydleni.brno.cz")
 # Parsing articles from soup
-articles = soup.select('div.col')
-for arcticle in articles:
-    odkaz = arcticle.find("a")
-    title = arcticle.find("small")
+#articles = soup.select('div.col')
+#for arcticle in articles:
+#    odkaz = arcticle.find("a")
+#    title = arcticle.find("small")
 
-    fe = fg.add_entry()
-    fe.title(title.text)
-    fe.link(href=odkaz["href"])
-    fe.description(title.text)
-export_rss("bydleni_brno_aktuality.xml")
-fg = None
-soup = None
-fe = None
+    #fe = fg.add_entry()
+    #fe.title(title.text)
+    #fe.link(href=odkaz["href"])
+    #fe.description(title.text)
+#export_rss("bydleni_brno_aktuality.xml")
+#fg = None
+#soup = None
+#fe = None
 #==============================================================
 # Brno
 #-------------

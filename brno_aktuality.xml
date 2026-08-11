@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 11 Aug 2026 08:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:37:18 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>ShipEx Aréna je připravena na ligové boje</title>
-      <link>https://cosedeje.brno.cz//w/shipex-arena-je-pripravena-na-ligove-boje</link>
-      <description>ShipEx Aréna je připravena na ligové boje</description>
     </item>
     <item>
       <title>ShipEx Aréna na Srbské přivítá prvoligový fotbal</title>
@@ -168,6 +163,11 @@
       <title>Víkend bude patřit hudbě, planetám, fotbalu či vile Tugendhat. Co si vyberete vy?</title>
       <link>https://cosedeje.brno.cz//w/vikend-bude-patrit-hudbe-planetam-fotbalu-ci-vile-tugendhat-co-si-vyberete-vy-</link>
       <description>Víkend bude patřit hudbě, planetám, fotbalu či vile Tugendhat. Co si vyberete vy?</description>
+    </item>
+    <item>
+      <title>Budiž světlo. Lampy svítí na cestu nočním Brnem už 245 let</title>
+      <link>https://cosedeje.brno.cz//w/budiz-svetlo-lampy-sviti-na-cestu-nocnim-brnem-uz-245-let</link>
+      <description>Budiž světlo. Lampy svítí na cestu nočním Brnem už 245 let</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 17 Aug 2026 16:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:20:58 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Sály na Nové radnici se opět otevřou veřejnosti. Od čtvrtka do neděle poskytnou útočiště před vedrem</title>
-      <link>https://cosedeje.brno.cz//w/saly-na-nove-radnici-se-opet-otevrou-verejnosti-od-ctvrtka-do-nedele-poskytnou-utociste-pred-vedrem</link>
-      <description>Sály na Nové radnici se opět otevřou veřejnosti. Od čtvrtka do neděle poskytnou útočiště před vedrem</description>
     </item>
     <item>
       <title>Další vedra přichází. Hlídejte si pitný režim a myslete na své blízké</title>
@@ -168,6 +163,11 @@
       <title>Letošní ŠTETL FEST oživí vypálenou synagogu, oslaví 100. Lustigovy narozeniny a zve na výlet i mimo Brno</title>
       <link>https://cosedeje.brno.cz//w/letosni-stetl-fest-ozivi-vypalenou-synagogu-oslavi-100-lustigovy-narozeniny-a-zve-na-vylet-i-mimo-brno</link>
       <description>Letošní ŠTETL FEST oživí vypálenou synagogu, oslaví 100. Lustigovy narozeniny a zve na výlet i mimo Brno</description>
+    </item>
+    <item>
+      <title>Provoz registru vozidel je po silných deštích omezen</title>
+      <link>https://cosedeje.brno.cz//w/provoz-registru-vozidel-je-omezen-po-silnych-destich</link>
+      <description>Provoz registru vozidel je po silných deštích omezen</description>
     </item>
     <item>
       <title>

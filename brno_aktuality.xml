@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:22:17 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Město chce odkoupit další akcie společnosti Brněnské vodárny a kanalizace</title>
-      <link>https://cosedeje.brno.cz//w/mesto-chce-odkoupit-dalsi-akcie-spolecnosti-brnenske-vodarny-a-kanalizace</link>
-      <description>Město chce odkoupit další akcie společnosti Brněnské vodárny a kanalizace</description>
     </item>
     <item>
       <title>Brno připravuje akční plán pro zvládání veder. Dílčí opatření už fungují nyní</title>
@@ -168,6 +163,11 @@
       <title>Brno zve o víkendu na dožínky, česko-ukrajinský festival i duel Artisu se Spartou</title>
       <link>https://cosedeje.brno.cz//w/brno-zve-o-vikendu-na-dozinky-cesko-ukrajinsky-festival-i-duel-artisu-se-spartou</link>
       <description>Brno zve o víkendu na dožínky, česko-ukrajinský festival i duel Artisu se Spartou</description>
+    </item>
+    <item>
+      <title>Studenti, bydlete za dostupnou cenu! Město nabízí další sdílený byt</title>
+      <link>https://cosedeje.brno.cz//w/studenti-bydlete-za-dostupnou-cenu-mesto-nabizi-dalsi-sdileny-byt</link>
+      <description>Studenti, bydlete za dostupnou cenu! Město nabízí další sdílený byt</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:21:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:27:56 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno připravuje akční plán pro zvládání veder. Dílčí opatření už fungují nyní</title>
-      <link>https://cosedeje.brno.cz//w/brno-pripravuje-akcni-plan-pro-zvladani-veder-dilci-opatreni-uz-funguji-nyni</link>
-      <description>Brno připravuje akční plán pro zvládání veder. Dílčí opatření už fungují nyní</description>
-    </item>
-    <item>
-      <title>Brno podpoří nábytkovou banku, ta pomáhá lidem i životnímu prostředí</title>
-      <link>https://cosedeje.brno.cz//w/brno-podpori-nabytkovou-banku-ta-pomaha-lidem-i-zivotnimu-prostredi</link>
-      <description>Brno podpoří nábytkovou banku, ta pomáhá lidem i životnímu prostředí</description>
     </item>
     <item>
       <title>Vyrazte o víkendu za brazilskými rytmy, koncerty i divadlem</title>
@@ -168,6 +158,16 @@
       <title>Studenti, bydlete za dostupnou cenu! Město nabízí další sdílený byt</title>
       <link>https://cosedeje.brno.cz//w/studenti-bydlete-za-dostupnou-cenu-mesto-nabizi-dalsi-sdileny-byt</link>
       <description>Studenti, bydlete za dostupnou cenu! Město nabízí další sdílený byt</description>
+    </item>
+    <item>
+      <title>Brněnský metropolitan č. 9/2026</title>
+      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-9-2026</link>
+      <description>Brněnský metropolitan č. 9/2026</description>
+    </item>
+    <item>
+      <title>Podpora pro kreativní odvětví pokračuje devátou etapou</title>
+      <link>https://cosedeje.brno.cz//w/podpora-pro-kreativni-odvetvi-pokracuje-devatou-etapou</link>
+      <description>Podpora pro kreativní odvětví pokračuje devátou etapou</description>
     </item>
     <item>
       <title>

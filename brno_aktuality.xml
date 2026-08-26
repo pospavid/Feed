@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:39:40 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,26 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>„Za lepší komunikaci.“ Brněnské komunikace startují dlouhodobou kampaň proti agresi a dávají nahlédnout do zákulisí své práce</title>
-      <link>https://cosedeje.brno.cz//w/-za-lepsi-komunikaci-brnenske-komunikace-startuji-dlouhodobou-kampan-proti-agresi-a-davaji-nahlednout-do-zakulisi-sve-prace</link>
-      <description>„Za lepší komunikaci.“ Brněnské komunikace startují dlouhodobou kampaň proti agresi a dávají nahlédnout do zákulisí své práce</description>
-    </item>
-    <item>
-      <title>Letní odstávky krytých bazénů: kde se opravuje a kdy se znovu otevře</title>
-      <link>https://cosedeje.brno.cz//w/letni-odstavky-krytych-bazenu-kde-se-opravuje-a-kdy-se-znovu-otevre</link>
-      <description>Letní odstávky krytých bazénů: kde se opravuje a kdy se znovu otevře</description>
-    </item>
-    <item>
-      <title>Druhý poločas pro planety na Kraví hoře. Nafukovací modely jsou k vidění do neděle</title>
-      <link>https://cosedeje.brno.cz//w/druhy-polocas-pro-planety-na-kravi-hore-nafukovaci-modely-jsou-k-videni-do-nedele</link>
-      <description>Druhý poločas pro planety na Kraví hoře. Nafukovací modely jsou k vidění do neděle</description>
-    </item>
-    <item>
-      <title>Přijďte se opět zchladit na Novou radnici</title>
-      <link>https://cosedeje.brno.cz//w/prijdte-se-opet-zchladit-na-novou-radnici</link>
-      <description>Přijďte se opět zchladit na Novou radnici</description>
     </item>
     <item>
       <title>Víkend bude patřit hudbě, planetám, fotbalu či vile Tugendhat. Co si vyberete vy?</title>
@@ -165,9 +145,29 @@
       <description>Městské peníze pomohou s opravami i chodem škol</description>
     </item>
     <item>
-      <title>Devět lokalit je vhodných pro výstavbu nebo navýšení kapacit zařízení pro seniory. Nejdále je v přípravě domov na Žebětínské</title>
+      <title>V Akátkách vyroste nová interaktivní naučná stezka</title>
+      <link>https://cosedeje.brno.cz//w/v-akatkach-vyroste-nova-interaktivni-naucna-stezka</link>
+      <description>V Akátkách vyroste nová interaktivní naučná stezka</description>
+    </item>
+    <item>
+      <title>Brno bude mít efektivní nástroj na řízení města při povodni</title>
+      <link>https://cosedeje.brno.cz//w/brno-bude-mit-efektivni-nastroj-na-rizeni-mesta-pri-povodni</link>
+      <description>Brno bude mít efektivní nástroj na řízení města při povodni</description>
+    </item>
+    <item>
+      <title>Aby nebyl start tak náročný – Brno plánuje podpořit mladé při vstupu do samostatného života</title>
+      <link>https://cosedeje.brno.cz//w/aby-nebyl-start-tak-narocny-brno-planuje-podporit-mlade-pri-vstupu-do-samostatneho-zivota</link>
+      <description>Aby nebyl start tak náročný – Brno plánuje podpořit mladé při vstupu do samostatného života</description>
+    </item>
+    <item>
+      <title>Jedenáct lokalit je vhodných pro výstavbu nebo navýšení kapacit zařízení pro seniory. Nejdále je v přípravě domov na Žebětínské</title>
       <link>https://cosedeje.brno.cz//w/devet-lokalit-je-vhodnych-pro-vystavbu-nebo-navyseni-kapacit-zarizeni-pro-seniory-nejdale-je-v-priprave-domov-na-zebetinske</link>
-      <description>Devět lokalit je vhodných pro výstavbu nebo navýšení kapacit zařízení pro seniory. Nejdále je v přípravě domov na Žebětínské</description>
+      <description>Jedenáct lokalit je vhodných pro výstavbu nebo navýšení kapacit zařízení pro seniory. Nejdále je v přípravě domov na Žebětínské</description>
+    </item>
+    <item>
+      <title>Problematice bezdomovectví se bude věnovat nová pracovní skupina</title>
+      <link>https://cosedeje.brno.cz//w/problematice-bezdomovectvi-se-bude-venovat-nova-pracovni-skupina</link>
+      <description>Problematice bezdomovectví se bude věnovat nová pracovní skupina</description>
     </item>
     <item>
       <title>

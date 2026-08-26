@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:28:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:25:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování začne platit v oblasti Spodní</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-zacne-platit-v-oblasti-spodni</link>
-      <description>Rezidentní parkování začne platit v oblasti Spodní</description>
-    </item>
-    <item>
-      <title>Oslava tradic a folklóru se blíží. První brněnské celoměstské hody začínají za necelé dva týdny</title>
-      <link>https://cosedeje.brno.cz//w/oslava-tradic-a-folkloru-se-blizi-prvni-brnenske-celomestske-hody-zacinaji-za-necele-dva-tydny</link>
-      <description>Oslava tradic a folklóru se blíží. První brněnské celoměstské hody začínají za necelé dva týdny</description>
     </item>
     <item>
       <title>„Za lepší komunikaci.“ Brněnské komunikace startují dlouhodobou kampaň proti agresi a dávají nahlédnout do zákulisí své práce</title>
@@ -168,6 +158,16 @@
       <title>Studenti, bydlete za dostupnou cenu! Město nabízí další sdílený byt</title>
       <link>https://cosedeje.brno.cz//w/studenti-bydlete-za-dostupnou-cenu-mesto-nabizi-dalsi-sdileny-byt-1</link>
       <description>Studenti, bydlete za dostupnou cenu! Město nabízí další sdílený byt</description>
+    </item>
+    <item>
+      <title>Městské peníze pomohou s opravami i chodem škol</title>
+      <link>https://cosedeje.brno.cz//w/mestske-penize-pomohou-s-opravami-i-chodem-skol</link>
+      <description>Městské peníze pomohou s opravami i chodem škol</description>
+    </item>
+    <item>
+      <title>Devět lokalit je vhodných pro výstavbu nebo navýšení kapacit zařízení pro seniory. Nejdále je v přípravě domov na Žebětínské</title>
+      <link>https://cosedeje.brno.cz//w/devet-lokalit-je-vhodnych-pro-vystavbu-nebo-navyseni-kapacit-zarizeni-pro-seniory-nejdale-je-v-priprave-domov-na-zebetinske</link>
+      <description>Devět lokalit je vhodných pro výstavbu nebo navýšení kapacit zařízení pro seniory. Nejdále je v přípravě domov na Žebětínské</description>
     </item>
     <item>
       <title>

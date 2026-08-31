@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 30 Aug 2026 18:53:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 15:36:38 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Nová pravidla pro parkování ve Starém Lískovci: Zóna Dunajská odstartuje září</title>
-      <link>https://cosedeje.brno.cz//w/nova-pravidla-pro-parkovani-ve-starem-liskovci-zona-dunajska-odstartuje-zari</link>
-      <description>Nová pravidla pro parkování ve Starém Lískovci: Zóna Dunajská odstartuje září</description>
     </item>
     <item>
       <title>Brněnské hody se blíží. Krojovaný průvod projde centrem města</title>
@@ -168,6 +163,11 @@
       <title>Rozlučte se s prázdninami festivaly, historií nebo volejbalem</title>
       <link>https://cosedeje.brno.cz//w/rozlucte-se-s-prazdninami-festivaly-historii-nebo-volejbalem</link>
       <description>Rozlučte se s prázdninami festivaly, historií nebo volejbalem</description>
+    </item>
+    <item>
+      <title>Probudit aktivní přístup k dění ve městě u žáků a studentů – s tím pomůže nový Sešit jako BRNO</title>
+      <link>https://cosedeje.brno.cz//w/probudit-aktivni-pristup-k-deni-ve-meste-u-zaku-a-studentu-s-tim-pomuze-novy-sesit-jako-brno</link>
+      <description>Probudit aktivní přístup k dění ve městě u žáků a studentů – s tím pomůže nový Sešit jako BRNO</description>
     </item>
     <item>
       <title>

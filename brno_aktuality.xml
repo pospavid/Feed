@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 01 Sep 2026 12:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:56:51 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Provoz registru vozidel je po silných deštích omezen</title>
-      <link>https://cosedeje.brno.cz//w/provoz-registru-vozidel-je-omezen-po-silnych-destich</link>
-      <description>Provoz registru vozidel je po silných deštích omezen</description>
     </item>
     <item>
       <title>Evropský šampionát volejbalistek v Brně startuje. Trenér Athanasopoulos oznámil nominaci</title>
@@ -168,6 +163,11 @@
       <title>Podzim ve znamení kreativity. K Festivalu Kreativní Brno se letos připojí 11 akcí</title>
       <link>https://cosedeje.brno.cz//w/podzim-ve-znameni-kreativity-k-festivalu-kreativni-brno-se-letos-pripoji-11-akci</link>
       <description>Podzim ve znamení kreativity. K Festivalu Kreativní Brno se letos připojí 11 akcí</description>
+    </item>
+    <item>
+      <title>Tramvajová smyčka Ečerova prošla kompletní modernizací, aby tudy mohly tramvaje pokračovat po nové trati na Kamechy</title>
+      <link>https://cosedeje.brno.cz//w/tramvajova-smycka-ecerova-prosla-kompletni-modernizaci-aby-tudy-mohly-tramvaje-pokracovat-po-nove-trati-na-kamechy</link>
+      <description>Tramvajová smyčka Ečerova prošla kompletní modernizací, aby tudy mohly tramvaje pokračovat po nové trati na Kamechy</description>
     </item>
     <item>
       <title>

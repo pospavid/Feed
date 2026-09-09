@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 09 Sep 2026 12:32:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:54:29 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,36 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Prvňáčci zamířili do lavic, start jim zpříjemnily dárkové balíčky</title>
-      <link>https://cosedeje.brno.cz//w/prvnacci-zamirili-do-lavic-start-jim-zprijemnily-darkove-balicky</link>
-      <description>Prvňáčci zamířili do lavic, start jim zpříjemnily dárkové balíčky</description>
-    </item>
-    <item>
-      <title>Znáte někoho, kdo nezištně pomáhá druhým? Nominace na cenu Křesadlo začínají dnes</title>
-      <link>https://cosedeje.brno.cz//w/znate-nekoho-kdo-nezistne-pomaha-druhym-nominace-na-cenu-kresadlo-zacinaji-dnes</link>
-      <description>Znáte někoho, kdo nezištně pomáhá druhým? Nominace na cenu Křesadlo začínají dnes</description>
-    </item>
-    <item>
-      <title>Podzim ve znamení kreativity. K Festivalu Kreativní Brno se letos připojí 11 akcí</title>
-      <link>https://cosedeje.brno.cz//w/podzim-ve-znameni-kreativity-k-festivalu-kreativni-brno-se-letos-pripoji-11-akci</link>
-      <description>Podzim ve znamení kreativity. K Festivalu Kreativní Brno se letos připojí 11 akcí</description>
-    </item>
-    <item>
-      <title>Tramvajová smyčka Ečerova prošla kompletní modernizací, aby tudy mohly tramvaje pokračovat po nové trati na Kamechy</title>
-      <link>https://cosedeje.brno.cz//w/tramvajova-smycka-ecerova-prosla-kompletni-modernizaci-aby-tudy-mohly-tramvaje-pokracovat-po-nove-trati-na-kamechy</link>
-      <description>Tramvajová smyčka Ečerova prošla kompletní modernizací, aby tudy mohly tramvaje pokračovat po nové trati na Kamechy</description>
-    </item>
-    <item>
-      <title>Menstruace není tabu a můžeme o ní mluvit. Holky a kluky z brněnských základních škol čekají speciální workshopy</title>
-      <link>https://cosedeje.brno.cz//w/menstruace-neni-tabu-a-muzeme-o-ni-mluvit-holky-a-kluky-z-brnenskych-zakladnich-skol-cekaji-specialni-workshopy</link>
-      <description>Menstruace není tabu a můžeme o ní mluvit. Holky a kluky z brněnských základních škol čekají speciální workshopy</description>
-    </item>
-    <item>
-      <title>Střediska volného času mohou počítat s příspěvkem na energie ve výši 1,46 milionu Kč</title>
-      <link>https://cosedeje.brno.cz//w/strediska-volneho-casu-mohou-pocitat-s-prispevkem-na-energie-ve-vysi-1-46-milionu-kc</link>
-      <description>Střediska volného času mohou počítat s příspěvkem na energie ve výši 1,46 milionu Kč</description>
     </item>
     <item>
       <title>Perlička chce přijmout více žáků. Město podpoří rozšíření kapacity školy</title>
@@ -168,6 +138,36 @@
       <title>Brno rozezní žestě: Soutěž s třicetiletou tradicí hostí lesní roh a tubu</title>
       <link>https://cosedeje.brno.cz//w/brno-rozezni-zeste-soutez-s-tricetiletou-tradici-hosti-lesni-roh-a-tubu</link>
       <description>Brno rozezní žestě: Soutěž s třicetiletou tradicí hostí lesní roh a tubu</description>
+    </item>
+    <item>
+      <title>Další brněnští školáci budou objevovat příběhy pamětníků</title>
+      <link>https://cosedeje.brno.cz//w/dalsi-brnensti-skolaci-budou-objevovat-pribehy-pametniku</link>
+      <description>Další brněnští školáci budou objevovat příběhy pamětníků</description>
+    </item>
+    <item>
+      <title>Brno plánuje podpořit mladé dospělé při vstupu do samostatného života, požádá o evropskou dotaci</title>
+      <link>https://cosedeje.brno.cz//w/brno-planuje-podporit-mlade-dospele-pri-vstupu-do-samostatneho-zivota-pozada-o-evropskou-dotaci</link>
+      <description>Brno plánuje podpořit mladé dospělé při vstupu do samostatného života, požádá o evropskou dotaci</description>
+    </item>
+    <item>
+      <title>V Jehnicích se otevřelo nové dětské hřiště Palouček</title>
+      <link>https://cosedeje.brno.cz//w/v-jehnicich-se-otevrelo-nove-detske-hriste-paloucek</link>
+      <description>V Jehnicích se otevřelo nové dětské hřiště Palouček</description>
+    </item>
+    <item>
+      <title>V Medlánkách se připravuje přírodní hřbitov. Ten židenický projde rekonstrukcí</title>
+      <link>https://cosedeje.brno.cz//w/v-medlankach-se-pripravuje-prirodni-hrbitov-ten-zidenicky-projde-rekonstrukci</link>
+      <description>V Medlánkách se připravuje přírodní hřbitov. Ten židenický projde rekonstrukcí</description>
+    </item>
+    <item>
+      <title>Podpis dohody s Veletrhy Brno otevírá cestu pro Green Planet: National Aquarium. V Brně vznikne akvárium evropského významu</title>
+      <link>https://cosedeje.brno.cz//w/podpis-dohody-s-veletrhy-brno-otevira-cestu-pro-green-planet-national-aquarium-v-brne-vznikne-akvarium-evropskeho-vyznamu</link>
+      <description>Podpis dohody s Veletrhy Brno otevírá cestu pro Green Planet: National Aquarium. V Brně vznikne akvárium evropského významu</description>
+    </item>
+    <item>
+      <title>Brno pupkem seriálového světa. Už podeváté</title>
+      <link>https://cosedeje.brno.cz//w/brno-pupkem-serialoveho-sveta-uz-podevate</link>
+      <description>Brno pupkem seriálového světa. Už podeváté</description>
     </item>
     <item>
       <title>

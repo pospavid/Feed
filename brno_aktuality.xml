@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:54:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:26:16 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,21 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Perlička chce přijmout více žáků. Město podpoří rozšíření kapacity školy</title>
-      <link>https://cosedeje.brno.cz//w/perlicka-chce-prijmout-vice-zaku-mesto-podpori-rozsireni-kapacity-skoly</link>
-      <description>Perlička chce přijmout více žáků. Město podpoří rozšíření kapacity školy</description>
-    </item>
-    <item>
-      <title>Sportovní dotace podpoří mládež, velké akce i nutné opravy</title>
-      <link>https://cosedeje.brno.cz//w/sportovni-dotace-podpori-mladez-velke-akce-i-nutne-opravy</link>
-      <description>Sportovní dotace podpoří mládež, velké akce i nutné opravy</description>
-    </item>
-    <item>
-      <title>V Brně se opět střetnou nejlepší hráči počítačových a mobilních her</title>
-      <link>https://cosedeje.brno.cz//w/v-brne-se-opet-stretnou-nejlepsi-hraci-pocitacovych-a-mobilnich-her</link>
-      <description>V Brně se opět střetnou nejlepší hráči počítačových a mobilních her</description>
     </item>
     <item>
       <title>Září patří lokálním potravinám. Vyrazte na farmářské trhy nebo objevte příběh svého jídla</title>
@@ -168,6 +153,21 @@
       <title>Brno pupkem seriálového světa. Už podeváté</title>
       <link>https://cosedeje.brno.cz//w/brno-pupkem-serialoveho-sveta-uz-podevate</link>
       <description>Brno pupkem seriálového světa. Už podeváté</description>
+    </item>
+    <item>
+      <title>T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program</title>
+      <link>https://cosedeje.brno.cz//w/t-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program</link>
+      <description>T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program</description>
+    </item>
+    <item>
+      <title>Znáte někoho, kdo nezištně pomáhá druhým? Nominujte ho na Křesadlo</title>
+      <link>https://cosedeje.brno.cz//w/znate-nekoho-kdo-nezistne-pomaha-druhym-nominujte-ho-na-kresadlo</link>
+      <description>Znáte někoho, kdo nezištně pomáhá druhým? Nominujte ho na Křesadlo</description>
+    </item>
+    <item>
+      <title>Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů</title>
+      <link>https://cosedeje.brno.cz//w/pod-ceskou-se-razi-kolektor-hornici-pracuji-v-hloubce-az-osmi-metru</link>
+      <description>Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů</description>
     </item>
     <item>
       <title>

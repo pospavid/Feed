@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:46:52 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Září patří lokálním potravinám. Vyrazte na farmářské trhy nebo objevte příběh svého jídla</title>
-      <link>https://cosedeje.brno.cz//w/zari-patri-lokalnim-potravinam-vyrazte-na-farmarske-trhy-nebo-objevte-pribeh-sveho-jidla</link>
-      <description>Září patří lokálním potravinám. Vyrazte na farmářské trhy nebo objevte příběh svého jídla</description>
     </item>
     <item>
       <title>Brno pokračuje v modernizaci informačních a komunikačních systémů</title>
@@ -168,6 +163,11 @@
       <title>Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů</title>
       <link>https://cosedeje.brno.cz//w/pod-ceskou-se-razi-kolektor-hornici-pracuji-v-hloubce-az-osmi-metru</link>
       <description>Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů</description>
+    </item>
+    <item>
+      <title>Okolí nové lávky u Bílého domu se promění v odpočinkovou zónu</title>
+      <link>https://cosedeje.brno.cz//w/okoli-nove-lavky-u-bileho-domu-se-promeni-v-odpocinkovou-zonu</link>
+      <description>Okolí nové lávky u Bílého domu se promění v odpočinkovou zónu</description>
     </item>
     <item>
       <title>

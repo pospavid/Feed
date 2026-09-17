@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:22:20 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Znáte někoho, kdo nezištně pomáhá druhým? Nominujte ho na Křesadlo</title>
-      <link>https://cosedeje.brno.cz//w/znate-nekoho-kdo-nezistne-pomaha-druhym-nominujte-ho-na-kresadlo</link>
-      <description>Znáte někoho, kdo nezištně pomáhá druhým? Nominujte ho na Křesadlo</description>
     </item>
     <item>
       <title>Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů</title>
@@ -168,6 +163,11 @@
       <title>T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci</title>
       <link>https://cosedeje.brno.cz//w/t-arena-a-starobrno-predstavuji-novou-desitku-o-jejim-nazvu-rozhodnou-navstevnici</link>
       <description>T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci</description>
+    </item>
+    <item>
+      <title>Káznice se na čtyři dny otevře současnému umění. Faktor K nabídne divadlo, hudbu i neobvyklá setkání</title>
+      <link>https://cosedeje.brno.cz//w/kaznice-se-na-ctyri-dny-otevre-soucasnemu-umeni-faktor-k-nabidne-divadlo-hudbu-i-neobvykla-setkani</link>
+      <description>Káznice se na čtyři dny otevře současnému umění. Faktor K nabídne divadlo, hudbu i neobvyklá setkání</description>
     </item>
     <item>
       <title>

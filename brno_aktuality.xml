@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:50:39 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program</title>
-      <link>https://cosedeje.brno.cz//w/t-arena-se-poprve-predstavi-verejnosti-na-konci-zari-nabidne-prohlidky-i-vikendovy-program</link>
-      <description>T ARENA se poprvé představí veřejnosti. Na konci září nabídne prohlídky i víkendový program</description>
     </item>
     <item>
       <title>Znáte někoho, kdo nezištně pomáhá druhým? Nominujte ho na Křesadlo</title>
@@ -168,6 +163,11 @@
       <title>Evropská třída, dvě koncesní řízení nebo směna týkající se Anthroposu: zastupitelé kromě tohoto projednali dalších více než 300 bodů</title>
       <link>https://cosedeje.brno.cz//w/evropska-trida-dve-koncesni-rizeni-nebo-smena-tykajici-se-anthroposu-zastupitele-krome-tohoto-projednali-dalsich-vice-nez-300-bodu</link>
       <description>Evropská třída, dvě koncesní řízení nebo směna týkající se Anthroposu: zastupitelé kromě tohoto projednali dalších více než 300 bodů</description>
+    </item>
+    <item>
+      <title>T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci</title>
+      <link>https://cosedeje.brno.cz//w/t-arena-a-starobrno-predstavuji-novou-desitku-o-jejim-nazvu-rozhodnou-navstevnici</link>
+      <description>T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:25:28 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů</title>
-      <link>https://cosedeje.brno.cz//w/pod-ceskou-se-razi-kolektor-hornici-pracuji-v-hloubce-az-osmi-metru</link>
-      <description>Pod Českou se razí kolektor. Horníci pracují v hloubce až osmi metrů</description>
-    </item>
-    <item>
-      <title>Okolí nové lávky u Bílého domu se promění v odpočinkovou zónu</title>
-      <link>https://cosedeje.brno.cz//w/okoli-nove-lavky-u-bileho-domu-se-promeni-v-odpocinkovou-zonu</link>
-      <description>Okolí nové lávky u Bílého domu se promění v odpočinkovou zónu</description>
     </item>
     <item>
       <title>Ražba nového kolektoru je v plném proudu. Horníci pracují až v 8metrové hloubce</title>
@@ -168,6 +158,16 @@
       <title>Káznice se na čtyři dny otevře současnému umění. Faktor K nabídne divadlo, hudbu i neobvyklá setkání</title>
       <link>https://cosedeje.brno.cz//w/kaznice-se-na-ctyri-dny-otevre-soucasnemu-umeni-faktor-k-nabidne-divadlo-hudbu-i-neobvykla-setkani</link>
       <description>Káznice se na čtyři dny otevře současnému umění. Faktor K nabídne divadlo, hudbu i neobvyklá setkání</description>
+    </item>
+    <item>
+      <title>Kam vás zavede víkend? Od slovenského umění přes festival na náplavce až po největší funkční Lego jeřáb v Česku</title>
+      <link>https://cosedeje.brno.cz//w/kam-vas-zavede-vikend-od-slovenskeho-umeni-pres-festival-na-naplavce-az-po-nejvetsi-funkcni-lego-jerab-v-cesku</link>
+      <description>Kam vás zavede víkend? Od slovenského umění přes festival na náplavce až po největší funkční Lego jeřáb v Česku</description>
+    </item>
+    <item>
+      <title>Girlandy se nejdříve otestují, poté se případně osadí do ulic v centru</title>
+      <link>https://cosedeje.brno.cz//w/girlandy-se-nejdrive-otestuji-pote-se-pripadne-osadi-do-ulic-v-centru</link>
+      <description>Girlandy se nejdříve otestují, poté se případně osadí do ulic v centru</description>
     </item>
     <item>
       <title>

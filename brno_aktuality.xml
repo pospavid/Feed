@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:53:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 19:20:04 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Namísto demolice útočiště pro umělce a hudebníky</title>
-      <link>https://cosedeje.brno.cz//w/namisto-demolice-utociste-pro-umelce-a-hudebniky</link>
-      <description>Namísto demolice útočiště pro umělce a hudebníky</description>
     </item>
     <item>
       <title>Prodej pozemků za Lužánkami pro výstavbu fotbalového stadionu proběhne pod novou koncesí. Současné řízení dnes zastupitelstvo zrušilo</title>
@@ -168,6 +163,11 @@
       <title>Registr vozidel ode dneška funguje bez omezení</title>
       <link>https://cosedeje.brno.cz//w/registr-vozidel-ode-dneska-funguje-bez-omezeni</link>
       <description>Registr vozidel ode dneška funguje bez omezení</description>
+    </item>
+    <item>
+      <title>Brněnský metropolitan č. 10/2026</title>
+      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-10-2026</link>
+      <description>Brněnský metropolitan č. 10/2026</description>
     </item>
     <item>
       <title>

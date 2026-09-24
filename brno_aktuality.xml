@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:58:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 19:35:01 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci</title>
-      <link>https://cosedeje.brno.cz//w/t-arena-a-starobrno-predstavuji-novou-desitku-o-jejim-nazvu-rozhodnou-navstevnici</link>
-      <description>T ARENA a Starobrno představují novou desítku. O jejím názvu rozhodnou návštěvníci</description>
     </item>
     <item>
       <title>Káznice se na čtyři dny otevře současnému umění. Faktor K nabídne divadlo, hudbu i neobvyklá setkání</title>
@@ -168,6 +163,11 @@
       <title>Janáčkovo kulturní centrum a Besední dům propojí nejen podzemní chodba, ale také pojetí interiérů. Jejich dodavatel vzejde z veřejné zakázky</title>
       <link>https://cosedeje.brno.cz//w/janackovo-kulturni-centrum-a-besedni-dum-propoji-nejen-podzemni-chodba-ale-take-pojeti-interieru-jejich-dodavatel-vzejde-z-verejne-zakazky</link>
       <description>Janáčkovo kulturní centrum a Besední dům propojí nejen podzemní chodba, ale také pojetí interiérů. Jejich dodavatel vzejde z veřejné zakázky</description>
+    </item>
+    <item>
+      <title>Podepisujeme, klepeme, stavíme! Na Kamenném vrchu začíná výstavba družstevních bytů</title>
+      <link>https://cosedeje.brno.cz//w/podepisujeme-klepeme-stavime-na-kamennem-vrchu-zacina-vystavba-druzstevnich-bytu</link>
+      <description>Podepisujeme, klepeme, stavíme! Na Kamenném vrchu začíná výstavba družstevních bytů</description>
     </item>
     <item>
       <title>

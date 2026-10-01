@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 30 Sep 2026 20:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:53:40 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Protipovodňová opatření pokračují etapami IX–XI. Město začíná hledat zhotovitele</title>
-      <link>https://cosedeje.brno.cz//w/protipovodnova-opatreni-pokracuji-etapami-ix-xi-mesto-zacina-hledat-zhotovitele</link>
-      <description>Protipovodňová opatření pokračují etapami IX–XI. Město začíná hledat zhotovitele</description>
-    </item>
-    <item>
-      <title>Světelné show, komiksy nebo kutilství. Startuje Festival Kreativní Brno</title>
-      <link>https://cosedeje.brno.cz//w/svetelne-show-komiksy-nebo-kutilstvi-startuje-festival-kreativni-brno</link>
-      <description>Světelné show, komiksy nebo kutilství. Startuje Festival Kreativní Brno</description>
     </item>
     <item>
       <title>Bazén za Lužánkami čekají úpravy za 114 milionů korun</title>
@@ -168,6 +158,16 @@
       <title>Fotbalové centrum v Brněnských Ivanovicích čeká dostavba. Chystají se dvě nová hřiště i revitalizace okolí</title>
       <link>https://cosedeje.brno.cz//w/fotbalove-centrum-v-brnenskych-ivanovicich-ceka-dostavba-chystaji-se-dve-nova-hriste-i-revitalizace-okoli</link>
       <description>Fotbalové centrum v Brněnských Ivanovicích čeká dostavba. Chystají se dvě nová hřiště i revitalizace okolí</description>
+    </item>
+    <item>
+      <title>Bude z čeho vybírat! Do finálového hlasování Dáme na vás postoupilo nejvíce projektů v historii</title>
+      <link>https://cosedeje.brno.cz//w/bude-z-ceho-vybirat-do-finaloveho-hlasovani-dame-na-vas-postoupilo-nejvice-projektu-v-historii</link>
+      <description>Bude z čeho vybírat! Do finálového hlasování Dáme na vás postoupilo nejvíce projektů v historii</description>
+    </item>
+    <item>
+      <title>Teplárny Brno představily modernizovaný zdroj Brno-sever. Biomasa sníží spotřebu plynu i emise</title>
+      <link>https://cosedeje.brno.cz//w/teplarny-brno-predstavily-modernizovany-zdroj-brno-sever-biomasa-snizi-spotrebu-plynu-i-emise</link>
+      <description>Teplárny Brno představily modernizovaný zdroj Brno-sever. Biomasa sníží spotřebu plynu i emise</description>
     </item>
     <item>
       <title>

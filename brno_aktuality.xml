@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 01 Oct 2026 20:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:15:41 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Bazén za Lužánkami čekají úpravy za 114 milionů korun</title>
-      <link>https://cosedeje.brno.cz//w/bazen-za-luzankami-cekaji-upravy-za-114-milionu-korun</link>
-      <description>Bazén za Lužánkami čekají úpravy za 114 milionů korun</description>
     </item>
     <item>
       <title>Otevřený les na Špilberku bude zanedlouho hotový</title>
@@ -168,6 +163,11 @@
       <title>Teplárny Brno představily modernizovaný zdroj Brno-sever. Biomasa sníží spotřebu plynu i emise</title>
       <link>https://cosedeje.brno.cz//w/teplarny-brno-predstavily-modernizovany-zdroj-brno-sever-biomasa-snizi-spotrebu-plynu-i-emise</link>
       <description>Teplárny Brno představily modernizovaný zdroj Brno-sever. Biomasa sníží spotřebu plynu i emise</description>
+    </item>
+    <item>
+      <title>Víkendové tipy: užijte si umění všeho druhu i dopravní den</title>
+      <link>https://cosedeje.brno.cz//w/vikendove-tipy-uzijte-si-umeni-vseho-druhu-i-dopravni-den</link>
+      <description>Víkendové tipy: užijte si umění všeho druhu i dopravní den</description>
     </item>
     <item>
       <title>

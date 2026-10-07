@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:50:37 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Světový hokej zamíří do brněnské T ARENY. Město, kraj a svaz podepsaly smlouvu o spolupráci</title>
-      <link>https://cosedeje.brno.cz//w/svetovy-hokej-zamiri-do-brnenske-t-areny-mesto-kraj-a-svaz-podepsaly-smlouvu-o-spolupraci</link>
-      <description>Světový hokej zamíří do brněnské T ARENY. Město, kraj a svaz podepsaly smlouvu o spolupráci</description>
-    </item>
-    <item>
-      <title>Co chystá víkend: vydejte se na Noc vědy, Serial Killer či sportovní akce</title>
-      <link>https://cosedeje.brno.cz//w/co-chysta-vikend-vydejte-se-na-noc-vedy-serial-killer-ci-sportovni-akce</link>
-      <description>Co chystá víkend: vydejte se na Noc vědy, Serial Killer či sportovní akce</description>
     </item>
     <item>
       <title>VIDA! finišuje s největší obnovou expozice. Nový svět pro děti otevře začátkem roku</title>
@@ -168,6 +158,16 @@
       <title>Sociální bydlení i budoucnost čerpání evropských dotací. Řídicí výbor Brněnské metropolitní oblasti řešil končící i navazující programové období</title>
       <link>https://cosedeje.brno.cz//w/socialni-bydleni-i-budoucnost-cerpani-evropskych-dotaci-ridici-vybor-brnenske-metropolitni-oblasti-resil-koncici-i-navazujici-programove-obdobi</link>
       <description>Sociální bydlení i budoucnost čerpání evropských dotací. Řídicí výbor Brněnské metropolitní oblasti řešil končící i navazující programové období</description>
+    </item>
+    <item>
+      <title>Na Nové Zbrojovce vyroste moderní škola. S městem ji bude zřizovat Masarykova univerzita</title>
+      <link>https://cosedeje.brno.cz//w/na-nove-zbrojovce-vyroste-moderni-skola-s-mestem-ji-bude-zrizovat-masarykova-univerzita</link>
+      <description>Na Nové Zbrojovce vyroste moderní škola. S městem ji bude zřizovat Masarykova univerzita</description>
+    </item>
+    <item>
+      <title>Teplárny Brno představily dobíjecí HUB nové generace. Červený mlýn spojí ultrarychlé dobíjení s unikátním zázemím pro řidiče</title>
+      <link>https://cosedeje.brno.cz//w/teplarny-brno-predstavily-dobijeci-hub-nove-generace-cerveny-mlyn-spoji-ultrarychle-dobijeni-s-unikatnim-zazemim-pro-ridice</link>
+      <description>Teplárny Brno představily dobíjecí HUB nové generace. Červený mlýn spojí ultrarychlé dobíjení s unikátním zázemím pro řidiče</description>
     </item>
     <item>
       <title>

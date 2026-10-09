@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 08 Oct 2026 20:53:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:45:20 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno spouští pocitovou mapu celé metropolitní oblasti. Lidé mohou ukázat, kde se jim dobře žije a jaká místa potřebují změnu</title>
-      <link>https://cosedeje.brno.cz//w/brno-spousti-pocitovou-mapu-cele-metropolitni-oblasti-lide-mohou-ukazat-kde-se-jim-dobre-zije-a-jaka-mista-potrebuji-zmenu</link>
-      <description>Brno spouští pocitovou mapu celé metropolitní oblasti. Lidé mohou ukázat, kde se jim dobře žije a jaká místa potřebují změnu</description>
     </item>
     <item>
       <title>V brněnské Nové Zbrojovce vyroste unikátní klinická škola. Moderní vzdělávací areál propojí inovativní výuku s architekturou 21. století</title>
@@ -168,6 +163,11 @@
       <title>Centrum paliativní péče zve na den otevřených dveří</title>
       <link>https://cosedeje.brno.cz//w/centrum-paliativni-pece-zve-na-den-otevrenych-dveri</link>
       <description>Centrum paliativní péče zve na den otevřených dveří</description>
+    </item>
+    <item>
+      <title>Kam o víkendu? Vyrazte za komiksy, objevte alternativní umění a užijte si divadlo</title>
+      <link>https://cosedeje.brno.cz//w/kam-o-vikendu-vyrazte-za-komiksy-objevte-alternativni-umeni-a-uzijte-si-divadlo</link>
+      <description>Kam o víkendu? Vyrazte za komiksy, objevte alternativní umění a užijte si divadlo</description>
     </item>
     <item>
       <title>

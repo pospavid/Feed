@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 11 Oct 2026 19:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:05:50 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>V brněnské Nové Zbrojovce vyroste unikátní klinická škola. Moderní vzdělávací areál propojí inovativní výuku s architekturou 21. století</title>
-      <link>https://cosedeje.brno.cz//w/v-brnenske-nove-zbrojovce-vyroste-unikatni-klinicka-skola-moderni-vzdelavaci-areal-propoji-inovativni-vyuku-s-architekturou-21-stoleti</link>
-      <description>V brněnské Nové Zbrojovce vyroste unikátní klinická škola. Moderní vzdělávací areál propojí inovativní výuku s architekturou 21. století</description>
     </item>
     <item>
       <title>Den architektury ukáže, jak se v Brně proměňovalo bydlení</title>
@@ -168,6 +163,11 @@
       <title>Kam o víkendu? Vyrazte za komiksy, objevte alternativní umění a užijte si divadlo</title>
       <link>https://cosedeje.brno.cz//w/kam-o-vikendu-vyrazte-za-komiksy-objevte-alternativni-umeni-a-uzijte-si-divadlo</link>
       <description>Kam o víkendu? Vyrazte za komiksy, objevte alternativní umění a užijte si divadlo</description>
+    </item>
+    <item>
+      <title>Hlasy byly sečteny. V komunálních volbách přišlo v Brně odevzdat hlas 44,08 % oprávněných voličů</title>
+      <link>https://cosedeje.brno.cz//w/hlasy-byly-secteny-v-komunalnich-volbach-prislo-v-brne-odevzdat-hlas-44-08-opravnenych-volicu</link>
+      <description>Hlasy byly sečteny. V komunálních volbách přišlo v Brně odevzdat hlas 44,08 % oprávněných voličů</description>
     </item>
     <item>
       <title>

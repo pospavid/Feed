@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:55:21 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Víkendové tipy: užijte si umění všeho druhu i dopravní den</title>
-      <link>https://cosedeje.brno.cz//w/vikendove-tipy-uzijte-si-umeni-vseho-druhu-i-dopravni-den</link>
-      <description>Víkendové tipy: užijte si umění všeho druhu i dopravní den</description>
     </item>
     <item>
       <title>Rezidentní parkování začne platit v oblasti Kamenice</title>
@@ -168,6 +163,11 @@
       <title>Pomáhala potřebným, její připomínka pomůže zeleni. Památník Lucie Bakešové bude mít podobu hlubinného vrtu</title>
       <link>https://cosedeje.brno.cz//w/pomahala-potrebnym-jeji-pripominka-pomuze-zeleni-pamatnik-lucie-bakesove-bude-mit-podobu-hlubinneho-vrtu</link>
       <description>Pomáhala potřebným, její připomínka pomůže zeleni. Památník Lucie Bakešové bude mít podobu hlubinného vrtu</description>
+    </item>
+    <item>
+      <title>V nabídce je 16 startovacích bytů pro páry i jednotlivce</title>
+      <link>https://cosedeje.brno.cz//w/v-nabidce-je-16-startovacich-bytu-pro-pary-i-jednotlivce</link>
+      <description>V nabídce je 16 startovacích bytů pro páry i jednotlivce</description>
     </item>
     <item>
       <title>

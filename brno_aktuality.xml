@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 18 Oct 2026 18:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:05:00 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Sociální bydlení i budoucnost čerpání evropských dotací. Řídicí výbor Brněnské metropolitní oblasti řešil končící i navazující programové období</title>
-      <link>https://cosedeje.brno.cz//w/socialni-bydleni-i-budoucnost-cerpani-evropskych-dotaci-ridici-vybor-brnenske-metropolitni-oblasti-resil-koncici-i-navazujici-programove-obdobi</link>
-      <description>Sociální bydlení i budoucnost čerpání evropských dotací. Řídicí výbor Brněnské metropolitní oblasti řešil končící i navazující programové období</description>
     </item>
     <item>
       <title>Na Nové Zbrojovce vyroste moderní škola. S městem ji bude zřizovat Masarykova univerzita</title>
@@ -168,6 +163,11 @@
       <title>Nové nábřeží řeky Svratky ožívá venkovní šifrovací hrou</title>
       <link>https://cosedeje.brno.cz//w/nove-nabrezi-reky-svratky-oziva-venkovni-sifrovaci-hrou</link>
       <description>Nové nábřeží řeky Svratky ožívá venkovní šifrovací hrou</description>
+    </item>
+    <item>
+      <title>V senátním obvodu č. 60 obhájil post Zdeněk Papoušek</title>
+      <link>https://cosedeje.brno.cz//w/v-senatnim-obvodu-c-60-obhajil-post-zdenek-papousek</link>
+      <description>V senátním obvodu č. 60 obhájil post Zdeněk Papoušek</description>
     </item>
     <item>
       <title>

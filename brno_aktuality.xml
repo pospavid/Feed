@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:06:12 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Na Nové Zbrojovce vyroste moderní škola. S městem ji bude zřizovat Masarykova univerzita</title>
-      <link>https://cosedeje.brno.cz//w/na-nove-zbrojovce-vyroste-moderni-skola-s-mestem-ji-bude-zrizovat-masarykova-univerzita</link>
-      <description>Na Nové Zbrojovce vyroste moderní škola. S městem ji bude zřizovat Masarykova univerzita</description>
     </item>
     <item>
       <title>Teplárny Brno představily dobíjecí HUB nové generace. Červený mlýn spojí ultrarychlé dobíjení s unikátním zázemím pro řidiče</title>
@@ -168,6 +163,11 @@
       <title>V senátním obvodu č. 60 obhájil post Zdeněk Papoušek</title>
       <link>https://cosedeje.brno.cz//w/v-senatnim-obvodu-c-60-obhajil-post-zdenek-papousek</link>
       <description>V senátním obvodu č. 60 obhájil post Zdeněk Papoušek</description>
+    </item>
+    <item>
+      <title>Sloupky v parku Lužánky zamezí nepovoleným vjezdům</title>
+      <link>https://cosedeje.brno.cz//w/sloupky-v-parku-luzanky-zamezi-nepovolenym-vjezdum</link>
+      <description>Sloupky v parku Lužánky zamezí nepovoleným vjezdům</description>
     </item>
     <item>
       <title>

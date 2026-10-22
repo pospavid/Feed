@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:44:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:15:54 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Teplárny Brno představily dobíjecí HUB nové generace. Červený mlýn spojí ultrarychlé dobíjení s unikátním zázemím pro řidiče</title>
-      <link>https://cosedeje.brno.cz//w/teplarny-brno-predstavily-dobijeci-hub-nove-generace-cerveny-mlyn-spoji-ultrarychle-dobijeni-s-unikatnim-zazemim-pro-ridice</link>
-      <description>Teplárny Brno představily dobíjecí HUB nové generace. Červený mlýn spojí ultrarychlé dobíjení s unikátním zázemím pro řidiče</description>
-    </item>
-    <item>
-      <title>Budování mostů mezi Evropou a Spojenými státy prostřednictvím Living Labs, inovací a chytrých měst</title>
-      <link>https://cosedeje.brno.cz//w/budovani-mostu-mezi-evropou-a-spojenymi-staty-prostrednictvim-living-labs-inovaci-a-chytrych-mest</link>
-      <description>Budování mostů mezi Evropou a Spojenými státy prostřednictvím Living Labs, inovací a chytrých měst</description>
     </item>
     <item>
       <title>Centrum paliativní péče zve na den otevřených dveří</title>
@@ -168,6 +158,16 @@
       <title>Sloupky v parku Lužánky zamezí nepovoleným vjezdům</title>
       <link>https://cosedeje.brno.cz//w/sloupky-v-parku-luzanky-zamezi-nepovolenym-vjezdum</link>
       <description>Sloupky v parku Lužánky zamezí nepovoleným vjezdům</description>
+    </item>
+    <item>
+      <title>Odešel Zdeněk Müller, architekt spjatý s brněnským výstavištěm</title>
+      <link>https://cosedeje.brno.cz//w/odesel-zdenek-muller-architekt-spjaty-s-brnenskym-vystavistem</link>
+      <description>Odešel Zdeněk Müller, architekt spjatý s brněnským výstavištěm</description>
+    </item>
+    <item>
+      <title>Podpořte válečné veterány. Vlčí máky budou k dostání i na magistrátu</title>
+      <link>https://cosedeje.brno.cz//w/podporte-valecne-veterany-vlci-maky-budou-k-dostani-i-na-magistratu</link>
+      <description>Podpořte válečné veterány. Vlčí máky budou k dostání i na magistrátu</description>
     </item>
     <item>
       <title>

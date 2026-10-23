@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:36:31 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Kam o víkendu? Vyrazte za komiksy, objevte alternativní umění a užijte si divadlo</title>
-      <link>https://cosedeje.brno.cz//w/kam-o-vikendu-vyrazte-za-komiksy-objevte-alternativni-umeni-a-uzijte-si-divadlo</link>
-      <description>Kam o víkendu? Vyrazte za komiksy, objevte alternativní umění a užijte si divadlo</description>
     </item>
     <item>
       <title>Hlasy byly sečteny. V komunálních volbách přišlo v Brně odevzdat hlas 44,08 % oprávněných voličů</title>
@@ -168,6 +163,11 @@
       <title>Tipy na víkend: poznejte místní tvůrce, zajděte na výstavu nebo podpořte basketbalistky</title>
       <link>https://cosedeje.brno.cz//w/tipy-na-vikend-poznejte-mistni-tvurce-zajdete-na-vystavu-nebo-podporte-basketbalistky</link>
       <description>Tipy na víkend: poznejte místní tvůrce, zajděte na výstavu nebo podpořte basketbalistky</description>
+    </item>
+    <item>
+      <title>Předdušičkový průvodce brněnskými hřbitovy: Otevírací doba, vjezd i bezplatný minibus</title>
+      <link>https://cosedeje.brno.cz//w/preddusickovy-pruvodce-brnenskymi-hrbitovy-oteviraci-doba-vjezd-i-bezplatny-minibus</link>
+      <description>Předdušičkový průvodce brněnskými hřbitovy: Otevírací doba, vjezd i bezplatný minibus</description>
     </item>
     <item>
       <title>

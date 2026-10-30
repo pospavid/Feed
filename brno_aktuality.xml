@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:39:32 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Druhé kolo senátních voleb se blíží</title>
-      <link>https://cosedeje.brno.cz//w/druhe-kolo-senatnich-voleb-se-blizi</link>
-      <description>Druhé kolo senátních voleb se blíží</description>
-    </item>
-    <item>
-      <title>Pomáhala potřebným, její připomínka pomůže zeleni. Památník Lucie Bakešové bude mít podobu hlubinného vrtu</title>
-      <link>https://cosedeje.brno.cz//w/pomahala-potrebnym-jeji-pripominka-pomuze-zeleni-pamatnik-lucie-bakesove-bude-mit-podobu-hlubinneho-vrtu</link>
-      <description>Pomáhala potřebným, její připomínka pomůže zeleni. Památník Lucie Bakešové bude mít podobu hlubinného vrtu</description>
     </item>
     <item>
       <title>V nabídce je 16 startovacích bytů pro páry i jednotlivce</title>
@@ -168,6 +158,16 @@
       <title>Puntíky, které burcují. Lupénka nakažlivá není, předsudky bohužel ano</title>
       <link>https://cosedeje.brno.cz//w/puntiky-ktere-burcuji-lupenka-nakazliva-neni-predsudky-bohuzel-ano</link>
       <description>Puntíky, které burcují. Lupénka nakažlivá není, předsudky bohužel ano</description>
+    </item>
+    <item>
+      <title>O přízeň Brňanů a Brňanek se uchází rekordních 88 projektů. Hlasování letošního ročníku Dáme na vás začíná 1. listopadu</title>
+      <link>https://cosedeje.brno.cz//w/o-prizen-brnanu-a-brnanek-se-uchazi-rekordnich-88-projektu-hlasovani-letosniho-rocniku-dame-na-vas-zacina-1-listopadu</link>
+      <description>O přízeň Brňanů a Brňanek se uchází rekordních 88 projektů. Hlasování letošního ročníku Dáme na vás začíná 1. listopadu</description>
+    </item>
+    <item>
+      <title>Oranžový víkend osvítí dýně i svíčky</title>
+      <link>https://cosedeje.brno.cz//w/oranzovy-vikend-osviti-dyne-i-svicky</link>
+      <description>Oranžový víkend osvítí dýně i svíčky</description>
     </item>
     <item>
       <title>

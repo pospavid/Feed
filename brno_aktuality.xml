@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 01 Nov 2026 19:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:30:33 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rekonstrukce podchodu pod hlavním nádražím se posouvá dál – hledá se její zhotovitel</title>
-      <link>https://cosedeje.brno.cz//w/rekonstrukce-podchodu-pod-hlavnim-nadrazim-se-posouva-dal-hleda-se-jeji-zhotovitel</link>
-      <description>Rekonstrukce podchodu pod hlavním nádražím se posouvá dál – hledá se její zhotovitel</description>
     </item>
     <item>
       <title>Parkovací dům v Bystrci o krok blíž: radní schválili pravidla spolupráce</title>
@@ -168,6 +163,11 @@
       <title>Do finále participativního rozpočtu Dáme na vás postoupilo 88 projektů. Hlasování začíná 1. listopadu</title>
       <link>https://cosedeje.brno.cz//w/do-finale-participativniho-rozpoctu-dame-na-vas-postoupilo-88-projektu-hlasovani-zacina-1-listopadu</link>
       <description>Do finále participativního rozpočtu Dáme na vás postoupilo 88 projektů. Hlasování začíná 1. listopadu</description>
+    </item>
+    <item>
+      <title>Rezidentní parkování nově platí v oblasti Bosonožská</title>
+      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-zacne-platit-v-oblasti-bosonozska</link>
+      <description>Rezidentní parkování nově platí v oblasti Bosonožská</description>
     </item>
     <item>
       <title>

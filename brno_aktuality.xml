@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 05 Nov 2026 21:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:26:48 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Sloupky v parku Lužánky zamezí nepovoleným vjezdům</title>
-      <link>https://cosedeje.brno.cz//w/sloupky-v-parku-luzanky-zamezi-nepovolenym-vjezdum</link>
-      <description>Sloupky v parku Lužánky zamezí nepovoleným vjezdům</description>
     </item>
     <item>
       <title>Odešel Zdeněk Müller, architekt spjatý s brněnským výstavištěm</title>
@@ -168,6 +163,11 @@
       <title>Začínají přípravné práce na břehu Svratky a Svitavy. Realizace protipovodňových opatření se blíží</title>
       <link>https://cosedeje.brno.cz//w/zacinaji-pripravne-prace-na-brehu-svratky-a-svitavy-realizace-protipovodnovych-opatreni-se-blizi</link>
       <description>Začínají přípravné práce na břehu Svratky a Svitavy. Realizace protipovodňových opatření se blíží</description>
+    </item>
+    <item>
+      <title>Listopadový víkend ozvláštní program pro děti i kultura</title>
+      <link>https://cosedeje.brno.cz//w/listopadovy-vikend-ozvlastni-program-pro-deti-i-kultura</link>
+      <description>Listopadový víkend ozvláštní program pro děti i kultura</description>
     </item>
     <item>
       <title>

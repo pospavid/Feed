@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 17 Nov 2026 17:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:47:11 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Prevence na prvním místě – Brno v růžové pomáhá chránit zdraví</title>
-      <link>https://cosedeje.brno.cz//w/prevence-na-prvnim-miste-brno-ruzove-pomaha-chranit-zdravi</link>
-      <description>Prevence na prvním místě – Brno v růžové pomáhá chránit zdraví</description>
-    </item>
-    <item>
-      <title>Puntíky, které burcují. Lupénka nakažlivá není, předsudky bohužel ano</title>
-      <link>https://cosedeje.brno.cz//w/puntiky-ktere-burcuji-lupenka-nakazliva-neni-predsudky-bohuzel-ano</link>
-      <description>Puntíky, které burcují. Lupénka nakažlivá není, předsudky bohužel ano</description>
     </item>
     <item>
       <title>O přízeň Brňanů a Brňanek se uchází rekordních 87 projektů. Hlasování letošního ročníku Dáme na vás začíná 1. listopadu</title>
@@ -168,6 +158,16 @@
       <title>Přivítejte Těsnohlídkův vánoční strom – na náměstí Svobody dorazí v sobotu</title>
       <link>https://cosedeje.brno.cz//w/privitejte-tesnohlidkuv-vanocni-strom-na-namesti-svobody-dorazi-v-sobotu</link>
       <description>Přivítejte Těsnohlídkův vánoční strom – na náměstí Svobody dorazí v sobotu</description>
+    </item>
+    <item>
+      <title>Brno zjišťuje, jak se zde žije studentům a jak ovlivňují město</title>
+      <link>https://cosedeje.brno.cz//w/brno-zjistuje-jak-se-zde-zije-studentum-a-jak-ovlivnuji-mesto</link>
+      <description>Brno zjišťuje, jak se zde žije studentům a jak ovlivňují město</description>
+    </item>
+    <item>
+      <title>Brno chce zachovat kvalitu školních obědů i při uvolnění státních pravidel</title>
+      <link>https://cosedeje.brno.cz//w/brno-chce-zachovat-kvalitu-skolnich-obedu-i-pri-uvolneni-statnich-pravidel</link>
+      <description>Brno chce zachovat kvalitu školních obědů i při uvolnění státních pravidel</description>
     </item>
     <item>
       <title>

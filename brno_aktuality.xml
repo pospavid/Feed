@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 22 Nov 2026 21:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:35:51 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,11 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Rezidentní parkování nově platí v oblasti Bosonožská</title>
-      <link>https://cosedeje.brno.cz//w/rezidentni-parkovani-zacne-platit-v-oblasti-bosonozska</link>
-      <description>Rezidentní parkování nově platí v oblasti Bosonožská</description>
     </item>
     <item>
       <title>Novým brněnským primátorem se stal Jakub Hruška. Zastupitelé na svém ustavujícím zasedání zvolili i další členy Rady města Brna. Došlo i na podporu regionálních studií Českého rozhlasu a České televize</title>
@@ -168,6 +163,11 @@
       <title>Brno posiluje dialog s ombudsmankou i dětským ombudsmanem</title>
       <link>https://cosedeje.brno.cz//w/brno-posiluje-dialog-s-ombudsmankou-i-detskym-ombudsmanem</link>
       <description>Brno posiluje dialog s ombudsmankou i dětským ombudsmanem</description>
+    </item>
+    <item>
+      <title>Brněnský metropolitan č. 12/2026</title>
+      <link>https://cosedeje.brno.cz//w/brnensky-metropolitan-c-12-2026</link>
+      <description>Brněnský metropolitan č. 12/2026</description>
     </item>
     <item>
       <title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:56:45 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Brno zjišťuje, jak se zde žije studentům a jak ovlivňují město</title>
-      <link>https://cosedeje.brno.cz//w/brno-zjistuje-jak-se-zde-zije-studentum-a-jak-ovlivnuji-mesto</link>
-      <description>Brno zjišťuje, jak se zde žije studentům a jak ovlivňují město</description>
-    </item>
-    <item>
-      <title>Brno chce zachovat kvalitu školních obědů i při uvolnění státních pravidel</title>
-      <link>https://cosedeje.brno.cz//w/brno-chce-zachovat-kvalitu-skolnich-obedu-i-pri-uvolneni-statnich-pravidel</link>
-      <description>Brno chce zachovat kvalitu školních obědů i při uvolnění státních pravidel</description>
     </item>
     <item>
       <title>Výběr víkendových tipů: nemine vás festival Life! ani převoz vánočního stromu</title>
@@ -168,6 +158,16 @@
       <title>Litr vody v Brně za 12 haléřů: město schválilo nové tarify vodného a stočného pro rok 2027</title>
       <link>https://cosedeje.brno.cz//w/litr-vody-v-brne-za-12-haleru-mesto-schvalilo-nove-tarify-vodneho-a-stocneho-pro-rok-2027</link>
       <description>Litr vody v Brně za 12 haléřů: město schválilo nové tarify vodného a stočného pro rok 2027</description>
+    </item>
+    <item>
+      <title>Nejlepší nemocnici roku máme v Brně na Ponávce. „Úrazovka“ uspěla v konkurenci skoro 150 zařízení</title>
+      <link>https://cosedeje.brno.cz//w/nejlepsi-nemocnici-roku-mame-v-brne-na-ponavce-urazovka-uspela-v-konkurenci-skoro-150-zarizeni</link>
+      <description>Nejlepší nemocnici roku máme v Brně na Ponávce. „Úrazovka“ uspěla v konkurenci skoro 150 zařízení</description>
+    </item>
+    <item>
+      <title>Ulice Veselá a Solniční budou v době vánočních trhů klidnější</title>
+      <link>https://cosedeje.brno.cz//w/vvv</link>
+      <description>Ulice Veselá a Solniční budou v době vánočních trhů klidnější</description>
     </item>
     <item>
       <title>

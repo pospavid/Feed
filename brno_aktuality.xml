@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Nov 2026 17:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:42:11 +0000</lastBuildDate>
     <item>
       <title>
 
@@ -68,16 +68,6 @@
       <title>Aktuality</title>
       <link>https://cosedeje.brno.cz//aktuality</link>
       <description>Aktuality</description>
-    </item>
-    <item>
-      <title>Výběr víkendových tipů: nemine vás festival Life! ani převoz vánočního stromu</title>
-      <link>https://cosedeje.brno.cz//w/vyber-vikendovych-tipu-nemine-vas-festival-life-ani-prevoz-vanocniho-stromu</link>
-      <description>Výběr víkendových tipů: nemine vás festival Life! ani převoz vánočního stromu</description>
-    </item>
-    <item>
-      <title>Cenu města Brna by měly získat další osobnosti ze světa sportu, kultury či vědy</title>
-      <link>https://cosedeje.brno.cz//w/cenu-mesta-brna-by-mely-ziskat-dalsi-osobnosti-ze-sveta-sportu-kultury-ci-vedy</link>
-      <description>Cenu města Brna by měly získat další osobnosti ze světa sportu, kultury či vědy</description>
     </item>
     <item>
       <title>Krasobruslař, sochař nebo vědkyně. Cenu města Brna by měly získat další osobnosti</title>
@@ -168,6 +158,16 @@
       <title>Ulice Veselá a Solniční budou v době vánočních trhů klidnější</title>
       <link>https://cosedeje.brno.cz//w/vvv</link>
       <description>Ulice Veselá a Solniční budou v době vánočních trhů klidnější</description>
+    </item>
+    <item>
+      <title>Vánoční strom se rozzáří, kluziště otevřou. Brno vítá advent</title>
+      <link>https://cosedeje.brno.cz//w/vanocni-strom-se-rozzari-kluziste-otevrou-brno-vita-advent</link>
+      <description>Vánoční strom se rozzáří, kluziště otevřou. Brno vítá advent</description>
+    </item>
+    <item>
+      <title>Ředitel Martin Mikš požádal o uvolnění z funkce generálního ředitele společnosti STAREZ - SPORT. Jsou za tím především osobní a zdravotní důvody</title>
+      <link>https://cosedeje.brno.cz//w/reditel-martin-miks-pozadal-o-uvolneni-z-funkce-generalniho-reditele-spolecnosti-starez-sport-jsou-za-tim-predevsim-osobni-a-zdravotni-duvody</link>
+      <description>Ředitel Martin Mikš požádal o uvolnění z funkce generálního ředitele společnosti STAREZ - SPORT. Jsou za tím především osobní a zdravotní důvody</description>
     </item>
     <item>
       <title>
